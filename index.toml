@@ -1,0 +1,650 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/YAC.pw.toml"
+hash = "4866dc105d5957d5f22a8478f4b4250b42c93643f7f60d9692a2a6ef09e3ced2"
+metafile = true
+
+[[files]]
+file = "mods/admin-panel.pw.toml"
+hash = "ec9b62791d1f47cfe9c9bf2ae0b1b5ca134a295f4da894045c10fbda5816d31f"
+metafile = true
+
+[[files]]
+file = "mods/advancedperaphials.pw.toml"
+hash = "822610e5b09ed8ea34082979e77ebb244ecc494072fa3d6867dbfebd3cdb6140"
+metafile = true
+
+[[files]]
+file = "mods/advancedperipherals.pw.toml"
+hash = "793725ba4bdf253e470bc54c15c274db02ed5a5dbc2df953d7de3cb153a8cbcd"
+metafile = true
+
+[[files]]
+file = "mods/ae-ib.pw.toml"
+hash = "24a27ca167986f814027039a75ae456ad5528a59d4282d276f39830b2462dd53"
+metafile = true
+
+[[files]]
+file = "mods/ae2.pw.toml"
+hash = "5c403a8466f878375769fc2577c25936fc4b75f6ed272f2cad15819df504d44f"
+metafile = true
+
+[[files]]
+file = "mods/amendments.pw.toml"
+hash = "9dc73d023252816d83e08deb575dc35017508174096f680ba99ad13b51edbf86"
+metafile = true
+
+[[files]]
+file = "mods/architectury.pw.toml"
+hash = "07c0f3676d3e52362020e040c14bec6839c6b074de28b437017278f430a04ba2"
+metafile = true
+
+[[files]]
+file = "mods/bookshelf.pw.toml"
+hash = "bfff380ec687841331727dbe8822c0645ffb64c31c5e9cfc73a973890eeb6638"
+metafile = true
+
+[[files]]
+file = "mods/caelus.pw.toml"
+hash = "33cb3d459bdae1c9a77f516dc9a5a04150cebba1e905165552355a4a3eaaa356"
+metafile = true
+
+[[files]]
+file = "mods/cc-tweaked.pw.toml"
+hash = "bf357987540fb7a0fb7789a6dfb46fb26d93484758b23c120afc596c93374b39"
+metafile = true
+
+[[files]]
+file = "mods/cccbridge.pw.toml"
+hash = "ce1eb23594e675c56b0e21f191615f54cb28293586a47269b79d8e524d37299c"
+metafile = true
+
+[[files]]
+file = "mods/cctweaked.pw.toml"
+hash = "6e9e32e0fb7c05a1e7f5094464f9b17200a7ea998b3ea1cb342a9f62e5e42225"
+metafile = true
+
+[[files]]
+file = "mods/chat-heads.pw.toml"
+hash = "56d3e13cb8e83cd37a1a80f0234e73ff564db98c3f362329a393683df83cc820"
+metafile = true
+
+[[files]]
+file = "mods/chat-plus.pw.toml"
+hash = "84db4606553c5227eafa94ae25ae51475e24c32a9cc08f6e157fa9e5897faa63"
+metafile = true
+
+[[files]]
+file = "mods/chatia.pw.toml"
+hash = "d0742f88d114983a3f1260cbc41f9fefd2246f5f45562181d045886ad698f1bf"
+metafile = true
+
+[[files]]
+file = "mods/chatplus.pw.toml"
+hash = "fd0a9e8c1c2188c5a0e82ae3f36668f050ce7746f56ee6e198cc26b639293936"
+metafile = true
+
+[[files]]
+file = "mods/chunky.pw.toml"
+hash = "c5439b928de2bc0647d3fedc5120d5bedf6453abe3dc8b9f1047957516e05924"
+metafile = true
+
+[[files]]
+file = "mods/cloth.pw.toml"
+hash = "d7fe217cce27ccff2701de7bc95d4d61e5e1fcb0ebfc6c814b84fc9fd7b46ff8"
+metafile = true
+
+[[files]]
+file = "mods/clumps.pw.toml"
+hash = "e0a51da6a3868a161b1e63e31736cb49be10fce5eddb0386766a3959abf07860"
+metafile = true
+
+[[files]]
+file = "mods/copycats.pw.toml"
+hash = "f0f64a1e4a5510cdbcb04a7564a4beebe10c08971d7b702178f1ec1948111d24"
+metafile = true
+
+[[files]]
+file = "mods/craterlib.pw.toml"
+hash = "e5cec28b860697c68140a2e1fd6ba269e6d1e40f470cfd6e42ba8143acf0d1a1"
+metafile = true
+
+[[files]]
+file = "mods/create-dragons-plus.pw.toml"
+hash = "0292150c321a4327b4e67474017642c757bffb7e27c8e395e107049be110fed5"
+metafile = true
+
+[[files]]
+file = "mods/create-enchantable-machinery.pw.toml"
+hash = "070fc1968a24479f538b380e4004ab9b6bf00f8a726f631c498ff75d14689ccd"
+metafile = true
+
+[[files]]
+file = "mods/create-enchantment-industry.pw.toml"
+hash = "3d04917acc755d3ec8657765ae5a2e3ef6f38bebfe29b14ed9b64ef26f8f2dc5"
+metafile = true
+
+[[files]]
+file = "mods/create-power-loader.pw.toml"
+hash = "eb7a61545f1afc8d347de500b17e57b3b843bcf8a89cc3006af6b251d1934735"
+metafile = true
+
+[[files]]
+file = "mods/create-stock-bridge.pw.toml"
+hash = "3994362a1aa80f482d8306bd1c6d97d9ab6827b1179509ce0e83fed924fee446"
+metafile = true
+
+[[files]]
+file = "mods/create-ultimate-factory.pw.toml"
+hash = "d8af0e2d91add363f2c7aeb55a51bb74223359bb29d36512a65d21dc41727e44"
+metafile = true
+
+[[files]]
+file = "mods/create.pw.toml"
+hash = "12f576abb7c83f5d1b38d89fe37c393b21302556a3b8ca3afadbb1f6854ec889"
+metafile = true
+
+[[files]]
+file = "mods/createa.pw.toml"
+hash = "d76df02d31aa122739c9cc173e6cbb9e7c9bad7c817f94bbbcc94c4aac1bd889"
+metafile = true
+
+[[files]]
+file = "mods/createccl.pw.toml"
+hash = "2a4ae7735d227fabcc882d777a8a804c2f52c210b69727894426b867431a0642"
+metafile = true
+
+[[files]]
+file = "mods/createdp.pw.toml"
+hash = "c4844f02489f9b7d9ba6bb0f3189073716b5210a1b85470ffe8917ca62ff0ca4"
+metafile = true
+
+[[files]]
+file = "mods/createei.pw.toml"
+hash = "019887f2ec5da6e009e94030e69609a5b50e333bf6405541495f41e46053850c"
+metafile = true
+
+[[files]]
+file = "mods/createem.pw.toml"
+hash = "c26d31ed887c1d215b952376d7072af68d25d7d742fdd6cb66e23853793b8782"
+metafile = true
+
+[[files]]
+file = "mods/createf.pw.toml"
+hash = "dda8ca2716c05930d47c4ea831cd1f0971a1d00e9389eab23fe3f97b134f7d37"
+metafile = true
+
+[[files]]
+file = "mods/createpw.pw.toml"
+hash = "2e753900a6819885dca8db8ac4cadb307edf1c649c1ec5baec2bbfc60631b4ef"
+metafile = true
+
+[[files]]
+file = "mods/createrlib.pw.toml"
+hash = "f3c5ed31c1f9142cb8eb2568f2f6bf9a52e8900664e3625931abf44891fc1342"
+metafile = true
+
+[[files]]
+file = "mods/createsb.pw.toml"
+hash = "0da57d22300170e36b47ab622e89c8420e17bf293c5e935b4dad85558b108d16"
+metafile = true
+
+[[files]]
+file = "mods/createuf.pw.toml"
+hash = "f3eafc3b5b790701d022d90143d4aff2ba15afaf2598bd0f043d5efffe001174"
+metafile = true
+
+[[files]]
+file = "mods/curios.pw.toml"
+hash = "4c54ef590f0b436169433b5a0bf54b44abb09e765c465aece6b9e053f30c963a"
+metafile = true
+
+[[files]]
+file = "mods/elytraslot.pw.toml"
+hash = "49b992bafef0b7dfdde8058dd166ea6363505ee3774e640f4d5147198416884f"
+metafile = true
+
+[[files]]
+file = "mods/enchantment-descriptions.pw.toml"
+hash = "9e723d24a9bc78b1f630ead7f73e6ff66c9d93c2c8bfab42601f88e659dd83d4"
+metafile = true
+
+[[files]]
+file = "mods/entityc.pw.toml"
+hash = "0e7b796c2c5bd10253922910c08e014f49eb552aa3d24a03323651f0257b3705"
+metafile = true
+
+[[files]]
+file = "mods/essential.pw.toml"
+hash = "2ac281055df883cbf0e2b54b2e5946c9c761131844d982c3c46e91a18f1e4f1d"
+metafile = true
+
+[[files]]
+file = "mods/ferritecore.pw.toml"
+hash = "16f4a9e41870d86a1c2a05802f8747bf4f52cf62013e2dfaf8fb2b0339283e87"
+metafile = true
+
+[[files]]
+file = "mods/freecam.pw.toml"
+hash = "de7dd1a42c9125d384c8bca5370dcb095f5f3a1a9d2f942d078e392d5b96c075"
+metafile = true
+
+[[files]]
+file = "mods/guideme.pw.toml"
+hash = "7962dcd3acd83c4d58aac8324f77b0cd03ed204630da568169ef705710e32a6f"
+metafile = true
+
+[[files]]
+file = "mods/if.pw.toml"
+hash = "9e2b3f3d8823bbf6782fbe3c6d97c05a83082a1e69339a7c129f26166f15a087"
+metafile = true
+
+[[files]]
+file = "mods/iz.pw.toml"
+hash = "311eaaac6c594b3bb9fdcf57118e12cab214e469c5ab249bfe0597a46ade01a0"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+hash = "d2367ea6472a1a6e5e25b71153a909dc46d4404fc6d5f687779449df543ea6ec"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "3f7d2ff8175fd30b15ce8c2a7a7e06e42a0943c058f0922d13b27456a0ab84da"
+metafile = true
+
+[[files]]
+file = "mods/kotlinff.pw.toml"
+hash = "e24849a54e75cab529b4e7cece28bf7a7f3ce97c4186fd291d7e20247a108f14"
+metafile = true
+
+[[files]]
+file = "mods/loadsupport.pw.toml"
+hash = "6990509a0b365fbec2fe70fc330d3393fcb3a582919e544ffffc13026770ffba"
+metafile = true
+
+[[files]]
+file = "mods/mekansim.pw.toml"
+hash = "919af368be9ba9b44fedf409ce991a7fbb4d33e3332e402ad460d6fe40ad7dd0"
+metafile = true
+
+[[files]]
+file = "mods/mekc.pw.toml"
+hash = "372a6abddbd644742c2e462c42bb01092987592c9f8197399dda14a0d8fc5f61"
+metafile = true
+
+[[files]]
+file = "mods/mekg.pw.toml"
+hash = "e6a1904833023f7ffc9526347e4881f463efb6187960f91dfbaf2ce3ba331727"
+metafile = true
+
+[[files]]
+file = "mods/modelfix.pw.toml"
+hash = "0a19228dc979a588bde56118d5673c6d52b33ea5462b9ed9647496e4087763f1"
+metafile = true
+
+[[files]]
+file = "mods/modernfix.pw.toml"
+hash = "25c33655431c0486de826fc2be7fd1a58c3460d1335e4b4982dc16ecf0a9ad84"
+metafile = true
+
+[[files]]
+file = "mods/moonlight.pw.toml"
+hash = "bdd8c44aaa716fada7a4217ccdc3afa14b696828282a019dcc3a0af610eb3728"
+metafile = true
+
+[[files]]
+file = "mods/mousetweaks.pw.toml"
+hash = "bb44cbb654ff79f17f04a53f63ff89cddf77f7aa737c696f5b99b9d9bf7ea8d3"
+metafile = true
+
+[[files]]
+file = "mods/neocarpet.pw.toml"
+hash = "92566bdfa89dd70f5833927f205288fe5b35d690d3a3647c41dadba4d9bdf5a9"
+metafile = true
+
+[[files]]
+file = "mods/neojcm.pw.toml"
+hash = "bd347ced1cafc9640a11a24cb7a2cf207a7b51aed6ebb7d2b11e3a5c84852dcc"
+metafile = true
+
+[[files]]
+file = "mods/neolu.pw.toml"
+hash = "eb773a5e4eaa0a8549ec7f8716e037595582b30793ac308f7e1d3f3e1b21a84e"
+metafile = true
+
+[[files]]
+file = "mods/neomsd.pw.toml"
+hash = "63a333b93faf8b03b461e3ef2a48292b18d8d7637fc56e64f593e0a7f7dccccf"
+metafile = true
+
+[[files]]
+file = "mods/neomtr.pw.toml"
+hash = "b9416861dff4695cf4a7860f5fc7d8dd6c1fde2be18e63adcf65d8fd8c572286"
+metafile = true
+
+[[files]]
+file = "mods/prickle.pw.toml"
+hash = "438cd5ddb62f0261c8e071469747aa24a5ee0fd2a099ab45d1f637b881782f74"
+metafile = true
+
+[[files]]
+file = "mods/reforgedplaymod.pw.toml"
+hash = "ba287a13263f49538f6b4636fadca9d333b409e1965e9df73a2ce7b16a25f94b"
+metafile = true
+
+[[files]]
+file = "mods/security-craft.pw.toml"
+hash = "060902b23e9b9922a67b0fe37112162784b2d0e70abd4c5bf62f3f8717abc522"
+metafile = true
+
+[[files]]
+file = "mods/skinlayers3d.pw.toml"
+hash = "70d10c7073b5455c9e7aaeff5cf4a8ce54372fcec280be4f978f2e2170821b8e"
+metafile = true
+
+[[files]]
+file = "mods/slideshow.pw.toml"
+hash = "5bc8ca9ec418093a4da3c8324f70acf3604342bfa19bc92c2ae4f693b5601b0f"
+metafile = true
+
+[[files]]
+file = "mods/supplementaries.pw.toml"
+hash = "293ce58b883494dc3f27b1f430056001858adc3ad4d2acf8ac702dd645df0b6d"
+metafile = true
+
+[[files]]
+file = "mods/trafficcraft.pw.toml"
+hash = "662def819998e22290caef96d048bb8cb2c63b71ecef39a02594fa464e4e2bcd"
+metafile = true
+
+[[files]]
+file = "mods/voicechat.pw.toml"
+hash = "65c759a3db76399ac94835e3c2b384f581be02633f1c52eaf9c7b5fb42e75c6b"
+metafile = true
+
+[[files]]
+file = "mods/worldedit.pw.toml"
+hash = "c78f86e0e69e7355e42c08d628277fc310efdb3be80174a147ec94bb0f30cd57"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-mini.pw.toml"
+hash = "dea85d32b8c383515db5a4ac1415ddef2c2f83d40cfc7fd7033c24b0bf9159c6"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world.pw.toml"
+hash = "a7977b3fd41b8a1fe71e87854faa86ed528533dd63536a2d63057115457fd191"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-worldmap.pw.toml"
+hash = "b969763c4653c07ce899feb3ad9bcac45ff26d9030086bda21eba7815758f2b9"
+metafile = true
+
+[[files]]
+file = "mods1/AdvancedPeripherals.jar"
+hash = "55a51ab7657e5d43a00f998f36142c06776b27226924cb893ce0d628929d048c"
+
+[[files]]
+file = "mods1/ChatIA.jar"
+hash = "b3ec7839deeb9db9e4eafc8e501ae33b39ff1d2f1054e6eadaf8c6525e12388a"
+
+[[files]]
+file = "mods1/Clumps.jar"
+hash = "b524ccdace2ef8fd19f5b2074f7de1103ac5065c52553f064c00e098346c293e"
+
+[[files]]
+file = "mods1/CreaterLib.jar"
+hash = "189255780fd95d5e415167f09247c13a7cda0f74c7f93756b19a5c288dc6fe06"
+
+[[files]]
+file = "mods1/IF.jar"
+hash = "1998d56edb0ddb6caeedd09dd2fde405ee85cd8f706398cb8e08009fe9019058"
+
+[[files]]
+file = "mods1/Jade.jar"
+hash = "7087a9672a208071e774571423793d499a56adc8dd09fabe36f8652a3bb9c418"
+
+[[files]]
+file = "mods1/Mekanism.jar"
+hash = "0be01fe153c17a8aab4c923e44f5e7546d69b37007b757580c85af7ec846cc5a"
+
+[[files]]
+file = "mods1/MouseTweaks.jar"
+hash = "68e6f4201c5de97b77929a7215c9552495696ca6a3bf3ae4eacc34e135f6cc8b"
+
+[[files]]
+file = "mods1/SecurityCraft.jar"
+hash = "ed98e1ad30360ec36d58962ce9d3891e2e6c1a3c68ed07f9545040b9ced85ede"
+
+[[files]]
+file = "mods1/XaerosM.jar"
+hash = "35d5217f497d7747a78670b0280b28dc22630a244ffd93a09c4cf8789b9353ba"
+
+[[files]]
+file = "mods1/XaerosWM.jar"
+hash = "39285c3533f8b83f22cb2454cb05a5350041d08581677f6ed1e21cbaf6c92d81"
+
+[[files]]
+file = "mods1/YAC.jar"
+hash = "eee4ed85a32a8f6b04c3c85daf5e91bc83ba95d391976af41d8f85491643d0dd"
+
+[[files]]
+file = "mods1/admin_panel.jar"
+hash = "b372a4ad1306e836b99398e63b65f09909b7ce3e81eb6a39f8c5dc3ce76dc96a"
+
+[[files]]
+file = "mods1/ae2.jar"
+hash = "460d779a0609b81409907d9956de8f6f70a1b0912257e3e5c3c7e75ac9630e95"
+
+[[files]]
+file = "mods1/aeinfinitybooster.jar"
+hash = "21635ecbf2f5fa7bdcbab6e945e9e720fc7de4599b4257fe7e9e855c4488f95a"
+
+[[files]]
+file = "mods1/amendments.jar"
+hash = "33f5b4f2667475919ddd79c6428d207a21f1f2ca23868dd963571d196d275015"
+
+[[files]]
+file = "mods1/architectury.jar"
+hash = "5ec578f814e8cca87aeffa6e424032e78d9ea5ea6b603dd834c2dc13c31141ee"
+
+[[files]]
+file = "mods1/bookshelf.jar"
+hash = "9d868be040c2ba6e2f31c40278b73d8ff383e1f8d7005a6f9820c0d1c4cf61b5"
+
+[[files]]
+file = "mods1/caelus.jar"
+hash = "432a645557f29de159d9edde2fd109f8e3b32ff30895b4fede04ee5f1a1a682f"
+
+[[files]]
+file = "mods1/cccbridge.jar"
+hash = "cc268961ea1b1a0d4e36eaff36d8b987e2f65b113d230a125953778ec83c6687"
+
+[[files]]
+file = "mods1/cctweaked.jar"
+hash = "f5e8872a2ccca38aa210c477c84d5f2ba3e8f054328b6816461af4c1f8c460a5"
+
+[[files]]
+file = "mods1/chat_heads.jar"
+hash = "246a92b608cac6b354caa21f85b8983eaba2dfa76cdedde17185e6d569cee457"
+
+[[files]]
+file = "mods1/chatplus.jar"
+hash = "63cb987a64a58af88626573198181c4d7714d147a0c9e70c445f394984fdab6a"
+
+[[files]]
+file = "mods1/chunky.jar"
+hash = "d72f235cf1f56f2c374f52c00bdda5034524b28142305a84cfc123a3f92ad274"
+
+[[files]]
+file = "mods1/cloth.jar"
+hash = "65e722e0d98431a07c45f8bdd8d529a217cc8c175fde1740248bd5c1b4f3c0d4"
+
+[[files]]
+file = "mods1/copycats.jar"
+hash = "8caf0e53cf250e1cc2811d49e9ea46f3c691f65c3522b55c19e24a411d1354ef"
+
+[[files]]
+file = "mods1/create.jar"
+hash = "2d403500cd550db452a975ec3d4ba21b6097360d4dd575311112fe322055b1ee"
+
+[[files]]
+file = "mods1/createA.jar"
+hash = "91b020cd72a9d7ab7091947f693d1aacbc493bd35f514fa31737021c3548fe34"
+
+[[files]]
+file = "mods1/createCCL.jar"
+hash = "bdb11c6862f6c7c3311bb5d605264119231c7c8ce5789e8dfd54e769f04a170f"
+
+[[files]]
+file = "mods1/createDP.jar"
+hash = "213fa28efdc530ba87d6a5e5be7876b4cf3a3994624c5a266661d43889088f34"
+
+[[files]]
+file = "mods1/createEI.jar"
+hash = "1cc20ff42f2fb8132d9978ba7a26d888088965e43a98c44489efd5ffd5a617d9"
+
+[[files]]
+file = "mods1/createEM.jar"
+hash = "05e73d71f2fcce12560e329b51197a5caaf705847748f5bfdfcad6753b281473"
+
+[[files]]
+file = "mods1/createF.jar"
+hash = "50269db454494535258c1b44af201a5e69c44a0c04907a4c071f06f80bd87424"
+
+[[files]]
+file = "mods1/createPW.jar"
+hash = "31004286d41510b07e812912f8510696065f77be593098a163701d26d4ffe17d"
+
+[[files]]
+file = "mods1/createSB.jar"
+hash = "505d4f65b8692d3fb66684f7389fd8b80f4710194f0ea8822e942888c8ab9e52"
+
+[[files]]
+file = "mods1/createUF.jar"
+hash = "75f00a6f049176b26cb281613d8d93ad2c69bb8072c937b59cc777b8b2585f6c"
+
+[[files]]
+file = "mods1/curios.jar"
+hash = "a45df2125c26219974aba7507ffc9afe7b83acc941a386af3faacb1cc0056fde"
+
+[[files]]
+file = "mods1/elytraslot.jar"
+hash = "d86adf384390c40b144a296ef4fc11b72fd81e2780b264bd9ceb7b5ab9147399"
+
+[[files]]
+file = "mods1/enchdesc.jar"
+hash = "74d546ecb147da7e2cb53fe3115f6e062094329dcf15639b3da694cc00d3f843"
+
+[[files]]
+file = "mods1/entityculling.jar"
+hash = "c30406bd4b5aa7416f0889b69ffcd6cd4defed6ef2055254f8b5a9d1ae9ca223"
+
+[[files]]
+file = "mods1/essential.jar"
+hash = "07418e43aa2339a11cd81915e44e0b037cd60db124b0ba5cb96c7afd469208b7"
+
+[[files]]
+file = "mods1/ferritecore.jar"
+hash = "235e2081dfe050d7642b0d432a786668f079168505ba5d6bf0ec70c962a36539"
+
+[[files]]
+file = "mods1/freecam.jar"
+hash = "09b865a3987a0f1c87bcc9430550ccc4107729f29bff53a1cd5ab1e9c3d82376"
+
+[[files]]
+file = "mods1/guideme.jar"
+hash = "8c6729b1097ba142cfde9410403244d8179d92ce8c4c0d086a448bc0fc093f55"
+
+[[files]]
+file = "mods1/iz.jar"
+hash = "dd01bba1f105d9386d827c940844b704cbf63fdb1ecf09605b9bfd4b5b18298b"
+
+[[files]]
+file = "mods1/jei.jar"
+hash = "360d627c4c81f9eb42e0d1f316bac66765596405790809cf64655bdefc0b0307"
+
+[[files]]
+file = "mods1/kotlinff.jar"
+hash = "3f6e1d0e34c86e62abce3a9f86764a6861a2101aaa8858ada9d81f4588336efe"
+
+[[files]]
+file = "mods1/loadsupport.jar"
+hash = "1077cbbc9640f848ee3cf003ac640ae9fd56b89487093c6755c8298d40d9ae12"
+
+[[files]]
+file = "mods1/mekG.jar"
+hash = "4fc811d5787d8c9bf9c5d5d7bae4a86afcd6a304bb8d28509ee5626491e702e8"
+
+[[files]]
+file = "mods1/mekc.jar"
+hash = "7e67b8f5c111ef0d94abcd0c24580fa74c0532dbfa9e5cdbf58521e57cbbdc95"
+
+[[files]]
+file = "mods1/modelfix.jar"
+hash = "ee774b72135450ef9db1c7a75837304f30d05c3541e3a348c4f5769ab0f04912"
+
+[[files]]
+file = "mods1/modernfix.jar"
+hash = "0f1f987cdb9f1896217d45d91a9eaa20ee4c0054c41602624b54d81513a8cc22"
+
+[[files]]
+file = "mods1/moonlight.jar"
+hash = "b59edf72f4dd4ed97841e5f6ab4f7f64990ce410f7e43682a9397a3a8f72b89c"
+
+[[files]]
+file = "mods1/neoCarpet.jar"
+hash = "2dfbaf230036111f8055fadc8c908d6dec50088fb5d833390f5067aed5d04c36"
+
+[[files]]
+file = "mods1/neoJCM.jar"
+hash = "22c3c9069dd4fa33033b8419e259cf118ac5985925ff280daf19af70033ea2f4"
+
+[[files]]
+file = "mods1/neoLU.jar"
+hash = "fbdc1cac923e85c5d92c75dbfc81c7f5df27959fffed5df0642caabdac226767"
+
+[[files]]
+file = "mods1/neoMSD.jar"
+hash = "4e13e1e57bb2a990695a50c9a7ccd928bc5cba1c143ca152638ee15a36960a38"
+
+[[files]]
+file = "mods1/neoMTR.jar"
+hash = "9c6da1aaa7cb6fc5511ca330f44c69c5c3a79def93c0e588c8cbf91484a0c4d8"
+
+[[files]]
+file = "mods1/prickle.jar"
+hash = "ccf46c442ed3c7fe41ad056f0940560829ec4dd88360985dfacd78f4614eb167"
+
+[[files]]
+file = "mods1/reforgedplaymod-1.21.1-0.3.jar"
+hash = "608481672d6afbd0926427e58dcbfb1c66421d9364aa00e67696bcdc9c5f5cc0"
+
+[[files]]
+file = "mods1/skinlayers3d.jar"
+hash = "d6864ecc8e7a169fcecbcdbaab024ff3b364f093abbedb041afe8515ee5628b8"
+
+[[files]]
+file = "mods1/slideshow.jar"
+hash = "a445cc68987408e8ed5270de0e0d7de4040ea1a97bb2b36e2858e39f571b766c"
+
+[[files]]
+file = "mods1/supplementaries.jar"
+hash = "2200f725ffd1b2d1f3e772c2a32b344b0700ed6fe4d56285287d20c929c0157d"
+
+[[files]]
+file = "mods1/trafficcraft.jar"
+hash = "21eb68e5ecec6a000c6e266c189b653d6e46b8a7f298bb0c68a54a87dfa0448b"
+
+[[files]]
+file = "mods1/voicechat.jar"
+hash = "d1a6a5653bb367013a4d9667803b9c35b8a68df6cd63ab1667a8c89a472b9165"
+
+[[files]]
+file = "mods1/worldedit.jar"
+hash = "5e7752c97876d87411e3760bcc573cc431f43c453722e6959fa7fe54db1b01ca"
