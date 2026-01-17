@@ -5,7 +5,7 @@ side = "client"
 [download]
 url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/refs/heads/master/mods1/chatplus.jar"
 hash-format = "sha256"
-hash = "0d7923fc0644413e466e86214becc46bf879d5b4f7fc07d79cad43e4b6f7967e"
+hash = "63cb987a64a58af88626573198181c4d7714d147a0c9e70c445f394984fdab6a"
 
 [option]
 optional = true 

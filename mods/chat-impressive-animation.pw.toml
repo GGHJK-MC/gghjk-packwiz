@@ -5,7 +5,7 @@ side = "client"
 [download]
 url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/refs/heads/master/mods1/chatIA.jar"
 hash-format = "sha256"
-hash = "e945da70fcc402ce3cd9f8ec5ff7a9c372d13c10ee7008704d9d42b63fc86a82"
+hash = "b3ec7839deeb9db9e4eafc8e501ae33b39ff1d2f1054e6eadaf8c6525e12388a"
 
 [option]
 optional = true

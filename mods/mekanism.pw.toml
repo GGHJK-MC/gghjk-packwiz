@@ -5,4 +5,4 @@ side = "both"
 [download]
 url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/refs/heads/master/mods1/Mekanism.jar"
 hash-format = "sha256"
-hash = "4306c1e5a1755048dcba9c9364c3845c55dfcf66c1fee4d3dd1c964aa4c79b2a"
+hash = "0be01fe153c17a8aab4c923e44f5e7546d69b37007b757580c85af7ec846cc5a"

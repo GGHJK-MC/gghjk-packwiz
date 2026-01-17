@@ -5,7 +5,7 @@ side = "client"
 [download]
 url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/refs/heads/master/mods1/essential.jar"
 hash-format = "sha256"
-hash = "ceae78fa877f088bf48c326b240a5f14709a00205da0d6a56bf988906b171af7"
+hash = "07418e43aa2339a11cd81915e44e0b037cd60db124b0ba5cb96c7afd469208b7"
 
 [option]
 optional = true
