@@ -151,6 +151,11 @@ hash = "997c865d6531abce9eede8cc37ce62e10cbb67df5334e64f55be32bcfeff264d"
 metafile = true
 
 [[files]]
+file = "mods/discord.pw.toml"
+hash = "63b4985b5e78ac874065fb567f5016b97de7383152ce4cd8e4f999c1491f37bc"
+metafile = true
+
+[[files]]
 file = "mods/elytraslot.pw.toml"
 hash = "2e88f5a53ea31336e71ae3a20d2d734342b8d165ce5bdab435709bfcd376e782"
 metafile = true
@@ -163,11 +168,6 @@ metafile = true
 [[files]]
 file = "mods/entityc.pw.toml"
 hash = "c59b595796e009683b37a8694d0394dd7d83862b788e450b3465a10365c07e8f"
-metafile = true
-
-[[files]]
-file = "mods/essential.pw.toml"
-hash = "6e31d32e5630ec848ee90529d0d7eef273500bb561f5e6630d956c2b9239df10"
 metafile = true
 
 [[files]]
@@ -188,6 +188,11 @@ metafile = true
 [[files]]
 file = "mods/if.pw.toml"
 hash = "807a211a5150ccc0df031dfe0aa3bed08d09b8e7e6683519844fdd0599b364cd"
+metafile = true
+
+[[files]]
+file = "mods/inv-view.pw.toml"
+hash = "76a7c203da634dfcf10af2409f4eb46b982c81b441e26d5962b84b9e34d735b8"
 metafile = true
 
 [[files]]
@@ -256,6 +261,11 @@ hash = "a037c41b5dc11a0efce07a72fc3267f0e297b06d2a790ee4a6260b55c4d04214"
 metafile = true
 
 [[files]]
+file = "mods/neohome.pw.toml"
+hash = "6ee5d4c912f1c8beb8a661558a63fc53802a6b4e1b3d0b4c326018b333fe2807"
+metafile = true
+
+[[files]]
 file = "mods/neojcm.pw.toml"
 hash = "f9ac2d64539b3f2a5249760cf6fdf3b64275b10521522d5fe943a5cbea12c9e9"
 metafile = true
@@ -286,8 +296,18 @@ hash = "ba1562d215bc075f88593de475b2ccf8abca16fe3bc81cc05bdc869876d8934d"
 metafile = true
 
 [[files]]
+file = "mods/rollinggate.pw.toml"
+hash = "07d01374600d32645abb22e79e21d930055ff11d14eebd3eaf9c6c75f0c9ea3f"
+metafile = true
+
+[[files]]
 file = "mods/security-craft.pw.toml"
 hash = "d64928643c681f53dcc9440d90ea2f2a88c979d1e9634cff5ebeac6ec383f38a"
+metafile = true
+
+[[files]]
+file = "mods/serverchatplus.pw.toml"
+hash = "d0171d8977c2574d977fd7defbc3a7e9da3d74612999e02d70578f567e2a244a"
 metafile = true
 
 [[files]]
@@ -303,6 +323,16 @@ metafile = true
 [[files]]
 file = "mods/supplementaries.pw.toml"
 hash = "22c6a01ebad4681122976455a76aa957acbd75d505f12e2cecd63835a98db6a6"
+metafile = true
+
+[[files]]
+file = "mods/tablist.pw.toml"
+hash = "f621b1f22560eacab055a9464385bd0a11e838efb5807b87b291682bd524b2d2"
+metafile = true
+
+[[files]]
+file = "mods/terralith.pw.toml"
+hash = "2d9d68636a1d6f07698b026ee343fc16c0a8dbc83b760929a6e6df9e82a996c3"
 metafile = true
 
 [[files]]
