@@ -1,8 +1,0 @@
-name = "NeoForged Carpet"
-filename = "neoCarpet.jar"
-side = "both"
-
-[download]
-url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/refs/heads/master/mods1/neoCarpet.jar"
-hash-format = "sha256"
-hash = "2dfbaf230036111f8055fadc8c908d6dec50088fb5d833390f5067aed5d04c36"

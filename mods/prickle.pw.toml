@@ -3,6 +3,10 @@ filename = "prickle.jar"
 side = "both"
 
 [download]
-url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/refs/heads/master/mods1/prickle.jar"
+url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/master/mods1/prickle.jar"
 hash-format = "sha256"
+<<<<<<< HEAD
 hash = "ccf46c442ed3c7fe41ad056f0940560829ec4dd88360985dfacd78f4614eb167"
+=======
+hash = "ccf46c442ed3c7fe41ad056f0940560829ec4dd88360985dfacd78f4614eb167"
+>>>>>>> f89d514fc83233a7bc00d23b692062ff423b24eb

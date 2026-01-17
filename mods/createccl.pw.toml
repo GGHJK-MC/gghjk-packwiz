@@ -1,0 +1,12 @@
+name = "Create: CCL"
+filename = "createCCL.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/master/mods1/createCCL.jar"
+hash-format = "sha256"
+<<<<<<< HEAD:mods/createccl.pw.toml
+hash = "bdb11c6862f6c7c3311bb5d605264119231c7c8ce5789e8dfd54e769f04a170f"
+=======
+hash = "bdb11c6862f6c7c3311bb5d605264119231c7c8ce5789e8dfd54e769f04a170f"
+>>>>>>> f89d514fc83233a7bc00d23b692062ff423b24eb:mods/create-cc-total-logistics.pw.toml

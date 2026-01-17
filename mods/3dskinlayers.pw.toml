@@ -1,8 +1,0 @@
-name = "3D Skin Layers"
-filename = "skinlayers3d.jar"
-side = "both"
-
-[download]
-url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/refs/heads/master/mods1/skinlayers3d.jar"
-hash-format = "sha256"
-hash = "d6864ecc8e7a169fcecbcdbaab024ff3b364f093abbedb041afe8515ee5628b8"
