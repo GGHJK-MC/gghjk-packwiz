@@ -5,8 +5,4 @@ side = "both"
 [download]
 url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/master/mods1/kotlinff.jar"
 hash-format = "sha256"
-<<<<<<< HEAD:mods/kotlinff.pw.toml
 hash = "3f6e1d0e34c86e62abce3a9f86764a6861a2101aaa8858ada9d81f4588336efe"
-=======
-hash = "3f6e1d0e34c86e62abce3a9f86764a6861a2101aaa8858ada9d81f4588336efe"
->>>>>>> f89d514fc83233a7bc00d23b692062ff423b24eb:mods/kotlin-for-forge.pw.toml

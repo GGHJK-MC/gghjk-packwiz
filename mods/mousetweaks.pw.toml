@@ -5,8 +5,4 @@ side = "both"
 [download]
 url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/master/mods1/MouseTweaks.jar"
 hash-format = "sha256"
-<<<<<<< HEAD:mods/mousetweaks.pw.toml
 hash = "68e6f4201c5de97b77929a7215c9552495696ca6a3bf3ae4eacc34e135f6cc8b"
-=======
-hash = "68e6f4201c5de97b77929a7215c9552495696ca6a3bf3ae4eacc34e135f6cc8b"
->>>>>>> f89d514fc83233a7bc00d23b692062ff423b24eb:mods/mouse-tweaks.pw.toml

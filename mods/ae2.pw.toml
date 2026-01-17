@@ -5,8 +5,4 @@ side = "both"
 [download]
 url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/master/mods1/ae2.jar"
 hash-format = "sha256"
-<<<<<<< HEAD
 hash = "460d779a0609b81409907d9956de8f6f70a1b0912257e3e5c3c7e75ac9630e95"
-=======
-hash = "460d779a0609b81409907d9956de8f6f70a1b0912257e3e5c3c7e75ac9630e95"
->>>>>>> f89d514fc83233a7bc00d23b692062ff423b24eb

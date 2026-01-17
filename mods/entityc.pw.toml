@@ -5,8 +5,4 @@ side = "both"
 [download]
 url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/master/mods1/entityculling.jar"
 hash-format = "sha256"
-<<<<<<< HEAD:mods/entityc.pw.toml
 hash = "c30406bd4b5aa7416f0889b69ffcd6cd4defed6ef2055254f8b5a9d1ae9ca223"
-=======
-hash = "c30406bd4b5aa7416f0889b69ffcd6cd4defed6ef2055254f8b5a9d1ae9ca223"
->>>>>>> f89d514fc83233a7bc00d23b692062ff423b24eb:mods/entityculling.pw.toml

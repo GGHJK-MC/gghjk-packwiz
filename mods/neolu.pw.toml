@@ -5,8 +5,4 @@ side = "both"
 [download]
 url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/master/mods1/neoLU.jar"
 hash-format = "sha256"
-<<<<<<< HEAD
 hash = "fbdc1cac923e85c5d92c75dbfc81c7f5df27959fffed5df0642caabdac226767"
-=======
-hash = "fbdc1cac923e85c5d92c75dbfc81c7f5df27959fffed5df0642caabdac226767"
->>>>>>> f89d514fc83233a7bc00d23b692062ff423b24eb

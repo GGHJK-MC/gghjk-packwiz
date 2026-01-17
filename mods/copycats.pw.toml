@@ -5,8 +5,4 @@ side = "both"
 [download]
 url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/master/mods1/copycats.jar"
 hash-format = "sha256"
-<<<<<<< HEAD
 hash = "8caf0e53cf250e1cc2811d49e9ea46f3c691f65c3522b55c19e24a411d1354ef"
-=======
-hash = "8caf0e53cf250e1cc2811d49e9ea46f3c691f65c3522b55c19e24a411d1354ef"
->>>>>>> f89d514fc83233a7bc00d23b692062ff423b24eb

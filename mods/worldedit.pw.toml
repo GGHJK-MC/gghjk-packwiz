@@ -5,12 +5,4 @@ side = "both"
 [download]
 url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/master/mods1/worldedit.jar"
 hash-format = "sha256"
-<<<<<<< HEAD
 hash = "5e7752c97876d87411e3760bcc573cc431f43c453722e6959fa7fe54db1b01ca"
-=======
-hash = "5e7752c97876d87411e3760bcc573cc431f43c453722e6959fa7fe54db1b01ca"
-
-[option]
-optional = true
-description = "Rychleji Stavěj."
->>>>>>> f89d514fc83233a7bc00d23b692062ff423b24eb

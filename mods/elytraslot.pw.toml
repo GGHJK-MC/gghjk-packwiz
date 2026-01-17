@@ -5,8 +5,4 @@ side = "both"
 [download]
 url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/master/mods1/elytraslot.jar"
 hash-format = "sha256"
-<<<<<<< HEAD:mods/elytraslot.pw.toml
 hash = "d86adf384390c40b144a296ef4fc11b72fd81e2780b264bd9ceb7b5ab9147399"
-=======
-hash = "d86adf384390c40b144a296ef4fc11b72fd81e2780b264bd9ceb7b5ab9147399"
->>>>>>> f89d514fc83233a7bc00d23b692062ff423b24eb:mods/elytra-slot.pw.toml

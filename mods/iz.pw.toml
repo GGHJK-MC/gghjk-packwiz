@@ -5,8 +5,4 @@ side = "both"
 [download]
 url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/master/mods1/iz.jar"
 hash-format = "sha256"
-<<<<<<< HEAD:mods/iz.pw.toml
 hash = "dd01bba1f105d9386d827c940844b704cbf63fdb1ecf09605b9bfd4b5b18298b"
-=======
-hash = "dd01bba1f105d9386d827c940844b704cbf63fdb1ecf09605b9bfd4b5b18298b"
->>>>>>> f89d514fc83233a7bc00d23b692062ff423b24eb:mods/infinite-zoom.pw.toml

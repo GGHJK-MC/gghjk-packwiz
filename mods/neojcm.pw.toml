@@ -5,8 +5,4 @@ side = "both"
 [download]
 url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/master/mods1/neoJCM.jar"
 hash-format = "sha256"
-<<<<<<< HEAD
 hash = "22c3c9069dd4fa33033b8419e259cf118ac5985925ff280daf19af70033ea2f4"
-=======
-hash = "22c3c9069dd4fa33033b8419e259cf118ac5985925ff280daf19af70033ea2f4"
->>>>>>> f89d514fc83233a7bc00d23b692062ff423b24eb

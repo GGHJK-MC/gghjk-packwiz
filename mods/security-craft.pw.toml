@@ -5,8 +5,4 @@ side = "both"
 [download]
 url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/master/mods1/SecurityCraft.jar"
 hash-format = "sha256"
-<<<<<<< HEAD
 hash = "ed98e1ad30360ec36d58962ce9d3891e2e6c1a3c68ed07f9545040b9ced85ede"
-=======
-hash = "ed98e1ad30360ec36d58962ce9d3891e2e6c1a3c68ed07f9545040b9ced85ede"
->>>>>>> f89d514fc83233a7bc00d23b692062ff423b24eb

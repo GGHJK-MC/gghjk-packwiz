@@ -5,8 +5,4 @@ side = "both"
 [download]
 url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/master/mods1/mekc.jar"
 hash-format = "sha256"
-<<<<<<< HEAD:mods/mekc.pw.toml
 hash = "7e67b8f5c111ef0d94abcd0c24580fa74c0532dbfa9e5cdbf58521e57cbbdc95"
-=======
-hash = "7e67b8f5c111ef0d94abcd0c24580fa74c0532dbfa9e5cdbf58521e57cbbdc95"
->>>>>>> f89d514fc83233a7bc00d23b692062ff423b24eb:mods/mekanism-covers.pw.toml

@@ -5,8 +5,4 @@ side = "both"
 [download]
 url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/master/mods1/skinlayers3d.jar"
 hash-format = "sha256"
-<<<<<<< HEAD:mods/skinlayers3d.pw.toml
 hash = "d6864ecc8e7a169fcecbcdbaab024ff3b364f093abbedb041afe8515ee5628b8"
-=======
-hash = "d6864ecc8e7a169fcecbcdbaab024ff3b364f093abbedb041afe8515ee5628b8"
->>>>>>> f89d514fc83233a7bc00d23b692062ff423b24eb:mods/3dskinlayers.pw.toml

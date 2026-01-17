@@ -5,8 +5,4 @@ side = "both"
 [download]
 url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/master/mods1/guideme.jar"
 hash-format = "sha256"
-<<<<<<< HEAD
 hash = "8c6729b1097ba142cfde9410403244d8179d92ce8c4c0d086a448bc0fc093f55"
-=======
-hash = "8c6729b1097ba142cfde9410403244d8179d92ce8c4c0d086a448bc0fc093f55"
->>>>>>> f89d514fc83233a7bc00d23b692062ff423b24eb
