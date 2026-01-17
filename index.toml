@@ -292,7 +292,7 @@ metafile = true
 
 [[files]]
 file = "mods/reforgedplaymod.pw.toml"
-hash = "ba1562d215bc075f88593de475b2ccf8abca16fe3bc81cc05bdc869876d8934d"
+hash = "50e65be456177b2690e8421df4c5258a7e2b6a070f4e17201c3aad6fe8a77fd8"
 metafile = true
 
 [[files]]
