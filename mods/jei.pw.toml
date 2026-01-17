@@ -3,6 +3,6 @@ filename = "jei.jar"
 side = "both"
 
 [download]
-url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/master/mods1/jei.jar"
+url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/mods/mods1/jei.jar"
 hash-format = "sha256"
 hash = "360d627c4c81f9eb42e0d1f316bac66765596405790809cf64655bdefc0b0307"

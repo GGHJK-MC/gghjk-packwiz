@@ -3,6 +3,6 @@ filename = "iz.jar"
 side = "both"
 
 [download]
-url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/master/mods1/iz.jar"
+url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/mods/mods1/iz.jar"
 hash-format = "sha256"
 hash = "dd01bba1f105d9386d827c940844b704cbf63fdb1ecf09605b9bfd4b5b18298b"

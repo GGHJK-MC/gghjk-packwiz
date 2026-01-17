@@ -3,6 +3,6 @@ filename = "loadsupport.jar"
 side = "both"
 
 [download]
-url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/master/mods1/loadsupport.jar"
+url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/mods/mods1/loadsupport.jar"
 hash-format = "sha256"
 hash = "1077cbbc9640f848ee3cf003ac640ae9fd56b89487093c6755c8298d40d9ae12"

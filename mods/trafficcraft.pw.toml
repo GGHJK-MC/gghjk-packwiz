@@ -3,6 +3,6 @@ filename = "trafficcraft.jar"
 side = "both"
 
 [download]
-url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/master/mods1/trafficcraft.jar"
+url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/mods/mods1/trafficcraft.jar"
 hash-format = "sha256"
 hash = "21eb68e5ecec6a000c6e266c189b653d6e46b8a7f298bb0c68a54a87dfa0448b"

@@ -3,6 +3,6 @@ filename = "createSB.jar"
 side = "both"
 
 [download]
-url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/master/mods1/createSB.jar"
+url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/mods/mods1/createSB.jar"
 hash-format = "sha256"
 hash = "505d4f65b8692d3fb66684f7389fd8b80f4710194f0ea8822e942888c8ab9e52"

@@ -3,6 +3,6 @@ filename = "create.jar"
 side = "both"
 
 [download]
-url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/master/mods1/create.jar"
+url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/mods/mods1/create.jar"
 hash-format = "sha256"
 hash = "2d403500cd550db452a975ec3d4ba21b6097360d4dd575311112fe322055b1ee"

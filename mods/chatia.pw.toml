@@ -3,7 +3,7 @@ filename = "ChatIA.jar"
 side = "client"
 
 [download]
-url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/master/mods1/ChatIA.jar"
+url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/mods/mods1/ChatIA.jar"
 hash-format = "sha256"
 hash = "b3ec7839deeb9db9e4eafc8e501ae33b39ff1d2f1054e6eadaf8c6525e12388a"
 
