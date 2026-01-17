@@ -1,5 +1,5 @@
-name = "createpw"
-filename = "Create: PW.jar"
+name = "Create: PW"
+filename = "createPW.jar"
 side = "both"
 
 [download]
