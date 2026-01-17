@@ -1,8 +1,0 @@
-name = "Essential"
-filename = "essential.jar"
-side = "both"
-
-[download]
-url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/mods/mods1/essential.jar"
-hash-format = "sha256"
-hash = "07418e43aa2339a11cd81915e44e0b037cd60db124b0ba5cb96c7afd469208b7"
