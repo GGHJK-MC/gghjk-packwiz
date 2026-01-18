@@ -1,0 +1,8 @@
+name = "tramsOnRoad"
+filename = "cTrams_on_Roads_v1.zip"
+side = "client"
+
+[download]
+url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/mods/resourespacks/cTrams_on_Roads_v1.zip"
+hash-format = "sha256"
+hash = "579c9885fe005216804bbdeddafa4375465de249b221736b18259bca46214a0e"

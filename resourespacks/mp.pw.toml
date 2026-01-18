@@ -1,0 +1,8 @@
+name = "MP"
+filename = "MP_MTR4_0.1.0.zip"
+side = "client"
+
+[download]
+url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/mods/resourespacks/MP_MTR4_0.1.0.zip"
+hash-format = "sha256"
+hash = "65d069a45a4311b5722e8964cba3d58a507c6092e707bb6f4016118dbfa68798"

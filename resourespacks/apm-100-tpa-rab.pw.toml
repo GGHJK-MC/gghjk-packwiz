@@ -1,0 +1,8 @@
+name = "APM_100_TPA_RAB"
+filename = "APM_100_TPA_Addon.zip"
+side = "client"
+
+[download]
+url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/mods/resourespacks/APM_100_TPA_Addon.zip"
+hash-format = "sha256"
+hash = "d90b0aa0cf905c226543269872c7ab4516472649c91eaa4ed9da60bec901f1d4"

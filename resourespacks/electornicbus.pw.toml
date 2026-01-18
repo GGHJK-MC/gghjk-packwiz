@@ -1,0 +1,8 @@
+name = "ElectornicBus"
+filename = "Yutong_U12_ElectricBus_addon_v2.2.zip"
+side = "client"
+
+[download]
+url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/mods/resourespacks/Yutong_U12_ElectricBus_addon_v2.2.zip"
+hash-format = "sha256"
+hash = "8c4508ca6d27fed272ed282ef29960a1b7d3de227df2401f6c0e693351955cc8"

@@ -364,3 +364,68 @@ metafile = true
 file = "mods/xaeros-world.pw.toml"
 hash = "bf48dfd7ce57eb860436b0417b27c7dafbdf9573cb47fa61f690532008ed2338"
 metafile = true
+
+[[files]]
+file = "resourespacks/apm-100-tpa-rab.pw.toml"
+hash = "73bde13b6116c415250f99ca993867c579ea570d2f7c406f3c4bd1829a12f80f"
+metafile = true
+
+[[files]]
+file = "resourespacks/class-345-crossrail.pw.toml"
+hash = "1b7913c62c43744db4555bd4d00edb1482779e34e5da92ae781b027c0212d8c9"
+metafile = true
+
+[[files]]
+file = "resourespacks/displaytrains.pw.toml"
+hash = "483e30daf43a27784855c0568a1378f700609a185d6207abf8101d43b601c215"
+metafile = true
+
+[[files]]
+file = "resourespacks/dlr-b07-stock.pw.toml"
+hash = "9bfbfe116b6b721c234c08f29dbe4ab14c0b8fb81491a0055c5c27fe94e14e44"
+metafile = true
+
+[[files]]
+file = "resourespacks/dlr-b90-classic-liveries.pw.toml"
+hash = "76b7e67b6bed25500b32f18e482932a63ef9b42a4c02e8cf3a339d987d0ab3d4"
+metafile = true
+
+[[files]]
+file = "resourespacks/dlr-b90-sounde.pw.toml"
+hash = "d77f4cf310f9cd4bdda394d29bea1d4a44769d660f0b89473129e0c40140e33b"
+metafile = true
+
+[[files]]
+file = "resourespacks/dlr-b90-stock.pw.toml"
+hash = "b217a7d913492ec110a2d0419324367f934e761534b35030273753b4d327ffe2"
+metafile = true
+
+[[files]]
+file = "resourespacks/electornicbus.pw.toml"
+hash = "4262cfd5fad8cb8b067c3af0104f67227a98c845e6231063bbf778bef5340ee0"
+metafile = true
+
+[[files]]
+file = "resourespacks/mp.pw.toml"
+hash = "7b34cc4fca9bc2cf4ba3327db24e7f5e146ea247fe54a8d50dd8bdde3b521ddb"
+metafile = true
+
+[[files]]
+file = "resourespacks/roadthings.pw.toml"
+hash = "93d3267a1c4d87101c5b26e2646426d5da23b4e77e3c09f148d3ec047fdcb205"
+metafile = true
+
+[[files]]
+file = "resourespacks/serversystem.pw.toml"
+hash = "4917de5d73852b20afe655d0cf2f5813fda4286e477aa2b8b509056ab05bac42"
+metafile = true
+
+[[files]]
+file = "resourespacks/southeastern.pw.toml"
+hash = "d80025117145cbbd33db74a8c3b6bb59271b2facad9effe2bf08a660e49b372f"
+metafile = true
+
+[[files]]
+file = "resourespacks/tramsonroad.pw.toml"
+hash = "2c3e3af00df31447555d87a64881b00592bbae1b35ced2f06e029417539b31dd"
+metafile = true

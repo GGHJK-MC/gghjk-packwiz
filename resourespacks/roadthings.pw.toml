@@ -1,0 +1,8 @@
+name = "RoadThings"
+filename = "RoadThings_public_0.1.zip"
+side = "client"
+
+[download]
+url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/mods/resourespacks/RoadThings_public_0.1.zip"
+hash-format = "sha256"
+hash = "20efe34b737011e2c09018d3c18df4a1adca4754e6d6dffa993df87193bdcc15"

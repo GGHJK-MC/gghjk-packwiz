@@ -1,0 +1,8 @@
+name = "DisplayTrains"
+filename = "武汉轨道交通追加.zip"
+side = "client"
+
+[download]
+url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/mods/resourespacks/武汉轨道交通追加.zip"
+hash-format = "sha256"
+hash = "2c98aff3d7aac4286103c66a2022c3d222f447ca6f40283cf20b5beba5d16d78"

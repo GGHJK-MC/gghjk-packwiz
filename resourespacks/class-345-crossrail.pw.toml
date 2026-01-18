@@ -1,0 +1,8 @@
+name = "Class_345_Crossrail"
+filename = "Class_345_trains_Crossrail_Elizabeth_line_-_Sir_Piglin.zip"
+side = "client"
+
+[download]
+url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/mods/resourespacks/Class_345_trains_Crossrail_Elizabeth_line_-_Sir_Piglin.zip"
+hash-format = "sha256"
+hash = "6e1b82acd0ccab569add98f060fa7a0858c38145c3d6cafd857e5d0b30a776b5"
