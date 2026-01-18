@@ -41,6 +41,11 @@ hash = "5573ca157a6442c68e4ce1eaeef53057d369bf8e4355071945d78143d522b12a"
 metafile = true
 
 [[files]]
+file = "mods/c2me.pw.toml"
+hash = "54e648d5aa5c7a4ef639560ac189233667d4fea0491502060862f8c7a73954a5"
+metafile = true
+
+[[files]]
 file = "mods/caelus.pw.toml"
 hash = "9c66568aa5aed5da8407bb82fa92f6481ac1d4942da8d5e2e2607fcbd6689f6e"
 metafile = true
@@ -161,6 +166,11 @@ hash = "5db9fddb18f2f558c1814efd265bc0b2d8a317fdad2122bcee3e30cd2da799fe"
 metafile = true
 
 [[files]]
+file = "mods/dropsto.pw.toml"
+hash = "b73a106d612fa36d1893c17e6ba9b6fa1bac5351492ab1ab2d78e2a3451a2279"
+metafile = true
+
+[[files]]
 file = "mods/elytraslot.pw.toml"
 hash = "2e88f5a53ea31336e71ae3a20d2d734342b8d165ce5bdab435709bfcd376e782"
 metafile = true
@@ -218,6 +228,16 @@ metafile = true
 [[files]]
 file = "mods/kotlinff.pw.toml"
 hash = "3298c1fa29f75137a260b81501838e3616a1e510bb4b192cdaa97a9732750465"
+metafile = true
+
+[[files]]
+file = "mods/krypton.pw.toml"
+hash = "de018761ecf62da05d25c7c852a1782ed402160839b57c225e9471ad6a139864"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "2cea3e10d445d447dc3c1f303c32c2507878f1f4f125a1c37bdf1201d14a434e"
 metafile = true
 
 [[files]]
@@ -316,6 +336,11 @@ hash = "d0171d8977c2574d977fd7defbc3a7e9da3d74612999e02d70578f567e2a244a"
 metafile = true
 
 [[files]]
+file = "mods/servercore.pw.toml"
+hash = "552ca2870dd5d48a2e47e5d9f63cbd612efbad899f459af30e3af14ccba574ca"
+metafile = true
+
+[[files]]
 file = "mods/skinlayers3d.pw.toml"
 hash = "3c86ded3a1d5e50dfb64cc9c96ce7c51075d4ffc304bfeeb3dbc395b1f2fc703"
 metafile = true
@@ -333,6 +358,11 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "0a41a03cac3412107dce6238955d61ab66878710164aef95de8996f602457686"
+metafile = true
+
+[[files]]
+file = "mods/starlightf.pw.toml"
+hash = "140bf7cb14ee81b2ccba3b58dfd08bb6cf6b0b428284db5201bc699b4bc4658b"
 metafile = true
 
 [[files]]

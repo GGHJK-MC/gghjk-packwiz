@@ -1,0 +1,8 @@
+name = "lithium"
+filename = "lithium.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/mods/mods1/lithium.jar"
+hash-format = "sha256"
+hash = "fadc7b1985c7a770c14eb3bca76c4d643e57793b2f9e69c6d168b0313ebf615c"

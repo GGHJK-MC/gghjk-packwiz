@@ -1,0 +1,8 @@
+name = "Krypton"
+filename = "KryptonFoxified.jar"
+side = "server"
+
+[download]
+url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/mods/mods1/KryptonFoxified.jar"
+hash-format = "sha256"
+hash = "0685ac93155dd1bbbffec077ab57cc7cbdb1d08c50e707fb0eb2c14633e85687"
