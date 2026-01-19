@@ -1,0 +1,8 @@
+name = "createN"
+filename = "createN.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/refs/heads/mods/mods1/createN.jar"
+hash-format = "sha256"
+hash = "f910a8a73d4e9922f458bc2dad70f0eb352a9b23eda53b1c1a2594d91f4604fb"
