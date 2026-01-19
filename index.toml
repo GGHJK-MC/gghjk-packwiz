@@ -346,6 +346,11 @@ hash = "3c86ded3a1d5e50dfb64cc9c96ce7c51075d4ffc304bfeeb3dbc395b1f2fc703"
 metafile = true
 
 [[files]]
+file = "mods/skinrestorer.pw.toml"
+hash = "27a452da84486c586d84e7fa7fe0fd559c264c7ebc1f1f971f0acf86cfeb031e"
+metafile = true
+
+[[files]]
 file = "mods/slideshow.pw.toml"
 hash = "a3d494b0c18f09c86bebb142e5a14f4f1bf4e32e68cf41a3c98a4ce63e756900"
 metafile = true
