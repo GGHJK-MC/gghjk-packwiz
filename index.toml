@@ -246,6 +246,11 @@ hash = "6a0761e5e586a47db05bf72cf02addef7e356c9003fc029d8213da420e07ea67"
 metafile = true
 
 [[files]]
+file = "mods/mcef.pw.toml"
+hash = "bd7563022892aee4b13d4a29f5def012ea1bf3c16577a4e801201d06179054bc"
+metafile = true
+
+[[files]]
 file = "mods/mekansim.pw.toml"
 hash = "de710cf7e629aaf2bb1756b3b541c8316d1e8dc9be88dc1b930c97716ee0d0ec"
 metafile = true
