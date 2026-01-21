@@ -366,6 +366,11 @@ hash = "0a41a03cac3412107dce6238955d61ab66878710164aef95de8996f602457686"
 metafile = true
 
 [[files]]
+file = "mods/squaremap.pw.toml"
+hash = "5402965fedf5f0d37155f30334292af4d81284e4b430fd6d493f9fd54939d2f8"
+metafile = true
+
+[[files]]
 file = "mods/starlightf.pw.toml"
 hash = "140bf7cb14ee81b2ccba3b58dfd08bb6cf6b0b428284db5201bc699b4bc4658b"
 metafile = true
@@ -393,6 +398,11 @@ metafile = true
 [[files]]
 file = "mods/voicechat.pw.toml"
 hash = "de32baf02f5fec3dda62c0b9e3a33ec4bee3328b4c61b67d2e678ea41aea6425"
+metafile = true
+
+[[files]]
+file = "mods/webdisplays.pw.toml"
+hash = "82bce128fd0ceaec54af5a2d4d391d0d05ff9b3c6e5b10e751ca8253dea91d43"
 metafile = true
 
 [[files]]
