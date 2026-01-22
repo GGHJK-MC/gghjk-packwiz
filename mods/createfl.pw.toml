@@ -1,0 +1,8 @@
+name = "CreateFL"
+filename = "createFL.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/refs/heads/mods/mods1/createFL.jar"
+hash-format = "sha256"
+hash = "5d80b737b9c63fb6b6e4b73624372864962cd778f0ef20351fe9aa5a6aac439f"
