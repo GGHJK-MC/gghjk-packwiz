@@ -1,0 +1,8 @@
+name = "ResourcePackUpdater"
+filename = "dynamicpack.jar"
+side = "client"
+
+[download]
+url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/mods/mods1/dynamicpack.jar"
+hash-format = "sha256"
+hash = "b08a138ac5c7ab7b026ac8121beeb66ce2b378e4fa2c6220c113ca7d6c918a65"

@@ -1,8 +1,0 @@
-name = "SouthEastern"
-filename = "SouthEastern_Class_375_EMU_Pack.zip"
-side = "client"
-
-[download]
-url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/mods/resourespacks/SouthEastern_Class_375_EMU_Pack.zip"
-hash-format = "sha256"
-hash = "87b796cdbe93c4efb2272d3553735308be76f0e0c73bc976abc32e0e0ba94c82"

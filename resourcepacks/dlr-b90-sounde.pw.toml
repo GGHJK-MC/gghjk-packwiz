@@ -1,8 +1,0 @@
-name = "DLR_B90_SoundE"
-filename = "DLR_B90_Sound_Enhancement.zip"
-side = "client"
-
-[download]
-url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/mods/resourespacks/DLR_B90_Sound_Enhancement.zip"
-hash-format = "sha256"
-hash = "dab605aa555e9fcd14cee41c572c37dfbfd18865d002c9f1d17caca1f463c77f"

@@ -1,8 +1,0 @@
-name = "DLR_B90_Classic_Liveries"
-filename = "DLR_B90_Classic_Liveries.zip"
-side = "client"
-
-[download]
-url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/mods/resourespacks/DLR_B90_Classic_Liveries.zip"
-hash-format = "sha256"
-hash = "7f36e37e0bc6416702621ae75577f4022455cd3b6f8fb4ad5f68fff9b187bc62"

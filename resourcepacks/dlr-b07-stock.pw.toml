@@ -1,8 +1,0 @@
-name = "DLR_B07_Stock"
-filename = "DLR_B07_Stock_v1.1.zip"
-side = "client"
-
-[download]
-url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/mods/resourespacks/DLR_B07_Stock_v1.1.zip"
-hash-format = "sha256"
-hash = "8284703a71c108850c040ff8044e6201e2eb4b48d3f6742a81a7ab5740798d31"

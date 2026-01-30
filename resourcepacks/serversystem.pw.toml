@@ -1,8 +1,0 @@
-name = "ServerSystem"
-filename = "ServerSystem.zip"
-side = "client"
-
-[download]
-url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/mods/resourespacks/ServerSystem.zip"
-hash-format = "sha256"
-hash = "c5828edaea11e67401d569d91acb30afa175ec9ec60ed5d8cbf41a84f74edd8e"
