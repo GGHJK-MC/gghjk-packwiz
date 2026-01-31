@@ -1,12 +1,12 @@
 name = "GGHJK Normal"
 author = "GGHJK"
-version = "1.0.0"
+version = "2.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "4f0379de6ee6f7b441508f9640a1a22dbf2ff081a7d5e2a158d5ab102374522a"
+hash = "f3fed03faa0de52bec747848839f59259c6847400cb180e3d341317dd57a81ed"
 
 [versions]
 minecraft = "1.21.1"
