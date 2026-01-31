@@ -5,4 +5,4 @@ side = "client"
 [download]
 url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/mods/resourespacks/GGHJKServerPack.zip"
 hash-format = "sha256"
-hash = "66c44e25c215a03c6c7da215f901aa44c8df57d5b6e3b37447b3f6744e8a8d07"
+hash = "94c02e8c6006a1b57d56dded47293ca55e5db9950f2133b5fc1c72a0a9d53794"

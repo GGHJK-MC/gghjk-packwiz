@@ -437,5 +437,5 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/serverresourcepack.pw.toml"
-hash = "907b5b9e28db3ccbd5ab24a501025cf191f3046176712655dbf07eb3b88ec962"
+hash = "ba46f0d36f53a30a1b1f58eee430833e2ba480151b5e5f6203dafc1cdc145301"
 metafile = true
