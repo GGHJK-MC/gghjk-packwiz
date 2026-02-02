@@ -1,0 +1,8 @@
+name = "banhammer"
+filename = "banhammer.jar"
+side = "server"
+
+[download]
+url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/mods/mods1/banhammer.jar"
+hash-format = "sha256"
+hash = "8d68227ccf3a9f24b9387e23333b65a4d84caaf8b1a0e0e6a49e7b46be41ccea"

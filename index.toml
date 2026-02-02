@@ -36,6 +36,11 @@ hash = "682b3a9f486f68bb046f3b8dc3c985e310b115c91a17b5779bc5401473cf9837"
 metafile = true
 
 [[files]]
+file = "mods/banhammer.pw.toml"
+hash = "abbcef9a226523548e821d5664a8573f522f45fd4b06eb0340ce3a1c250d973a"
+metafile = true
+
+[[files]]
 file = "mods/bookshelf.pw.toml"
 hash = "5573ca157a6442c68e4ce1eaeef53057d369bf8e4355071945d78143d522b12a"
 metafile = true
