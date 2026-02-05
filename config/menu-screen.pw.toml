@@ -1,0 +1,8 @@
+name = "Menu-Screen"
+filename = "main.mp4"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/refs/heads/mods/config/fancymenu/assets/main.mp4"
+hash-format = "sha256"
+hash = "1a35f2b5e74a60bdd9ddb2a10fc9b494a4aa3deb4912864e4e9d8ac06c0d8c9c"

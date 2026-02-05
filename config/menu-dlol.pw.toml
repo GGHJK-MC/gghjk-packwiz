@@ -1,0 +1,8 @@
+name = "Menu-DLOL"
+filename = "drippy_loading_overlay_layout.txt"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/refs/heads/mods/config/fancymenu/customization/drippy_loading_overlay_layout.txt"
+hash-format = "sha256"
+hash = "f2d4bfe7dd2d8e1290216b79b8c9d9316966b0e1cf2f95e821e6b9e7fa565d29"

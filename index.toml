@@ -1,6 +1,81 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/menu-audio.pw.toml"
+hash = "daa12fa76a0a7f7c70193b4613104d59846e12ffdba6547492c636fad01d941a"
+metafile = true
+
+[[files]]
+file = "config/menu-cgs.pw.toml"
+hash = "d6a647ace8983415056239dc24d249644fc7bbc28aa6c04f1396d6c70675cf73"
+metafile = true
+
+[[files]]
+file = "config/menu-cms.pw.toml"
+hash = "5f853bc9c102db82e5d7df05ca28f6ab14b81ccefeb51db4d17a5f587f7e7afe"
+metafile = true
+
+[[files]]
+file = "config/menu-dlol.pw.toml"
+hash = "0bc1d2ae25cc0cbb99c9be31566ce173e742571eb89e9702f57c33f2329ed1eb"
+metafile = true
+
+[[files]]
+file = "config/menu-dlsoptions.pw.toml"
+hash = "e72009a19145e20abf47be74212edaf72d0fd2de8c4d379f405c432466057ea1"
+metafile = true
+
+[[files]]
+file = "config/menu-elc.pw.toml"
+hash = "878ed64705e7bed8e39e0f553de312a5aee7c044ae111d7a37e6a2d3ee65c660"
+metafile = true
+
+[[files]]
+file = "config/menu-lcl.pw.toml"
+hash = "2cce031bd39b6ec99956907aa3389411a3ea820330853103d9acecec67aca905"
+metafile = true
+
+[[files]]
+file = "config/menu-mains.pw.toml"
+hash = "32fab19c082800432e52770a2ebd26b3e7155168817cd1cc12847cfdd97851ed"
+metafile = true
+
+[[files]]
+file = "config/menu-options.pw.toml"
+hash = "2446d580c5c4da0be0b831f74e49f75085c8e117b3eda7abb5197576cb5a69ca"
+metafile = true
+
+[[files]]
+file = "config/menu-screen.pw.toml"
+hash = "f2be8eb015041bd00b3087c4c3f666ae0da0fa1e762e545a9386a0c82f0db361"
+metafile = true
+
+[[files]]
+file = "config/menu-uidark.pw.toml"
+hash = "151b5e77c5241db784cc73196828d8e945d379930b56509499a4deaba40a0463"
+metafile = true
+
+[[files]]
+file = "config/menu-uilight.pw.toml"
+hash = "9d19aa9655e1fe7ba2bd375693d9be66ebb93dc72ba1523c40c26d158490ec5a"
+metafile = true
+
+[[files]]
+file = "config/menu-uv.pw.toml"
+hash = "bf5576ae230d2a865723a6e4083b09a4947465dc9aa65f38a4a12c6775a7241b"
+metafile = true
+
+[[files]]
+file = "config/menu-vecms.pw.toml"
+hash = "c16759eb6b8a6d94334629c565d0b69457ca12901927bec704847708d8745aa1"
+metafile = true
+
+[[files]]
+file = "config/menu-video.pw.toml"
+hash = "d74898372d78d85466aa618d1f087fd840f386dd3da5ba4648391afde25abf34"
+metafile = true
+
+[[files]]
 file = "mods/3dskinslayer.pw.toml"
 hash = "de98a432e8897046b9bf00458e5e0c80c5cf6b8bf5f40a67667012144d7a5a11"
 metafile = true

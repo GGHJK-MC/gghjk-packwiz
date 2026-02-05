@@ -1,0 +1,8 @@
+name = "Menu-UIdark"
+filename = "dark.json"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/refs/heads/mods/config/fancymenu/ui_themes/dark.json"
+hash-format = "sha256"
+hash = "3f1263eaf693fdb6a315099b06797ac18830faa66c620916a80337a5082fd850"

@@ -1,0 +1,8 @@
+name = "Menu-DLSoptions"
+filename = "options.txt"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/refs/heads/mods/config/drippyloadingscreen/options.txt"
+hash-format = "sha256"
+hash = "8d0edcad69219e217683bde3437b11318db348c7cce676c7c67de99b58f0ccd5"

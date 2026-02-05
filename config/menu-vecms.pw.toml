@@ -1,0 +1,8 @@
+name = "Menu-VECMs"
+filename = "video_element_controller_metas.json"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/refs/heads/mods/config/fancymenu/video_element_controller_metas.json"
+hash-format = "sha256"
+hash = "79f2e7b9e0b3739d09abc84e7cc57b0e1e30b277d183cd9b7bb9788c3ddf5bf5"

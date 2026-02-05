@@ -1,0 +1,8 @@
+name = "Menu-MainS"
+filename = "main.txt"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/refs/heads/mods/config/fancymenu/customization/main.txt"
+hash-format = "sha256"
+hash = "78cae9bd6df540815b87dcd0aa1ab15a306d87615b4fbea1934d14d27538cf2f"
