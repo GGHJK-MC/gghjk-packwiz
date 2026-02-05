@@ -1,12 +1,12 @@
 name = "GGHJK Normal"
 author = "Beard"
-version = "3.0.0"
+version = "3.0.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "100eb9eca5b20e8b5ad7d2fccba2b50931e4b26f649ae83997e86462b13f873a"
+hash = "50b9abf8729de8fb62f6219b2afdfdb2a1e6c2e998e5c6a77ea3cb34c8974348"
 
 [versions]
 fabric = "0.18.4"

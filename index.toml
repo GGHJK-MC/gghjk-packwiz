@@ -156,6 +156,11 @@ hash = "75759b5f02d7f7dcf6f96c88ec59dd32a19737b0a23f65bea85991bc5d97ba50"
 metafile = true
 
 [[files]]
+file = "mods/mtr.pw.toml"
+hash = "710f1432eeab3366f06167ca10eb41d74b83031b1fbd5aebbfa50691b134dcbc"
+metafile = true
+
+[[files]]
 file = "mods/noreport.pw.toml"
 hash = "36721eaa362ac71b03743f21d7314a9c9755ed60f777298c5240188e576a0f67"
 metafile = true
