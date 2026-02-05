@@ -1,6 +1,6 @@
 name = "Menu-ELC"
 filename = "element_layer_control.lewidget"
-side = "both"
+side = "client"
 
 [download]
 url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/refs/heads/mods/config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"

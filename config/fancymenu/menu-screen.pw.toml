@@ -1,6 +1,6 @@
 name = "Menu-Screen"
 filename = "main.mp4"
-side = "both"
+side = "client"
 
 [download]
 url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/refs/heads/mods/config/fancymenu/assets/main.mp4"

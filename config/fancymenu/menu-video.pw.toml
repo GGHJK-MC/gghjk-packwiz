@@ -1,6 +1,6 @@
 name = "Menu-Video"
 filename = "intro.gif"
-side = "both"
+side = "client"
 
 [download]
 url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/refs/heads/mods/config/fancymenu/assets/intro.gif"

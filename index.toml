@@ -1,78 +1,78 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/menu-audio.pw.toml"
-hash = "daa12fa76a0a7f7c70193b4613104d59846e12ffdba6547492c636fad01d941a"
+file = "config/drippyloadingscreen/menu-dlsoptions.pw.toml"
+hash = "2b973870ee2395f8b0e155d074cd5432b097f76db4473efad3ef6edb117cf044"
 metafile = true
 
 [[files]]
-file = "config/menu-cgs.pw.toml"
-hash = "d6a647ace8983415056239dc24d249644fc7bbc28aa6c04f1396d6c70675cf73"
+file = "config/fancymenu/menu-audio.pw.toml"
+hash = "a3f1af36a2b64b494ef186f61d06e62f54c477089ae22da460d620253e559ef7"
 metafile = true
 
 [[files]]
-file = "config/menu-cms.pw.toml"
-hash = "5f853bc9c102db82e5d7df05ca28f6ab14b81ccefeb51db4d17a5f587f7e7afe"
+file = "config/fancymenu/menu-cgs.pw.toml"
+hash = "4e9e1e789cf7847a4e9e429431ba122c90a4bf0d4765d6f1634c3b85950cd11c"
 metafile = true
 
 [[files]]
-file = "config/menu-dlol.pw.toml"
-hash = "0bc1d2ae25cc0cbb99c9be31566ce173e742571eb89e9702f57c33f2329ed1eb"
+file = "config/fancymenu/menu-cms.pw.toml"
+hash = "93f03ec20a719334455232a7a581d1502f9e5abaaaf522f47d3a8c7e4c6207ff"
 metafile = true
 
 [[files]]
-file = "config/menu-dlsoptions.pw.toml"
-hash = "e72009a19145e20abf47be74212edaf72d0fd2de8c4d379f405c432466057ea1"
+file = "config/fancymenu/menu-dlol.pw.toml"
+hash = "89479f4c373735c65cf6384bfda76c6c51d06fe98f0f9db746ff85769e10dbbc"
 metafile = true
 
 [[files]]
-file = "config/menu-elc.pw.toml"
-hash = "878ed64705e7bed8e39e0f553de312a5aee7c044ae111d7a37e6a2d3ee65c660"
+file = "config/fancymenu/menu-elc.pw.toml"
+hash = "b8a4b3848a8bbaaae989cca18c6663225bf82ed6bb51a4cf6649aa276648bf0c"
 metafile = true
 
 [[files]]
-file = "config/menu-lcl.pw.toml"
-hash = "2cce031bd39b6ec99956907aa3389411a3ea820330853103d9acecec67aca905"
+file = "config/fancymenu/menu-lcl.pw.toml"
+hash = "f11642fb3889a366fe41099183ab10107587292d27d436a25375705f24d67b3a"
 metafile = true
 
 [[files]]
-file = "config/menu-mains.pw.toml"
-hash = "32fab19c082800432e52770a2ebd26b3e7155168817cd1cc12847cfdd97851ed"
+file = "config/fancymenu/menu-mains.pw.toml"
+hash = "19f7c1a814f3cfb205e4406350f28061b44c2efd48ef9f12da08eda8626dc860"
 metafile = true
 
 [[files]]
-file = "config/menu-options.pw.toml"
-hash = "2446d580c5c4da0be0b831f74e49f75085c8e117b3eda7abb5197576cb5a69ca"
+file = "config/fancymenu/menu-options.pw.toml"
+hash = "47b6035c2dbbfb0eefbac22d0edfe033cdac15945e64e8e5a048844526943911"
 metafile = true
 
 [[files]]
-file = "config/menu-screen.pw.toml"
-hash = "f2be8eb015041bd00b3087c4c3f666ae0da0fa1e762e545a9386a0c82f0db361"
+file = "config/fancymenu/menu-screen.pw.toml"
+hash = "d3b1f1b0d8a771cb6d6dbf4ca3b247f6b0a09c4bebcb42d71ce3c289936cb2d3"
 metafile = true
 
 [[files]]
-file = "config/menu-uidark.pw.toml"
-hash = "151b5e77c5241db784cc73196828d8e945d379930b56509499a4deaba40a0463"
+file = "config/fancymenu/menu-uidark.pw.toml"
+hash = "0f7398cf770670b1451a9204c1aa499c255de4d5c50a76d4b3bec13ff62ed973"
 metafile = true
 
 [[files]]
-file = "config/menu-uilight.pw.toml"
-hash = "9d19aa9655e1fe7ba2bd375693d9be66ebb93dc72ba1523c40c26d158490ec5a"
+file = "config/fancymenu/menu-uilight.pw.toml"
+hash = "aec7b0da77ca1359872094a20bfc717ed2133b6367c9b6bd2288859d589bfa53"
 metafile = true
 
 [[files]]
-file = "config/menu-uv.pw.toml"
-hash = "bf5576ae230d2a865723a6e4083b09a4947465dc9aa65f38a4a12c6775a7241b"
+file = "config/fancymenu/menu-uv.pw.toml"
+hash = "2e523d5f76b528fe9777b8764d118399fb7a74e917c1c870f75497d009873f51"
 metafile = true
 
 [[files]]
-file = "config/menu-vecms.pw.toml"
-hash = "c16759eb6b8a6d94334629c565d0b69457ca12901927bec704847708d8745aa1"
+file = "config/fancymenu/menu-vecms.pw.toml"
+hash = "be661704064783b9455ff10c30e5c638cc1fe2de0e98384f2baa4914bb8b0850"
 metafile = true
 
 [[files]]
-file = "config/menu-video.pw.toml"
-hash = "d74898372d78d85466aa618d1f087fd840f386dd3da5ba4648391afde25abf34"
+file = "config/fancymenu/menu-video.pw.toml"
+hash = "293409d3cf399f9373cb647f35bfa5b1635537361052d7b4759b6c17228546c0"
 metafile = true
 
 [[files]]

@@ -1,6 +1,6 @@
 name = "Menu-MainS"
 filename = "main.txt"
-side = "both"
+side = "client"
 
 [download]
 url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/refs/heads/mods/config/fancymenu/customization/main.txt"

@@ -1,6 +1,6 @@
 name = "Menu-UIlight"
 filename = "light.json"
-side = "both"
+side = "client"
 
 [download]
 url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/refs/heads/mods/config/fancymenu/ui_themes/light.json"

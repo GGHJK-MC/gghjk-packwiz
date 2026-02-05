@@ -1,6 +1,6 @@
 name = "Menu-DLOL"
 filename = "drippy_loading_overlay_layout.txt"
-side = "both"
+side = "client"
 
 [download]
 url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/refs/heads/mods/config/fancymenu/customization/drippy_loading_overlay_layout.txt"
