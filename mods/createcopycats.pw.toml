@@ -1,0 +1,8 @@
+name = "Create Copycats"
+filename = "createC.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/refs/heads/mods/mods1/createC.jar"
+hash-format = "sha256"
+hash = "7d684e6a829fcacf5ab94d20044cad0e7eb5376cbe02d77954fc41a2d264511f"

@@ -1,0 +1,8 @@
+name = "Max Build Limit"
+filename = "maxWH.jar"
+side = "server"
+
+[download]
+url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/refs/heads/mods/mods1/maxWH.jar"
+hash-format = "sha256"
+hash = "c95f32811df957a6b6fada302fde2131d025ed95a9e873bf99643024e596c75a"

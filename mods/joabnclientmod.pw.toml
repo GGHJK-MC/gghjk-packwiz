@@ -1,8 +1,0 @@
-name = "JoabnClientMod"
-filename = "MTR-JCM.jar"
-side = "both"
-
-[download]
-url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/refs/heads/mods/mods1/MTR-JCM.jar"
-hash-format = "sha256"
-hash = "22878968d6a6b053b2a4f85b8b09982c874e4b2c51c3ae2604ed45e904f9d028"

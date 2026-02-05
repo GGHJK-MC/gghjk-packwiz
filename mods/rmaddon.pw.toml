@@ -1,0 +1,8 @@
+name = "RM Addon"
+filename = "MTR-RM.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/refs/heads/mods/mods1/MTR-RM.jar"
+hash-format = "sha256"
+hash = "d4d8fc3686f99f7b77988f991fcebcc3a4896bf1f01bab53b8417a8622604710"

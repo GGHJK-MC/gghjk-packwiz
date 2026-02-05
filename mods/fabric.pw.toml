@@ -1,8 +1,0 @@
-name = "Fabric"
-filename = "FABRIC.jar"
-side = "both"
-
-[download]
-url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/refs/heads/mods/mods1/FABRIC.jar"
-hash-format = "sha256"
-hash = "c575b488d749ee9cee3bf88ed45159cf8930518e363607e368b69f86628f58e0"

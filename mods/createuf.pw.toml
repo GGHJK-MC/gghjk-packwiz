@@ -1,8 +1,0 @@
-name = "createUF"
-filename = "createUF.jar"
-side = "both"
-
-[download]
-url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/refs/heads/mods/mods1/createUF.jar"
-hash-format = "sha256"
-hash = "712bc4bef28eb83737d8aec23219b618c0adc267c5cf6f250f999c1481762db1"

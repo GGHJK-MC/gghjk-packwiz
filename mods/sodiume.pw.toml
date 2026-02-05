@@ -1,8 +1,0 @@
-name = "SodiumE"
-filename = "sodiumE.jar"
-side = "client"
-
-[download]
-url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/refs/heads/mods/mods1/sodiumE.jar"
-hash-format = "sha256"
-hash = "5cae656838b595e27d5133264374e5d90f5f35a39e343bfc5a76b908fec97c9f"

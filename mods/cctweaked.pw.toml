@@ -1,0 +1,8 @@
+name = "CC:Tweaked"
+filename = "cc-tweaked.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/refs/heads/mods/mods1/cc-tweaked.jar"
+hash-format = "sha256"
+hash = "b6eceea92d5d0e245867499a5132022de469d45010184c05c937a2dcf9f0291d"

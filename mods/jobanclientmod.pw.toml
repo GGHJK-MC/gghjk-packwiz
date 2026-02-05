@@ -1,0 +1,8 @@
+name = "JobanClientMod"
+filename = "MTR-JCM.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/refs/heads/mods/mods1/MTR-JCM.jar"
+hash-format = "sha256"
+hash = "1a0609bf858c2d5f85b7a4187b60065dc44efc8f84f604eab11fb2ec743ec90e"

@@ -1,8 +1,0 @@
-name = "Skins3D"
-filename = "s3d.jar"
-side = "both"
-
-[download]
-url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/refs/heads/mods/mods1/s3d.jar"
-hash-format = "sha256"
-hash = "4bab7916340af0cc9c8e91b198b69533b2c5fb02956d8cc98d7191dc627d3da4"

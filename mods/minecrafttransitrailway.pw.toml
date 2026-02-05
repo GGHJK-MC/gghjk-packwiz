@@ -1,0 +1,8 @@
+name = "Minecraft Transit Railway"
+filename = "MTR.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/refs/heads/mods/mods1/MTR.jar"
+hash-format = "sha256"
+hash = "0cc868e170623336899bce1b0f363553522350f399ece26724f8eb76c350fe46"

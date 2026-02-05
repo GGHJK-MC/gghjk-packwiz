@@ -1,8 +1,0 @@
-name = "MTR"
-filename = "MTR.jar"
-side = "both"
-
-[download]
-url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/refs/heads/mods/mods1/MTR.jar"
-hash-format = "sha256"
-hash = "b8bf18dc4ff204945744557dc280e2a1cd9a178c52a2ce6f570e10d0ff311191"

@@ -1,0 +1,8 @@
+name = "Coolective"
+filename = "collective.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/refs/heads/mods/mods1/collective.jar"
+hash-format = "sha256"
+hash = "80dd754b75c530768904e912ace11e0cf4deac7d1784b883dbeaead082469cd2"

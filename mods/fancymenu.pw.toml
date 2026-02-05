@@ -1,0 +1,8 @@
+name = "FancyMenu"
+filename = "fancymenu.jar"
+side = "client"
+
+[download]
+url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/refs/heads/mods/mods1/fancymenu.jar"
+hash-format = "sha256"
+hash = "ba1ddf0f61def8ea87e7757ebb45f1390e1da0f7ebce1aff299b0a169b045858"

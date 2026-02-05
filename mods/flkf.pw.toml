@@ -1,8 +1,0 @@
-name = "fLKF"
-filename = "fabricLKF.jar"
-side = "both"
-
-[download]
-url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/refs/heads/mods/mods1/fabricLKF.jar"
-hash-format = "sha256"
-hash = "760953d8d3d1fa32a353593d744e2917d8a91ca8923ae9518b5ef2676a631002"

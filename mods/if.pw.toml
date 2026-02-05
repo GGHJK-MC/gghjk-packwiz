@@ -1,8 +1,0 @@
-name = "IF"
-filename = "IF.jar"
-side = "both"
-
-[download]
-url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/refs/heads/mods/mods1/IF.jar"
-hash-format = "sha256"
-hash = "cbb4ca2f6fda0c0b7e4bec16f34bbff7661d989a443029f40bbf5393a76e53b4"

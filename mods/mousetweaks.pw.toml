@@ -1,0 +1,8 @@
+name = "Mouse Tweaks"
+filename = "MouseT.jar"
+side = "client"
+
+[download]
+url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/refs/heads/mods/mods1/MouseT.jar"
+hash-format = "sha256"
+hash = "6c27d16aa715ac6613a55fc463739e2c7b78279e4e4c4cede299e4a2d4a70f08"

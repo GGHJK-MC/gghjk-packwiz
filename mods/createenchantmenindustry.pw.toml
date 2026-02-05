@@ -1,0 +1,8 @@
+name = "Create Enchantmen Industry"
+filename = "createEI.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/refs/heads/mods/mods1/createEI.jar"
+hash-format = "sha256"
+hash = "8a8b1ba1d5348cf737701697f534ce7570f28b4d00557f9b8b2eca1e7aaefc71"

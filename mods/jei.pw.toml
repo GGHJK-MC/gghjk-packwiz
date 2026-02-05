@@ -1,8 +1,8 @@
 name = "JEI"
-filename = "jei.jar"
-side = "both"
+filename = "JEI.jar"
+side = "client"
 
 [download]
-url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/refs/heads/mods/mods1/jei.jar"
+url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/refs/heads/mods/mods1/JEI.jar"
 hash-format = "sha256"
-hash = "af22d7417125fdb4340ceb2e59ab7024f60b0c0d46cd0b401edfb5bedd8ba201"
+hash = "5e5af05aa082f5844c7b3ed0b3bd9374e160ae1914906f71d90c5656e4e80039"

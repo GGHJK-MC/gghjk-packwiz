@@ -1,0 +1,8 @@
+name = "Create Steam n Rails"
+filename = "createSR.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/refs/heads/mods/mods1/createSR.jar"
+hash-format = "sha256"
+hash = "3c82e5e4ae40c2549b4410fe242991dea3de5f55c8aa0da74c6dcfdeb1d401bf"
