@@ -1,13 +1,13 @@
 name = "GGHJK Normal"
-author = "GGHJK"
-version = "2.0.0"
+author = "Beard"
+version = "3.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "65ce8e609bd7693582a2d93733d45afa5be396097625a5c89dfcc7b3f97f664c"
+hash = "100eb9eca5b20e8b5ad7d2fccba2b50931e4b26f649ae83997e86462b13f873a"
 
 [versions]
-minecraft = "1.21.1"
-neoforge = "21.1.213"
+fabric = "0.18.4"
+minecraft = "1.20.1"

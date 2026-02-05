@@ -1,0 +1,8 @@
+name = "cloth-config"
+filename = "cloth-config.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/refs/heads/mods/mods1/cloth-config.jar"
+hash-format = "sha256"
+hash = "844f49c339c8f3144e167ab21b7d0059f0d571054e26285a0749348da25c49fa"

@@ -1,0 +1,8 @@
+name = "BetterRAM"
+filename = "memoryleakfix.jar"
+side = "client"
+
+[download]
+url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/refs/heads/mods/mods1/memoryleakfix.jar"
+hash-format = "sha256"
+hash = "b8ac33d7262e019710dd25e454116616bc9ed1f714ed910594b28a4c1da5adde"

@@ -1,8 +1,0 @@
-name = "Eniti Culling"
-filename = "entityculling.jar"
-side = "both"
-
-[download]
-url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/mods/mods1/entityculling.jar"
-hash-format = "sha256"
-hash = "c30406bd4b5aa7416f0889b69ffcd6cd4defed6ef2055254f8b5a9d1ae9ca223"

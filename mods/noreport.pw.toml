@@ -1,0 +1,8 @@
+name = "NoReport"
+filename = "NCR.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/refs/heads/mods/mods1/NCR.jar"
+hash-format = "sha256"
+hash = "8ff70525b0fbc5fa7592424872aa8092db1f7646d53817590bd9f9b88c75babc"

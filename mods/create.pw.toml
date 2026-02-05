@@ -1,8 +1,8 @@
-name = "Create"
+name = "create"
 filename = "create.jar"
 side = "both"
 
 [download]
 url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/refs/heads/mods/mods1/create.jar"
 hash-format = "sha256"
-hash = "2d403500cd550db452a975ec3d4ba21b6097360d4dd575311112fe322055b1ee"
+hash = "33ec1d696c687e95cded0cffa6d581ac80bc9e416ec6040fcd595ce226d70bfb"

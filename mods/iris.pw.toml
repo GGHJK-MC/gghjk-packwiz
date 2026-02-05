@@ -1,0 +1,8 @@
+name = "Iris"
+filename = "iri.jar"
+side = "client"
+
+[download]
+url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/refs/heads/mods/mods1/iri.jar"
+hash-format = "sha256"
+hash = "9eb15e563e0c9ae6eff15b7863f8432dd290cf9f724c7373e9b15b14aa829ed5"

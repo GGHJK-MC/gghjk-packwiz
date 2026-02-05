@@ -1,8 +1,0 @@
-name = "Create: DP"
-filename = "createDP.jar"
-side = "both"
-
-[download]
-url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/mods/mods1/createDP.jar"
-hash-format = "sha256"
-hash = "213fa28efdc530ba87d6a5e5be7876b4cf3a3994624c5a266661d43889088f34"

@@ -1,8 +1,0 @@
-name = "CCCBridge"
-filename = "cccbridge.jar"
-side = "both"
-
-[download]
-url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/mods/mods1/cccbridge.jar"
-hash-format = "sha256"
-hash = "cc268961ea1b1a0d4e36eaff36d8b987e2f65b113d230a125953778ec83c6687"

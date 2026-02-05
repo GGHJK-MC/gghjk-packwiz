@@ -1,8 +1,0 @@
-name = "Supplementaries"
-filename = "supplementaries.jar"
-side = "both"
-
-[download]
-url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/mods/mods1/supplementaries.jar"
-hash-format = "sha256"
-hash = "2200f725ffd1b2d1f3e772c2a32b344b0700ed6fe4d56285287d20c929c0157d"

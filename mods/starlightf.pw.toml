@@ -1,8 +1,0 @@
-name = "starlightf"
-filename = "ScalableLux.jar"
-side = "server"
-
-[download]
-url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/mods/mods1/ScalableLux.jar"
-hash-format = "sha256"
-hash = "74340a37af858014ecf66068054bed3ab778b22d24956d348a2ec2bc3c585cb5"

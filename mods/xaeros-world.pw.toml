@@ -1,8 +1,0 @@
-name = "Xaeros WorldMap"
-filename = "XaerosWM.jar"
-side = "both"
-
-[download]
-url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/mods/mods1/XaerosWM.jar"
-hash-format = "sha256"
-hash = "39285c3533f8b83f22cb2454cb05a5350041d08581677f6ed1e21cbaf6c92d81"

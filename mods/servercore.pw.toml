@@ -1,8 +1,0 @@
-name = "servercore"
-filename = "servercore.jar"
-side = "server"
-
-[download]
-url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/mods/mods1/servercore.jar"
-hash-format = "sha256"
-hash = "528b60a3531819e6d5d4c98d8f858c39467b9234d2b5f20c31b48562073b67b0"

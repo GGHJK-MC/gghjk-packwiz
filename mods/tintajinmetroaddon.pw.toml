@@ -1,0 +1,8 @@
+name = "TintajinMetroAddon"
+filename = "MTR-TM.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/refs/heads/mods/mods1/MTR-TM.jar"
+hash-format = "sha256"
+hash = "c9d76ff5d55caeff9b287a2f7d888f89caea00f00505e9cd9f2becdd35386abe"

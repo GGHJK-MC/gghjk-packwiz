@@ -1,8 +1,0 @@
-name = "MCEf"
-filename = "mcef.jar"
-side = "both"
-
-[download]
-url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/refs/heads/mods/mods1/mcef.jar"
-hash-format = "sha256"
-hash = "0c7696216fa5cfee659d687475873c847a9a17cc8ce3a56119a69c946eeb8772"

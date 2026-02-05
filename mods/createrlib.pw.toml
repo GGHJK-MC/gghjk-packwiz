@@ -1,8 +1,0 @@
-name = "CreaterLib"
-filename = "CreaterLib.jar"
-side = "both"
-
-[download]
-url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/mods/mods1/CreaterLib.jar"
-hash-format = "sha256"
-hash = "189255780fd95d5e415167f09247c13a7cda0f74c7f93756b19a5c288dc6fe06"

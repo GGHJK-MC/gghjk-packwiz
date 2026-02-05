@@ -1,0 +1,8 @@
+name = "RPUpdater"
+filename = "dynamicpack.jar"
+side = "client"
+
+[download]
+url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/refs/heads/mods/mods1/dynamicpack.jar"
+hash-format = "sha256"
+hash = "71ea833c5671a90b6d4d11f439c617fc95375a469bff9c553799da5a9bba2551"

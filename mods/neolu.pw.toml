@@ -1,8 +1,0 @@
-name = "NeoLMTR: London Underground Addon"
-filename = "neoLU.jar"
-side = "both"
-
-[download]
-url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/mods/mods1/neoLU.jar"
-hash-format = "sha256"
-hash = "fbdc1cac923e85c5d92c75dbfc81c7f5df27959fffed5df0642caabdac226767"

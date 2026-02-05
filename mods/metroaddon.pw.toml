@@ -1,0 +1,8 @@
+name = "MetroAddon"
+filename = "MTR-RMA.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/refs/heads/mods/mods1/MTR-RMA.jar"
+hash-format = "sha256"
+hash = "ed5567bc421be0112659252c89d6beb7ab869bdec05db9b55371e8e2b195a16f"

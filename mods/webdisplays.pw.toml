@@ -1,8 +1,0 @@
-name = "WebDisplays"
-filename = "webdisplays.jar"
-side = "both"
-
-[download]
-url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/refs/heads/mods/mods1/webdisplays.jar"
-hash-format = "sha256"
-hash = "74f3150553bc1b0fc9f9f3964921eb5fc5fc886c6f5afe519cb425ebab76cc13"

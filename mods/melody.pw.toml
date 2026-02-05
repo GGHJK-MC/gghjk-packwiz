@@ -1,0 +1,8 @@
+name = "Melody"
+filename = "melody.jar"
+side = "client"
+
+[download]
+url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/refs/heads/mods/mods1/melody.jar"
+hash-format = "sha256"
+hash = "3f7f5bab77a01a26af4702a70af5a7fd0a6f04f4fde51a4180113790e0c9e1e7"

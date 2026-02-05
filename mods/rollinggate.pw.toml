@@ -1,8 +1,0 @@
-name = "RollingGate"
-filename = "RollingGate.jar"
-side = "server"
-
-[download]
-url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/mods/mods1/RollingGate.jar"
-hash-format = "sha256"
-hash = "8c60437f2dd91ca3872d1c147497c5279bc1e92a6fbc3c2fb5631d59d3e399a4"

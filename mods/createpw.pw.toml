@@ -1,8 +1,8 @@
-name = "Create: PW"
+name = "createPW"
 filename = "createPW.jar"
 side = "both"
 
 [download]
-url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/mods/mods1/createPW.jar"
+url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/refs/heads/mods/mods1/createPW.jar"
 hash-format = "sha256"
-hash = "31004286d41510b07e812912f8510696065f77be593098a163701d26d4ffe17d"
+hash = "a0846dcf3a9c24b17881f081124968705cb98dc2c5588e854a333f61f53fa8dd"

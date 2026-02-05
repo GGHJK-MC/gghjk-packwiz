@@ -1,0 +1,8 @@
+name = "Fapi"
+filename = "fabric-api.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/refs/heads/mods/mods1/fabric-api.jar"
+hash-format = "sha256"
+hash = "d5e7750a599ee23d1e8ce1716f27c4761f4e7a84e8a08d5eb8f0ad8c155c8cb1"

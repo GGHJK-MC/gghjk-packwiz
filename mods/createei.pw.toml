@@ -1,8 +1,0 @@
-name = "Create: EI"
-filename = "createEI.jar"
-side = "both"
-
-[download]
-url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/mods/mods1/createEI.jar"
-hash-format = "sha256"
-hash = "1cc20ff42f2fb8132d9978ba7a26d888088965e43a98c44489efd5ffd5a617d9"

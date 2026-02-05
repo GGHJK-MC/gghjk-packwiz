@@ -1,0 +1,8 @@
+name = "createSR"
+filename = "createSR.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/refs/heads/mods/mods1/createSR.jar"
+hash-format = "sha256"
+hash = "38f35fa36c1688f129f7c2b4ecc741abd0fed12ad996f23b58e15e8162985ce5"

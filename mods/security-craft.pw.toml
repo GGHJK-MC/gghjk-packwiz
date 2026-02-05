@@ -1,8 +1,0 @@
-name = "Security Craft"
-filename = "SecurityCraft.jar"
-side = "both"
-
-[download]
-url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/mods/mods1/SecurityCraft.jar"
-hash-format = "sha256"
-hash = "ed98e1ad30360ec36d58962ce9d3891e2e6c1a3c68ed07f9545040b9ced85ede"

@@ -1,0 +1,12 @@
+name = "WorldMap"
+filename = "worldmap.jar"
+side = "client"
+
+[download]
+url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/refs/heads/mods/mods1/worldmap.jar"
+hash-format = "sha256"
+hash = "96e2ce18553d9b7f54ae8b3b965b0931f8256697f4516ff0570c534d5a90dbea"
+
+[option]
+optional = true
+description = "Přidává Mapu Světa"

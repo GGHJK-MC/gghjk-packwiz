@@ -1,8 +1,0 @@
-name = "Mousetweaks"
-filename = "MouseTweaks.jar"
-side = "both"
-
-[download]
-url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/mods/mods1/MouseTweaks.jar"
-hash-format = "sha256"
-hash = "68e6f4201c5de97b77929a7215c9552495696ca6a3bf3ae4eacc34e135f6cc8b"
