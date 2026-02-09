@@ -1,6 +1,6 @@
 name = "GGHJK Normal"
-author = "Beard"
-version = "0.0.1"
+author = "Beard1425"
+version = "6.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
@@ -9,5 +9,5 @@ hash-format = "sha256"
 hash = "0363822f15e7fbf13573325a33a585c850f48e6cbdf0a5b7e297d1cab158650b"
 
 [versions]
-forge = "47.4.10"
-minecraft = "1.20.1"
+minecraft = "1.21.1"
+neoforge = "21.1.213"
