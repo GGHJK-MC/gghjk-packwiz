@@ -124,6 +124,11 @@ hash = "b6663202e0a917a29dd028779d004fc3fefe7e676e1a38f5a5823ac0a7a17d12"
 metafile = true
 
 [[files]]
+file = "mods/collective.pw.toml"
+hash = "eec91df55bf0bbdbe4adbd4634aa0819bcf670aaf1cd20db987c72387ed14294"
+metafile = true
+
+[[files]]
 file = "mods/computercraft.pw.toml"
 hash = "768118c05b7029e81fadf3a3cc05043bbe0f842248d9192e4160ba05c951388a"
 metafile = true
