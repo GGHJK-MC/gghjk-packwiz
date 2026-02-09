@@ -1,8 +1,8 @@
-name = "Create Ultimate Factory"
+name = "CreateUltimateFactory"
 filename = "createUL.jar"
 side = "both"
 
 [download]
-url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/refs/heads/mods/mods1/createUL.jar"
+url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/mods/mods1/createUL.jar"
 hash-format = "sha256"
-hash = "104059eca4bb6d4f7c81e7a2a9468d1086578038d478b95de774d8d524b1b217"
+hash = "d07675d794c7e8e61134245c52393ffa12569e8d89753146d8a5171ebe5cdadb"

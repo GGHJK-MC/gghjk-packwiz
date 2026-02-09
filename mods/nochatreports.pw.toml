@@ -1,8 +1,0 @@
-name = "No Chat Reports"
-filename = "NCR.jar"
-side = "both"
-
-[download]
-url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/refs/heads/mods/mods1/NCR.jar"
-hash-format = "sha256"
-hash = "ef7fa5096dfd492c3d3ae7228888ca4b92ce07d9b8e302297ceb2ceb1f8d238c"

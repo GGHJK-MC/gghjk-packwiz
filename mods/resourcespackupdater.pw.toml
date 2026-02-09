@@ -1,8 +1,0 @@
-name = "Resources Pack Updater"
-filename = "RPU.jar"
-side = "client"
-
-[download]
-url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/refs/heads/mods/mods1/RPU.jar"
-hash-format = "sha256"
-hash = "6575eaef54f31e4a832c84e2f40619a0242d679c981abf32de4bf38bd62f3603"

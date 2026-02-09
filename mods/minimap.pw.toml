@@ -1,8 +1,0 @@
-name = "MiniMap"
-filename = "xmmap.jar"
-side = "client"
-
-[download]
-url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/refs/heads/mods/mods1/xmmap.jar"
-hash-format = "sha256"
-hash = "51ab57b4acafc2b86ca9526323de0a5393a2d26523406b5cf9297d1e71b903a5"

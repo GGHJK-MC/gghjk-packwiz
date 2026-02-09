@@ -1,8 +1,0 @@
-name = "Drippy Loading Screen"
-filename = "DrippyLS.jar"
-side = "client"
-
-[download]
-url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/refs/heads/mods/mods1/DrippyLS.jar"
-hash-format = "sha256"
-hash = "5dc8087df6d6d8849fe1df5a6a342268a6986731ee801cb46a58d725d9e1e204"

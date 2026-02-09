@@ -3,6 +3,6 @@ filename = "modernfix.jar"
 side = "both"
 
 [download]
-url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/refs/heads/mods/mods1/modernfix.jar"
+url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/mods/mods1/modernfix.jar"
 hash-format = "sha256"
-hash = "e9f00f787a78a976b8493eafeee63ff08fadb31bcb0a1e938d7b940d17ac70ae"
+hash = "4b0b0f36813255592d5b0d1eebd8fd2219e27038cc8966dd53b2209dd69bb058"

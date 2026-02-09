@@ -1,8 +1,0 @@
-name = "AE2 Infinity Booster"
-filename = "AE2IB.jar"
-side = "both"
-
-[download]
-url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/refs/heads/mods/mods1/AE2IB.jar"
-hash-format = "sha256"
-hash = "d3bb341583ef1287ba28993c62b7ada6dbb07016d231f7cb5480844bc458ccf8"

@@ -1,8 +1,0 @@
-name = "WorldMap"
-filename = "xwmap.jar"
-side = "client"
-
-[download]
-url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/refs/heads/mods/mods1/xwmap.jar"
-hash-format = "sha256"
-hash = "717c9dfe1a9b4944c4bdb1b38c2d4ea9e59fc40331bbffa8103222dc2a7957fd"

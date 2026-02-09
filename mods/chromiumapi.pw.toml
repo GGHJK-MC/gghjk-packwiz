@@ -1,8 +1,0 @@
-name = "Chromium API"
-filename = "mcef.jar"
-side = "client"
-
-[download]
-url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/refs/heads/mods/mods1/mcef.jar"
-hash-format = "sha256"
-hash = "5c462342264ac89597891d5d4bcdf6b8134ce4cc5dd97894dbd87ecc197f0cb3"

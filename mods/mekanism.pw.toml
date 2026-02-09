@@ -1,8 +1,8 @@
 name = "Mekanism"
-filename = "Mek.jar"
+filename = "mek.jar"
 side = "both"
 
 [download]
-url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/refs/heads/mods/mods1/Mek.jar"
+url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/mods/mods1/mek.jar"
 hash-format = "sha256"
-hash = "3b0d191fa4a45e662f9725991d76a30192f30186abb2ba694b873b5f7b9358d2"
+hash = "0be01fe153c17a8aab4c923e44f5e7546d69b37007b757580c85af7ec846cc5a"

@@ -1,8 +1,0 @@
-name = "Create:CC Bridge"
-filename = "cccB.jar"
-side = "both"
-
-[download]
-url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/refs/heads/mods/mods1/cccB.jar"
-hash-format = "sha256"
-hash = "3a2deed262d2eec51123946c9fda83894434e0d4fc42ccb92a92bc10495eeea6"

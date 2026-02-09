@@ -1,8 +1,0 @@
-name = "Applied Energestic 2"
-filename = "AE2.jar"
-side = "both"
-
-[download]
-url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/refs/heads/mods/mods1/AE2.jar"
-hash-format = "sha256"
-hash = "fbfee05c6674cb6b00fe425e945ca4818d41eb34069b60dcb4a36221a0390fcc"

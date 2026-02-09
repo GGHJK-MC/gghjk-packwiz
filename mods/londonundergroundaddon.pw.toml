@@ -1,8 +1,0 @@
-name = "London Underground Addon"
-filename = "MTR-LU.jar"
-side = "both"
-
-[download]
-url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/refs/heads/mods/mods1/MTR-LU.jar"
-hash-format = "sha256"
-hash = "f92cc76d95f4070ae193fd01d18999f721fb9ecc44d986733883695dab8dfe66"
