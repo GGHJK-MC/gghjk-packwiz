@@ -250,7 +250,7 @@ metafile = true
 
 [[files]]
 file = "mods/irisshaders.pw.toml"
-hash = "2acb997c798e59ef3e7b16744e39c6df60c61909486345c55cdf9323201a5278"
+hash = "8ed22b2106adb6ee80f2a3c19b48f30e1a51e83b686fa3e5096986c90fd2086d"
 metafile = true
 
 [[files]]
@@ -300,7 +300,7 @@ metafile = true
 
 [[files]]
 file = "mods/reesessodiumoptions.pw.toml"
-hash = "f20dc04cdafdd2badbe59091f3452dbcb1d8cb4401fd883ce3bc849a971852f4"
+hash = "fd121aabb6a41c8d0e7e2d8d2f0c5715c0cc2b9564085b489a16eea367c5ee73"
 metafile = true
 
 [[files]]
@@ -310,12 +310,12 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "6445e0613b33c715c87337d31aa57c9e75e5250f60eb23af4e9a8bfdc2851c51"
+hash = "8ee436f77a3d71acf21a50a944c0eef0397216afebee24f26fe04f04d20f15b8"
 metafile = true
 
 [[files]]
 file = "mods/sodiumextras.pw.toml"
-hash = "121902ef923e4aec529ec279f4cedc0671c28ae7a38736bb8240969ea5217c7d"
+hash = "5cd6c1296ddd7bf023765b89aeb6ef8f5a328eb05b22f39adf8414fdfcf08f47"
 metafile = true
 
 [[files]]

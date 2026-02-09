@@ -9,4 +9,4 @@ hash = "e00e960f9cae9ea411429fadaa48e2d778f8064667cf6aaee7ce88332813b0bf"
 
 [option]
 optional = true
-description = "[[Sodium]]/n Reese's Sodium Options přidává nastavení do sodium"
+description = "[[Sodium]]/nReese's Sodium Options přidává nastavení do sodium"

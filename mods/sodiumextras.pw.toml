@@ -9,4 +9,4 @@ hash = "c20fe1a554916cde5dd0ac72ba2b82ed04263026d4394ac51be6f7a300902443"
 
 [option]
 optional = true
-description = "[[Sodium]]/n Addon pro sodium"
+description = "[[Sodium]]/nAddon pro sodium"
