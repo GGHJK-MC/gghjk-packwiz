@@ -84,6 +84,11 @@ hash = "aec7b0da77ca1359872094a20bfc717ed2133b6367c9b6bd2288859d589bfa53"
 metafile = true
 
 [[files]]
+file = "config/fml-toml.pw.toml"
+hash = "066c79185a1b309773abd8707cde34f1a46f2adad4cae170743d2d12e4b57f89"
+metafile = true
+
+[[files]]
 file = "mods/advancedperaphials.pw.toml"
 hash = "72f9522c5c6c9b4cefad24c56ebc98ad6f4f4026cf98ee049dde8ad1b90ec034"
 metafile = true
@@ -229,6 +234,11 @@ hash = "e429e1cfc377fc4eebfb587e8e0495a4121d2f1ec5190a959c988fcffaca348b"
 metafile = true
 
 [[files]]
+file = "mods/ferritecore.pw.toml"
+hash = "5c7e2afa8ff5fc3b6eeaf1e64a1f6c0b6598b7ab8ebbfbf0790f30940a8b76ee"
+metafile = true
+
+[[files]]
 file = "mods/imadetlinyfast.pw.toml"
 hash = "26f82e0763042a7f7c53613ab64259dc420b9321a362ef948783aaa77d411ecd"
 metafile = true
@@ -256,6 +266,11 @@ metafile = true
 [[files]]
 file = "mods/lithium.pw.toml"
 hash = "7f502f1fb5c1bb8763a90eb8deba23b991bc264fa39c517fb6b99d6bf1ba9ff2"
+metafile = true
+
+[[files]]
+file = "mods/mcef-minecraftchromiumembeddedframework.pw.toml"
+hash = "dcecc2e93cfb40a56cee2e19386d2990e2424c060a161e95d77650b0bf8fb2b3"
 metafile = true
 
 [[files]]
