@@ -224,11 +224,6 @@ hash = "e429e1cfc377fc4eebfb587e8e0495a4121d2f1ec5190a959c988fcffaca348b"
 metafile = true
 
 [[files]]
-file = "mods/ferritecore.pw.toml"
-hash = "fe856bbd1ddf83a4237a2811a1ec4f10cc20aa9c28b0a8fe3bb417f3614168d6"
-metafile = true
-
-[[files]]
 file = "mods/imadetlinyfast.pw.toml"
 hash = "26f82e0763042a7f7c53613ab64259dc420b9321a362ef948783aaa77d411ecd"
 metafile = true

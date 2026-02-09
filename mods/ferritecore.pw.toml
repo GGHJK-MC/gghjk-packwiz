@@ -1,8 +1,0 @@
-name = "FerriteCore"
-filename = "fcore.jar"
-side = "both"
-
-[download]
-url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/mods/mods1/fcore.jar"
-hash-format = "sha256"
-hash = "d87ea28262715ebff45b8a82d493e6b468e7a4521bc021df5d88302196d030a8"
