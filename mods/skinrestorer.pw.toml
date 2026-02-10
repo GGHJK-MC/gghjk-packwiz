@@ -1,6 +1,6 @@
 name = "SkinRestorer"
 filename = "skinr.jar"
-side = "both"
+side = "server"
 
 [download]
 url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/mods/mods1/skinr.jar"

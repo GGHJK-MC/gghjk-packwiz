@@ -1,6 +1,6 @@
 name = "IrisShaders"
 filename = "iris.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/mods/mods1/iris.jar"

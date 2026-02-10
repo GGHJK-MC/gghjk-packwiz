@@ -250,7 +250,7 @@ metafile = true
 
 [[files]]
 file = "mods/irisshaders.pw.toml"
-hash = "8a9cf21da89c501effef67c9268280085bfa38350b2bfa33c475e2526ffa46f2"
+hash = "921ee92f66529e616340ba984198f755e819eeedcd65a84311919dbaa027fd9d"
 metafile = true
 
 [[files]]
@@ -310,7 +310,7 @@ metafile = true
 
 [[files]]
 file = "mods/skinrestorer.pw.toml"
-hash = "bf6c7ea25b48eec97d7685e02e8da299460a8a87ccb31894f7022232f163e4e9"
+hash = "e0e51ae41ed5f4124743b7da9b84392b77967b9494364ab7e43c29a25237afd4"
 metafile = true
 
 [[files]]
