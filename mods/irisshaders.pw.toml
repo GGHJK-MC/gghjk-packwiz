@@ -1,12 +1,8 @@
 name = "IrisShaders"
 filename = "iris.jar"
-side = "client"
+side = "both"
 
 [download]
 url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/mods/mods1/iris.jar"
 hash-format = "sha256"
 hash = "3e3f94d2d5cdcb8145c4385d521974aa2d8669b2cc212351f70cf06488182e83"
-
-[option]
-optional = true
-description = "[[Shadery]]/nShadery vám udělají hezčí hru"

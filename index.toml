@@ -250,7 +250,7 @@ metafile = true
 
 [[files]]
 file = "mods/irisshaders.pw.toml"
-hash = "8ed22b2106adb6ee80f2a3c19b48f30e1a51e83b686fa3e5096986c90fd2086d"
+hash = "8a9cf21da89c501effef67c9268280085bfa38350b2bfa33c475e2526ffa46f2"
 metafile = true
 
 [[files]]
@@ -309,6 +309,11 @@ hash = "8a68bf3d030d9565e28b08e8feee4110e44199f7de881788bd3e19f271dd1305"
 metafile = true
 
 [[files]]
+file = "mods/skinrestorer.pw.toml"
+hash = "bf6c7ea25b48eec97d7685e02e8da299460a8a87ccb31894f7022232f163e4e9"
+metafile = true
+
+[[files]]
 file = "mods/sodium.pw.toml"
 hash = "8ee436f77a3d71acf21a50a944c0eef0397216afebee24f26fe04f04d20f15b8"
 metafile = true
@@ -326,6 +331,11 @@ metafile = true
 [[files]]
 file = "mods/terralith.pw.toml"
 hash = "2d9d68636a1d6f07698b026ee343fc16c0a8dbc83b760929a6e6df9e82a996c3"
+metafile = true
+
+[[files]]
+file = "mods/worldedit.pw.toml"
+hash = "996eeab7ff0d33f5e5b2de4ccb62c46f2bc49f77efc8c2d89953728bfcdc656e"
 metafile = true
 
 [[files]]
