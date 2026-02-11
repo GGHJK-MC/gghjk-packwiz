@@ -66,14 +66,6 @@ hash = "be661704064783b9455ff10c30e5c638cc1fe2de0e98384f2baa4914bb8b0850"
 metafile = true
 
 [[files]]
-file = "config/fancymenu/ui_themes/dark.json"
-hash = "3f1263eaf693fdb6a315099b06797ac18830faa66c620916a80337a5082fd850"
-
-[[files]]
-file = "config/fancymenu/ui_themes/light.json"
-hash = "3fcfc5f9957fbb86aea846c9ad49a24f47ca709c523c4018b584668e38b72f41"
-
-[[files]]
 file = "config/fancymenu/ui_themes/menu-uidark.pw.toml"
 hash = "0f7398cf770670b1451a9204c1aa499c255de4d5c50a76d4b3bec13ff62ed973"
 metafile = true
@@ -136,6 +128,11 @@ metafile = true
 [[files]]
 file = "mods/clothconfig.pw.toml"
 hash = "b6663202e0a917a29dd028779d004fc3fefe7e676e1a38f5a5823ac0a7a17d12"
+metafile = true
+
+[[files]]
+file = "mods/clumps.pw.toml"
+hash = "f9eb8e6bb1d82f6c6f4ff5d2dc95d0438d5474e1c9f878da58cde9f10e83b6c4"
 metafile = true
 
 [[files]]
@@ -229,6 +226,11 @@ hash = "924d0f8148040558e0f33c803771e4c1bdb9ea0c02670e6bd86ad65cee63e0fd"
 metafile = true
 
 [[files]]
+file = "mods/dynamicfps.pw.toml"
+hash = "3e84b20e6a15be2ed47461ec842d706f58fbe138714c6677e4b5990a692d33ae"
+metafile = true
+
+[[files]]
 file = "mods/dynamicpack-resoucepackupdater-rpu.pw.toml"
 hash = "27b68682c67e43ee1aed2da9bda50db20d9b7fce0265690412cf2002c89b6345"
 metafile = true
@@ -241,6 +243,11 @@ metafile = true
 [[files]]
 file = "mods/fancymenu.pw.toml"
 hash = "e429e1cfc377fc4eebfb587e8e0495a4121d2f1ec5190a959c988fcffaca348b"
+metafile = true
+
+[[files]]
+file = "mods/fastipping.pw.toml"
+hash = "18100955349703f7f447894897445abf094ce63a51fa9cbd503e053e7308fa10"
 metafile = true
 
 [[files]]
@@ -344,6 +351,11 @@ hash = "fd121aabb6a41c8d0e7e2d8d2f0c5715c0cc2b9564085b489a16eea367c5ee73"
 metafile = true
 
 [[files]]
+file = "mods/scalablelux.pw.toml"
+hash = "91bcde86b7c9f65588aef7edcb99918058dc49a765797d24d0f6b7b72dd1bdbc"
+metafile = true
+
+[[files]]
 file = "mods/securitycraft.pw.toml"
 hash = "ca2e3f3ffd49648669630ed15355908ac7019b6f19dc77379ffa4df488804e68"
 metafile = true
@@ -366,6 +378,11 @@ metafile = true
 [[files]]
 file = "mods/sodiumextras.pw.toml"
 hash = "5cd6c1296ddd7bf023765b89aeb6ef8f5a328eb05b22f39adf8414fdfcf08f47"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+hash = "f59767c20464f7b54da6a978054d3ecbf05840e33e3655d84b86e6163497ddfe"
 metafile = true
 
 [[files]]
