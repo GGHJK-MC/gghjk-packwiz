@@ -114,6 +114,16 @@ hash = "43cd867aaa772c1bed0bbc349fca83777bc2086aba5fd9589b233565ac2f3f99"
 metafile = true
 
 [[files]]
+file = "mods/carpet.pw.toml"
+hash = "e25e72eb7dc021939dd6ff15220aff7a83e637ff61c52061c75061f4b884e0b5"
+metafile = true
+
+[[files]]
+file = "mods/carryon.pw.toml"
+hash = "8b3aec2512a0ee7c38092696795c4dfcb23a20bf7cf7aa8634e39e87f4f95a53"
+metafile = true
+
+[[files]]
 file = "mods/chatheads.pw.toml"
 hash = "823a0f546d32ee1d997dfe42d1f7a5f3c2414e3e63f504c8c274cae272a542e3"
 metafile = true
@@ -244,6 +254,11 @@ hash = "26f82e0763042a7f7c53613ab64259dc420b9321a362ef948783aaa77d411ecd"
 metafile = true
 
 [[files]]
+file = "mods/infintezoom.pw.toml"
+hash = "b649a0846190ca4a603c7f5791216cd2b3e22a2574dbb09ae09e60c181783413"
+metafile = true
+
+[[files]]
 file = "mods/inventoryview.pw.toml"
 hash = "a5c30bb13406d15a353e3b3fb5005ba537bbd31b16a5356453f1b11d736d4157"
 metafile = true
@@ -251,6 +266,26 @@ metafile = true
 [[files]]
 file = "mods/irisshaders.pw.toml"
 hash = "921ee92f66529e616340ba984198f755e819eeedcd65a84311919dbaa027fd9d"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+hash = "f6c6704f063048f26d9e8285a36f721c20cb066f4dca29ee7b495824b321acb4"
+metafile = true
+
+[[files]]
+file = "mods/jadeaddons.pw.toml"
+hash = "42d4043dec9a2e34a37233560f1ecec34d5d9db521e367068aff3bc92631792b"
+metafile = true
+
+[[files]]
+file = "mods/justenoughitems.pw.toml"
+hash = "c6576a5406b6ae7a13a0ae21887e701e5f225e18ee47094b5fa58eb75714795c"
+metafile = true
+
+[[files]]
+file = "mods/justenoughresources.pw.toml"
+hash = "5b0251864a543ee3dd381506944b6509562c52593b54ff99fc825bebf1a0873f"
 metafile = true
 
 [[files]]
@@ -294,6 +329,11 @@ hash = "37abad81ab24ec727dda0cf15ee00b267e71121d4717b45d3d7160494e4a328f"
 metafile = true
 
 [[files]]
+file = "mods/mousetweaks.pw.toml"
+hash = "c564e01873741f95deaa83c829641f4bb0f9d6348c533a6bbcd28c2e232cb693"
+metafile = true
+
+[[files]]
 file = "mods/neoforgehome.pw.toml"
 hash = "099aa25face38a67559d1c37cfe8b11e03c2390729497df3caab987e925f95fd"
 metafile = true
@@ -301,6 +341,11 @@ metafile = true
 [[files]]
 file = "mods/reesessodiumoptions.pw.toml"
 hash = "fd121aabb6a41c8d0e7e2d8d2f0c5715c0cc2b9564085b489a16eea367c5ee73"
+metafile = true
+
+[[files]]
+file = "mods/securitycraft.pw.toml"
+hash = "ca2e3f3ffd49648669630ed15355908ac7019b6f19dc77379ffa4df488804e68"
 metafile = true
 
 [[files]]
@@ -336,6 +381,16 @@ metafile = true
 [[files]]
 file = "mods/worldedit.pw.toml"
 hash = "996eeab7ff0d33f5e5b2de4ccb62c46f2bc49f77efc8c2d89953728bfcdc656e"
+metafile = true
+
+[[files]]
+file = "mods/xaerosminimap.pw.toml"
+hash = "c574d3d838dc6a34a0ea684b1eafa48a9edb34cbffb646e7a6065026b109440b"
+metafile = true
+
+[[files]]
+file = "mods/xaerosworldmap.pw.toml"
+hash = "1c08c4e00ca41703560e29ee1e073bfe7ce71e41636b537e291e80dbe7592b63"
 metafile = true
 
 [[files]]
