@@ -227,7 +227,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamicfps.pw.toml"
-hash = "3e84b20e6a15be2ed47461ec842d706f58fbe138714c6677e4b5990a692d33ae"
+hash = "b0be7a9cd0390e05ada0736c03d1b4a2b545b67ad8815b1e2fa1933bc0d2b661"
 metafile = true
 
 [[files]]
@@ -247,7 +247,7 @@ metafile = true
 
 [[files]]
 file = "mods/fastipping.pw.toml"
-hash = "18100955349703f7f447894897445abf094ce63a51fa9cbd503e053e7308fa10"
+hash = "ac740d2f398c6a92078bf3a4faf7a273a0dfbb40c6456f154fd6996cbadf7550"
 metafile = true
 
 [[files]]
@@ -347,7 +347,7 @@ metafile = true
 
 [[files]]
 file = "mods/reesessodiumoptions.pw.toml"
-hash = "fd121aabb6a41c8d0e7e2d8d2f0c5715c0cc2b9564085b489a16eea367c5ee73"
+hash = "13d81761cb2fcdc1a60906c4ca9cbf039bcc7deae66daceb55e5b2f517689df2"
 metafile = true
 
 [[files]]
@@ -372,12 +372,12 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "8ee436f77a3d71acf21a50a944c0eef0397216afebee24f26fe04f04d20f15b8"
+hash = "f39b222666c4dfb3d2adcd39d3569f4e0cc68ddfebd27c96bde86476e67e8839"
 metafile = true
 
 [[files]]
 file = "mods/sodiumextras.pw.toml"
-hash = "5cd6c1296ddd7bf023765b89aeb6ef8f5a328eb05b22f39adf8414fdfcf08f47"
+hash = "daf0af902f9ac2fe011558543f70d5697a09764027fd4fc00d2370767b3b9089"
 metafile = true
 
 [[files]]

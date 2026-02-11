@@ -1,6 +1,6 @@
 name = "FastIPPing"
 filename = "fip.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/mods/mods1/fip.jar"
