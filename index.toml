@@ -386,6 +386,11 @@ hash = "f59767c20464f7b54da6a978054d3ecbf05840e33e3655d84b86e6163497ddfe"
 metafile = true
 
 [[files]]
+file = "mods/squaremap-webmap.pw.toml"
+hash = "6329db3f0b1d902e39076382a421119adad395318ea5047936d7ecca4f76a2d9"
+metafile = true
+
+[[files]]
 file = "mods/tablist.pw.toml"
 hash = "f621b1f22560eacab055a9464385bd0a11e838efb5807b87b291682bd524b2d2"
 metafile = true
