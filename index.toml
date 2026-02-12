@@ -387,7 +387,7 @@ metafile = true
 
 [[files]]
 file = "mods/squaremap-webmap.pw.toml"
-hash = "6329db3f0b1d902e39076382a421119adad395318ea5047936d7ecca4f76a2d9"
+hash = "655a4af89938c03aaa6f8473820106b2b284bc76a5f3af16ffffed349501e486"
 metafile = true
 
 [[files]]
