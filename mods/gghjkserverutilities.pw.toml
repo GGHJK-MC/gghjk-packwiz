@@ -1,8 +1,0 @@
-name = "GGHJKServerUtilities"
-filename = "gghjk-server.jar"
-side = "server"
-
-[download]
-url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/mods/mods1/gghjk-server.jar"
-hash-format = "sha256"
-hash = "6ddfe6d1a76e6a5154c7296e3a1848ee0355b5e73a6f347b381d1087235c925b"

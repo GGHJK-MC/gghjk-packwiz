@@ -256,11 +256,6 @@ hash = "5c7e2afa8ff5fc3b6eeaf1e64a1f6c0b6598b7ab8ebbfbf0790f30940a8b76ee"
 metafile = true
 
 [[files]]
-file = "mods/gghjkserverutilities.pw.toml"
-hash = "48da082a501c0bacafd5df6a46572abce68d4b376403107250e216566c92225f"
-metafile = true
-
-[[files]]
 file = "mods/imadetlinyfast.pw.toml"
 hash = "26f82e0763042a7f7c53613ab64259dc420b9321a362ef948783aaa77d411ecd"
 metafile = true
