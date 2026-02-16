@@ -126,6 +126,11 @@ hash = "2c7bd037fe3c9d1f8bebd714b7e577dc10c6ea41957f82fa233bac6d2aaccb41"
 metafile = true
 
 [[files]]
+file = "mods/chunkyoffline.pw.toml"
+hash = "af0e10dce60ad07ef01e43ed40dc2d8221b97db1ba55366dac148dd3428741f7"
+metafile = true
+
+[[files]]
 file = "mods/clothconfig.pw.toml"
 hash = "b6663202e0a917a29dd028779d004fc3fefe7e676e1a38f5a5823ac0a7a17d12"
 metafile = true
@@ -392,7 +397,7 @@ metafile = true
 
 [[files]]
 file = "mods/tablist.pw.toml"
-hash = "f621b1f22560eacab055a9464385bd0a11e838efb5807b87b291682bd524b2d2"
+hash = "23b68efb6e0d26e8b1c9e6df167b4ba20531a3b7fe0167e2ddc60242159aad12"
 metafile = true
 
 [[files]]
