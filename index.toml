@@ -81,6 +81,11 @@ hash = "50f69b85357393982577d85abea20c4fdf618ee3fe6da561ce25db347a8ca2c1"
 metafile = true
 
 [[files]]
+file = "mods/adminpanel.pw.toml"
+hash = "c7b82a20193c27bef4d4e318f665e569a07a7b6e7d41f99d4235077b98f0061d"
+metafile = true
+
+[[files]]
 file = "mods/advancedperaphials.pw.toml"
 hash = "72f9522c5c6c9b4cefad24c56ebc98ad6f4f4026cf98ee049dde8ad1b90ec034"
 metafile = true
@@ -103,6 +108,11 @@ metafile = true
 [[files]]
 file = "mods/c2me.pw.toml"
 hash = "43cd867aaa772c1bed0bbc349fca83777bc2086aba5fd9589b233565ac2f3f99"
+metafile = true
+
+[[files]]
+file = "mods/caelus.pw.toml"
+hash = "0b17be19642ba090fda8598d253b7ac22c65032949eb695a96497d1ee76ca413"
 metafile = true
 
 [[files]]
@@ -221,6 +231,11 @@ hash = "f044ee972731dc94d2def5ba33745dc4204a18fadcce03b19038d644cd837564"
 metafile = true
 
 [[files]]
+file = "mods/curios.pw.toml"
+hash = "997c865d6531abce9eede8cc37ce62e10cbb67df5334e64f55be32bcfeff264d"
+metafile = true
+
+[[files]]
 file = "mods/discord.pw.toml"
 hash = "5db9fddb18f2f558c1814efd265bc0b2d8a317fdad2122bcee3e30cd2da799fe"
 metafile = true
@@ -238,6 +253,11 @@ metafile = true
 [[files]]
 file = "mods/dynamicpack-resoucepackupdater-rpu.pw.toml"
 hash = "27b68682c67e43ee1aed2da9bda50db20d9b7fce0265690412cf2002c89b6345"
+metafile = true
+
+[[files]]
+file = "mods/elytraslot.pw.toml"
+hash = "0d9fa7971e6b4644003d91f6a60dadee7de957b1d37dfdf7e6598ca2e5321d5a"
 metafile = true
 
 [[files]]
@@ -373,6 +393,11 @@ metafile = true
 [[files]]
 file = "mods/skinrestorer.pw.toml"
 hash = "e0e51ae41ed5f4124743b7da9b84392b77967b9494364ab7e43c29a25237afd4"
+metafile = true
+
+[[files]]
+file = "mods/slideshow.pw.toml"
+hash = "740b01d4c21a92e03f6a987b0765a6530dd9989a7e347bb2689e3c4f40c399f1"
 metafile = true
 
 [[files]]
