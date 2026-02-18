@@ -1,8 +1,0 @@
-name = "Enchantment Descriptions"
-filename = "enchdesc.jar"
-side = "both"
-
-[download]
-url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/master/mods1/enchdesc.jar"
-hash-format = "sha256"
-hash = "74d546ecb147da7e2cb53fe3115f6e062094329dcf15639b3da694cc00d3f843"

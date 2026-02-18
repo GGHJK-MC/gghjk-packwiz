@@ -1,8 +1,0 @@
-name = "NeoMTR: Joban Client Mod"
-filename = "neoJCM.jar"
-side = "both"
-
-[download]
-url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/master/mods1/neoJCM.jar"
-hash-format = "sha256"
-hash = "22c3c9069dd4fa33033b8419e259cf118ac5985925ff280daf19af70033ea2f4"

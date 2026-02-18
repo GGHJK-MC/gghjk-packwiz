@@ -1,8 +1,0 @@
-name = "Creaet: Copycats+"
-filename = "copycats.jar"
-side = "both"
-
-[download]
-url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/master/mods1/copycats.jar"
-hash-format = "sha256"
-hash = "8caf0e53cf250e1cc2811d49e9ea46f3c691f65c3522b55c19e24a411d1354ef"
