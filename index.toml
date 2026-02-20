@@ -306,6 +306,11 @@ hash = "a5c30bb13406d15a353e3b3fb5005ba537bbd31b16a5356453f1b11d736d4157"
 metafile = true
 
 [[files]]
+file = "mods/iris-flw-compat.pw.toml"
+hash = "98a7eeeb9dfa95accb8d02477cc5fc277048e199d45b04302051116c0d850c0f"
+metafile = true
+
+[[files]]
 file = "mods/irisshaders.pw.toml"
 hash = "921ee92f66529e616340ba984198f755e819eeedcd65a84311919dbaa027fd9d"
 metafile = true
@@ -468,4 +473,24 @@ metafile = true
 [[files]]
 file = "resourcepacks/serverresourcepack.pw.toml"
 hash = "9f8627adc8dace9fc6ec7a6f6bf215264e949de84d43f2712207b5d27e4cd6a4"
+metafile = true
+
+[[files]]
+file = "shaderpacks/bsl-shaders.pw.toml"
+hash = "015b33a9619d0a9ce18bc30b0a06dbb388b7d8ba0f24d63b4bc3db88bdb25101"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-unbound.pw.toml"
+hash = "5caf93fa1624aeb26d11cdbadcb0c03b2a92815c798a930014774c7d525baf28"
+metafile = true
+
+[[files]]
+file = "shaderpacks/kappa-shader.pw.toml"
+hash = "a01d824c592eebca3df5b5af6aed07839eb8b544de20a2e4f276cb0622b203c9"
+metafile = true
+
+[[files]]
+file = "shaderpacks/super-duper-vanilla.pw.toml"
+hash = "a8d349403d1c4b03c42f1962ba993e8b3dd65b9176176eec256f3fc6cbd9f40a"
 metafile = true
