@@ -106,6 +106,11 @@ hash = "20970f3ab0108492c9214e85ce4cd1046325088a9819e098462e7457e441241b"
 metafile = true
 
 [[files]]
+file = "mods/athena-ctm.pw.toml"
+hash = "9a9d6bf3715b20cbf83b967e4dd8b77972d1256e52a7b1c2bbfa4122f5acc931"
+metafile = true
+
+[[files]]
 file = "mods/c2me.pw.toml"
 hash = "43cd867aaa772c1bed0bbc349fca83777bc2086aba5fd9589b233565ac2f3f99"
 metafile = true
@@ -128,6 +133,11 @@ metafile = true
 [[files]]
 file = "mods/chatheads.pw.toml"
 hash = "823a0f546d32ee1d997dfe42d1f7a5f3c2414e3e63f504c8c274cae272a542e3"
+metafile = true
+
+[[files]]
+file = "mods/chipped.pw.toml"
+hash = "24c6c3fe917ffbcef04e788dec3e003d0ed03433bc00f9cf4f23fe9b85636aa7"
 metafile = true
 
 [[files]]
@@ -373,6 +383,11 @@ metafile = true
 [[files]]
 file = "mods/reesessodiumoptions.pw.toml"
 hash = "13d81761cb2fcdc1a60906c4ca9cbf039bcc7deae66daceb55e5b2f517689df2"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-lib.pw.toml"
+hash = "c0b066684294c33972d562e0cb08ea17b2d31bcf86cd1d6c63b8e968f0eac7a2"
 metafile = true
 
 [[files]]
