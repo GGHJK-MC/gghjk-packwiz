@@ -91,6 +91,11 @@ hash = "72f9522c5c6c9b4cefad24c56ebc98ad6f4f4026cf98ee049dde8ad1b90ec034"
 metafile = true
 
 [[files]]
+file = "mods/amendments.pw.toml"
+hash = "ca7ccbfc12a2103e8a155731eb03f94b243cc07fe9fae2f22c9ab04656109544"
+metafile = true
+
+[[files]]
 file = "mods/appliedenergestic2.pw.toml"
 hash = "c19d5d9b39d77d61120b2e41fb75d2207dcf4a373dfc82e293b5ddb3534ba1df"
 metafile = true
@@ -371,6 +376,11 @@ hash = "37abad81ab24ec727dda0cf15ee00b267e71121d4717b45d3d7160494e4a328f"
 metafile = true
 
 [[files]]
+file = "mods/moonlight.pw.toml"
+hash = "427e48f685c2af70f0fda07648073379f3b343436b038c7289d98c56b55c322c"
+metafile = true
+
+[[files]]
 file = "mods/mousetweaks.pw.toml"
 hash = "c564e01873741f95deaa83c829641f4bb0f9d6348c533a6bbcd28c2e232cb693"
 metafile = true
@@ -433,6 +443,16 @@ metafile = true
 [[files]]
 file = "mods/squaremap-webmap.pw.toml"
 hash = "655a4af89938c03aaa6f8473820106b2b284bc76a5f3af16ffffed349501e486"
+metafile = true
+
+[[files]]
+file = "mods/supplementaries-squared.pw.toml"
+hash = "91ebbd7b58f32ec3cf848d203b70ef193675585d6b761de912afdd977ed5f84b"
+metafile = true
+
+[[files]]
+file = "mods/supplementaries.pw.toml"
+hash = "c6182c863ef7758553bc7ad14b8b111e094bd7feda60793e4c656cd9a225fce4"
 metafile = true
 
 [[files]]
