@@ -421,11 +421,6 @@ hash = "91bcde86b7c9f65588aef7edcb99918058dc49a765797d24d0f6b7b72dd1bdbc"
 metafile = true
 
 [[files]]
-file = "mods/scheduled-shutdown.pw.toml"
-hash = "d394b3484fe993c828149dc69074286c2b0f9c2b6c83ed4c5cb494515e635ddc"
-metafile = true
-
-[[files]]
 file = "mods/securitycraft.pw.toml"
 hash = "ca2e3f3ffd49648669630ed15355908ac7019b6f19dc77379ffa4df488804e68"
 metafile = true
@@ -509,6 +504,10 @@ metafile = true
 file = "mods/yetanotherconfiglib.pw.toml"
 hash = "a3cfb259a519eb6a6f8e3bc53f8bf907edcd446a542c664cd2097e5268694c8b"
 metafile = true
+
+[[files]]
+file = "packwiz_gui.py"
+hash = "e28f2ee4c8b5684e91a2cbd3a2ed08fd79b466a10cc355e1ffdfe886e4221365"
 
 [[files]]
 file = "resourcepacks/serverresourcepack.pw.toml"
