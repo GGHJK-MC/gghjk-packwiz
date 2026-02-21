@@ -91,6 +91,11 @@ hash = "72f9522c5c6c9b4cefad24c56ebc98ad6f4f4026cf98ee049dde8ad1b90ec034"
 metafile = true
 
 [[files]]
+file = "mods/alternate-current.pw.toml"
+hash = "18cf2b63d293ba0738c1073690fbd2c62305b161f76d346a551a66a9bbf8af32"
+metafile = true
+
+[[files]]
 file = "mods/amendments.pw.toml"
 hash = "ca7ccbfc12a2103e8a155731eb03f94b243cc07fe9fae2f22c9ab04656109544"
 metafile = true
@@ -301,6 +306,11 @@ hash = "5c7e2afa8ff5fc3b6eeaf1e64a1f6c0b6598b7ab8ebbfbf0790f30940a8b76ee"
 metafile = true
 
 [[files]]
+file = "mods/get-it-together-drops.pw.toml"
+hash = "82a892755a825ac7724c84c063cef2f884fc8c3b36ac1da8bb02dbbd76af58aa"
+metafile = true
+
+[[files]]
 file = "mods/imadetlinyfast.pw.toml"
 hash = "26f82e0763042a7f7c53613ab64259dc420b9321a362ef948783aaa77d411ecd"
 metafile = true
@@ -348,6 +358,11 @@ metafile = true
 [[files]]
 file = "mods/kotlinforforge.pw.toml"
 hash = "66677ad422aeb676067e9e7056ce7e6dfc35608d7151ccf1066a240bb725710a"
+metafile = true
+
+[[files]]
+file = "mods/krypton-foxified.pw.toml"
+hash = "b843ce75c788f0720b6e23d9021ce55d37415d72802ee60d95bd2fc5809ba96c"
 metafile = true
 
 [[files]]
@@ -431,6 +446,11 @@ hash = "8a68bf3d030d9565e28b08e8feee4110e44199f7de881788bd3e19f271dd1305"
 metafile = true
 
 [[files]]
+file = "mods/servercore.pw.toml"
+hash = "00f400af981bbe8be3767ef49f4bc422a9649c3fa2d403bae7b25202a05fda1a"
+metafile = true
+
+[[files]]
 file = "mods/skinrestorer.pw.toml"
 hash = "e0e51ae41ed5f4124743b7da9b84392b77967b9494364ab7e43c29a25237afd4"
 metafile = true
@@ -478,6 +498,11 @@ metafile = true
 [[files]]
 file = "mods/terralith.pw.toml"
 hash = "2d9d68636a1d6f07698b026ee343fc16c0a8dbc83b760929a6e6df9e82a996c3"
+metafile = true
+
+[[files]]
+file = "mods/tt20.pw.toml"
+hash = "c76d5b8cf949ccce71f027bec93f41c4102fd285150f0b0c6fefa971deef75de"
 metafile = true
 
 [[files]]
