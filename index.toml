@@ -126,6 +126,11 @@ hash = "9a9d6bf3715b20cbf83b967e4dd8b77972d1256e52a7b1c2bbfa4122f5acc931"
 metafile = true
 
 [[files]]
+file = "mods/betterf3.pw.toml"
+hash = "dfaecbc662553b0c4ce9887156b7c50b432c2a7cafbc5bb2e496d4a5fb7728e1"
+metafile = true
+
+[[files]]
 file = "mods/c2me.pw.toml"
 hash = "43cd867aaa772c1bed0bbc349fca83777bc2086aba5fd9589b233565ac2f3f99"
 metafile = true
@@ -166,8 +171,8 @@ hash = "af0e10dce60ad07ef01e43ed40dc2d8221b97db1ba55366dac148dd3428741f7"
 metafile = true
 
 [[files]]
-file = "mods/clothconfig.pw.toml"
-hash = "b6663202e0a917a29dd028779d004fc3fefe7e676e1a38f5a5823ac0a7a17d12"
+file = "mods/cloth-config.pw.toml"
+hash = "75181b55e0407d1fca1e2f346c6501f919f5109545990ddfb66db9cd1b771f8a"
 metafile = true
 
 [[files]]
