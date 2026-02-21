@@ -36,7 +36,7 @@ public class ChunkyAutomator {
         if (playerCount == 0) {
             final CommandSourceStack commandSourceStack = server.createCommandSourceStack();
             runCommand(server, commandSourceStack, "chunky continue");
-            runCommand(server, commandSourceStack, "chunky quiet 600");
+            runCommand(server, commandSourceStack, "chunky quiet 60");
         } else {
             System.out.println("Server player count: " + playerCount);
         }
