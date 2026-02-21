@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "PW-GUI.exe"
+hash = "cb701ee140fc7222da13c8884a74d9c5a0f2d6b9860fa2a0eb78000a496f3642"
+preserve = true
+
+[[files]]
 file = "config/drippyloadingscreen/menu-dlsoptions.pw.toml"
 hash = "2b973870ee2395f8b0e155d074cd5432b097f76db4473efad3ef6edb117cf044"
 metafile = true
@@ -512,20 +517,20 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/bsl-shaders.pw.toml"
-hash = "015b33a9619d0a9ce18bc30b0a06dbb388b7d8ba0f24d63b4bc3db88bdb25101"
+hash = "e6a81cd535cbb47094b33dbb6bded87beb79fe195bf46a92f2fb65f90300fd8d"
 metafile = true
 
 [[files]]
 file = "shaderpacks/complementary-unbound.pw.toml"
-hash = "5caf93fa1624aeb26d11cdbadcb0c03b2a92815c798a930014774c7d525baf28"
+hash = "d6e26c8598031c533fe836557d4fc311d6fc6393323b0af5f5f08c01dde53be9"
 metafile = true
 
 [[files]]
 file = "shaderpacks/kappa-shader.pw.toml"
-hash = "a01d824c592eebca3df5b5af6aed07839eb8b544de20a2e4f276cb0622b203c9"
+hash = "0f36115f9a77caaba082226a61a844094bfe5eb2b0592e7303ca84fb083caa0c"
 metafile = true
 
 [[files]]
 file = "shaderpacks/super-duper-vanilla.pw.toml"
-hash = "a8d349403d1c4b03c42f1962ba993e8b3dd65b9176176eec256f3fc6cbd9f40a"
+hash = "4c1261e6d81086b5a0289e8dd829273b679eb7f77c0ebc92479a5562165aeaf9"
 metafile = true
