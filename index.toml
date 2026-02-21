@@ -186,6 +186,11 @@ hash = "768118c05b7029e81fadf3a3cc05043bbe0f842248d9192e4160ba05c951388a"
 metafile = true
 
 [[files]]
+file = "mods/controlling.pw.toml"
+hash = "65c8086d2ec3d39acc7bd36c7a0306ccc43b602b38fa07d13291bc478ef7dfff"
+metafile = true
+
+[[files]]
 file = "mods/create.pw.toml"
 hash = "d65ec95f8bcd5f7c2df0cc802c9a9e7f4b8f1b94f1ba9b565056ff370c2e147b"
 metafile = true
@@ -366,6 +371,11 @@ hash = "b843ce75c788f0720b6e23d9021ce55d37415d72802ee60d95bd2fc5809ba96c"
 metafile = true
 
 [[files]]
+file = "mods/lambdynamiclights.pw.toml"
+hash = "502d4ba2ca8c7f6f52830cfc43fc12b567023266f2b557ee2b8eea737b58f8ea"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "7f502f1fb5c1bb8763a90eb8deba23b991bc264fa39c517fb6b99d6bf1ba9ff2"
 metafile = true
@@ -433,6 +443,11 @@ metafile = true
 [[files]]
 file = "mods/scalablelux.pw.toml"
 hash = "91bcde86b7c9f65588aef7edcb99918058dc49a765797d24d0f6b7b72dd1bdbc"
+metafile = true
+
+[[files]]
+file = "mods/searchables.pw.toml"
+hash = "ce9ddada6ffd55a512149cc474c6a453281a997a5fdf1b7b4a2cc73f875e704a"
 metafile = true
 
 [[files]]
