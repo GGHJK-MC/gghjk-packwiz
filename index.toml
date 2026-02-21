@@ -482,7 +482,7 @@ metafile = true
 
 [[files]]
 file = "mods/warputils.pw.toml"
-hash = "88fa493f1a69cddedecce99fe19cc3a29d4f0716dfebca0c8a4ddf70b8aaeece"
+hash = "974cf169e4548f50833279b5fd4791120b4e869e107996cab3d8119fd4da7cb5"
 metafile = true
 
 [[files]]
