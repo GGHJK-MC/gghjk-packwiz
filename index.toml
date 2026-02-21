@@ -1,11 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "PW-GUI.exe"
-hash = "cb701ee140fc7222da13c8884a74d9c5a0f2d6b9860fa2a0eb78000a496f3642"
-preserve = true
-
-[[files]]
 file = "config/drippyloadingscreen/menu-dlsoptions.pw.toml"
 hash = "2b973870ee2395f8b0e155d074cd5432b097f76db4473efad3ef6edb117cf044"
 metafile = true
