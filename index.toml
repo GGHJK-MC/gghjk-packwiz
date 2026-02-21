@@ -517,15 +517,15 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/complementary-unbound.pw.toml"
-hash = "d6e26c8598031c533fe836557d4fc311d6fc6393323b0af5f5f08c01dde53be9"
+hash = "5b9ac5c61c3acf944023113566396c972a42f976eb126c2552d9fd17d5a8ac3a"
 metafile = true
 
 [[files]]
 file = "shaderpacks/kappa-shader.pw.toml"
-hash = "0f36115f9a77caaba082226a61a844094bfe5eb2b0592e7303ca84fb083caa0c"
+hash = "ecd5db44e99157c8e36731fce5696a719756df53a23e493b05620e2f48272c6e"
 metafile = true
 
 [[files]]
 file = "shaderpacks/super-duper-vanilla.pw.toml"
-hash = "4c1261e6d81086b5a0289e8dd829273b679eb7f77c0ebc92479a5562165aeaf9"
+hash = "82217e2d405349054f9e897a20650bb5e43358047efff30b17a3257820cacaad"
 metafile = true

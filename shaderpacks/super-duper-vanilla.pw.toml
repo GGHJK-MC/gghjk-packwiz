@@ -13,3 +13,4 @@ hash = "231b47716d5dab68fd1409c65750589c234d4d63312b3f8634342477686ae6db88edb9ec
 
 [option]
 description = "[[Shadery]] -  Super Duper"
+optional = true

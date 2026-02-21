@@ -13,3 +13,4 @@ hash = "207ad92ab354e1be002e1ccce978da3860af69532ddcdecbc2a943ffe1ff7ac5eec6b021
 
 [option]
 description = "[[Shadery]] - Completary"
+optional = true
