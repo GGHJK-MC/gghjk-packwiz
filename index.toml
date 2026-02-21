@@ -111,6 +111,11 @@ hash = "20970f3ab0108492c9214e85ce4cd1046325088a9819e098462e7457e441241b"
 metafile = true
 
 [[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "ea336d25c3e21ef168aec20e1ea470c96949ad29632646ee8e8ab0d74b4bbfc9"
+metafile = true
+
+[[files]]
 file = "mods/athena-ctm.pw.toml"
 hash = "9a9d6bf3715b20cbf83b967e4dd8b77972d1256e52a7b1c2bbfa4122f5acc931"
 metafile = true
@@ -381,6 +386,11 @@ hash = "427e48f685c2af70f0fda07648073379f3b343436b038c7289d98c56b55c322c"
 metafile = true
 
 [[files]]
+file = "mods/more-ancient-debris-20x.pw.toml"
+hash = "18abb3988c53e5063edcbc18bd276ac460424305df46c8dff84adf1e070720fd"
+metafile = true
+
+[[files]]
 file = "mods/mousetweaks.pw.toml"
 hash = "c564e01873741f95deaa83c829641f4bb0f9d6348c533a6bbcd28c2e232cb693"
 metafile = true
@@ -408,6 +418,11 @@ metafile = true
 [[files]]
 file = "mods/scalablelux.pw.toml"
 hash = "91bcde86b7c9f65588aef7edcb99918058dc49a765797d24d0f6b7b72dd1bdbc"
+metafile = true
+
+[[files]]
+file = "mods/scheduled-shutdown.pw.toml"
+hash = "d394b3484fe993c828149dc69074286c2b0f9c2b6c83ed4c5cb494515e635ddc"
 metafile = true
 
 [[files]]
@@ -468,6 +483,11 @@ metafile = true
 [[files]]
 file = "mods/terralith.pw.toml"
 hash = "2d9d68636a1d6f07698b026ee343fc16c0a8dbc83b760929a6e6df9e82a996c3"
+metafile = true
+
+[[files]]
+file = "mods/wasted-on-server.pw.toml"
+hash = "6adfdad0a77878fb1b075dbe9cb07278a83679a7bd5b2dd8ed16773f920c4a3f"
 metafile = true
 
 [[files]]

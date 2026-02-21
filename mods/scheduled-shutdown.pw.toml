@@ -1,0 +1,13 @@
+name = "Scheduled Shutdown"
+filename = "scheduledshutdown-1.8.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/KaJrPoLs/versions/R4Gd9Kpm/scheduledshutdown-1.8.jar"
+hash-format = "sha512"
+hash = "807f1f81cc3ccf844ddbd645a30a0b5dcc171bde1555a376c66ba18c5b1a6bf213781700e13d43f64a0ea2cc60e1e6fdd440bdb8c7e76356ad33e212c3ffa5d4"
+
+[update]
+[update.modrinth]
+mod-id = "KaJrPoLs"
+version = "R4Gd9Kpm"
