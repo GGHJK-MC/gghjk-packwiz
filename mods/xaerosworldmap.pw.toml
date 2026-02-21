@@ -9,4 +9,4 @@ hash = "a00363399c1672e5bfa399889d128f5ba60f42200ee97312038924df6cbebcb6"
 
 [option]
 optional = true
-description = "[[Mapy]]/nWorld Mapa"
+description = "[[Mapy]] World Mapa"

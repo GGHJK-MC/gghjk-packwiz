@@ -267,7 +267,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamicpack-resoucepackupdater-rpu.pw.toml"
-hash = "27b68682c67e43ee1aed2da9bda50db20d9b7fce0265690412cf2002c89b6345"
+hash = "4262f2418ea0ca7623d15fcb994d53d1520985c27abf3669faeab1c30f4f1b8b"
 metafile = true
 
 [[files]]
@@ -396,6 +396,11 @@ hash = "13d81761cb2fcdc1a60906c4ca9cbf039bcc7deae66daceb55e5b2f517689df2"
 metafile = true
 
 [[files]]
+file = "mods/reforgedplay-mod.pw.toml"
+hash = "388b87d8cd665c37495ce91e807b6ff5173aa59eed19543b8584ade64c878590"
+metafile = true
+
+[[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "c0b066684294c33972d562e0cb08ea17b2d31bcf86cd1d6c63b8e968f0eac7a2"
 metafile = true
@@ -472,12 +477,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaerosminimap.pw.toml"
-hash = "c574d3d838dc6a34a0ea684b1eafa48a9edb34cbffb646e7a6065026b109440b"
+hash = "953720ecb204218341f2ae92e4a3a2f50e4bfac3e9b08f1ab91513f592b3d06b"
 metafile = true
 
 [[files]]
 file = "mods/xaerosworldmap.pw.toml"
-hash = "1c08c4e00ca41703560e29ee1e073bfe7ce71e41636b537e291e80dbe7592b63"
+hash = "fa7501257d440e144081403b4a77a02550f26a4096a7529340993302f18e7726"
 metafile = true
 
 [[files]]
