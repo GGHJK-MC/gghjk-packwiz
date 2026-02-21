@@ -506,10 +506,6 @@ hash = "a3cfb259a519eb6a6f8e3bc53f8bf907edcd446a542c664cd2097e5268694c8b"
 metafile = true
 
 [[files]]
-file = "packwiz_gui.py"
-hash = "e28f2ee4c8b5684e91a2cbd3a2ed08fd79b466a10cc355e1ffdfe886e4221365"
-
-[[files]]
 file = "resourcepacks/serverresourcepack.pw.toml"
 hash = "9f8627adc8dace9fc6ec7a6f6bf215264e949de84d43f2712207b5d27e4cd6a4"
 metafile = true
