@@ -356,11 +356,6 @@ hash = "7f502f1fb5c1bb8763a90eb8deba23b991bc264fa39c517fb6b99d6bf1ba9ff2"
 metafile = true
 
 [[files]]
-file = "mods/luckperms.pw.toml"
-hash = "91e6a0e562023e927ca1c56bdfd5df673609cac23528f768a83afe3674cdd0c0"
-metafile = true
-
-[[files]]
 file = "mods/mcef-minecraftchromiumembeddedframework.pw.toml"
 hash = "dcecc2e93cfb40a56cee2e19386d2990e2424c060a161e95d77650b0bf8fb2b3"
 metafile = true
