@@ -491,11 +491,6 @@ hash = "2d9d68636a1d6f07698b026ee343fc16c0a8dbc83b760929a6e6df9e82a996c3"
 metafile = true
 
 [[files]]
-file = "mods/villagerconfig.pw.toml"
-hash = "5b3df9b636317695f28a79ccaab123ae661e4c0ff1be5a43ae10db4385423911"
-metafile = true
-
-[[files]]
 file = "mods/wasted-on-server.pw.toml"
 hash = "6adfdad0a77878fb1b075dbe9cb07278a83679a7bd5b2dd8ed16773f920c4a3f"
 metafile = true
