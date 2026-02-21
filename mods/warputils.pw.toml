@@ -1,0 +1,13 @@
+name = "WarpUtils"
+filename = "warputils-neoforge-1.21.1-0.4.4.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/E7tP6wsR/versions/vWMOoX9Z/warputils-neoforge-1.21.1-0.4.4.jar"
+hash-format = "sha512"
+hash = "349e7d9ef24d3fcc21131f2f7c56472e15ad820162155d62435bc25e0119834c26dfc7cda07642bdeaebc305f9454cffbe242afe65d69cb70293bcf590a99948"
+
+[update]
+[update.modrinth]
+mod-id = "E7tP6wsR"
+version = "vWMOoX9Z"

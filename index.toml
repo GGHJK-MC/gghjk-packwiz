@@ -481,6 +481,11 @@ hash = "2d9d68636a1d6f07698b026ee343fc16c0a8dbc83b760929a6e6df9e82a996c3"
 metafile = true
 
 [[files]]
+file = "mods/warputils.pw.toml"
+hash = "88fa493f1a69cddedecce99fe19cc3a29d4f0716dfebca0c8a4ddf70b8aaeece"
+metafile = true
+
+[[files]]
 file = "mods/wasted-on-server.pw.toml"
 hash = "6adfdad0a77878fb1b075dbe9cb07278a83679a7bd5b2dd8ed16773f920c4a3f"
 metafile = true
