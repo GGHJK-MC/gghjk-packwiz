@@ -356,11 +356,6 @@ hash = "7f502f1fb5c1bb8763a90eb8deba23b991bc264fa39c517fb6b99d6bf1ba9ff2"
 metafile = true
 
 [[files]]
-file = "mods/logmyblock.pw.toml"
-hash = "a0f5dee77f15c5c2dd70016aee91d6f4073c2f67cc9df95f475155c0a66ac187"
-metafile = true
-
-[[files]]
 file = "mods/luckperms.pw.toml"
 hash = "91e6a0e562023e927ca1c56bdfd5df673609cac23528f768a83afe3674cdd0c0"
 metafile = true
