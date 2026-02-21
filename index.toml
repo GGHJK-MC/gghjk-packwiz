@@ -356,6 +356,16 @@ hash = "7f502f1fb5c1bb8763a90eb8deba23b991bc264fa39c517fb6b99d6bf1ba9ff2"
 metafile = true
 
 [[files]]
+file = "mods/logmyblock.pw.toml"
+hash = "a0f5dee77f15c5c2dd70016aee91d6f4073c2f67cc9df95f475155c0a66ac187"
+metafile = true
+
+[[files]]
+file = "mods/luckperms.pw.toml"
+hash = "91e6a0e562023e927ca1c56bdfd5df673609cac23528f768a83afe3674cdd0c0"
+metafile = true
+
+[[files]]
 file = "mods/mcef-minecraftchromiumembeddedframework.pw.toml"
 hash = "dcecc2e93cfb40a56cee2e19386d2990e2424c060a161e95d77650b0bf8fb2b3"
 metafile = true
@@ -478,6 +488,11 @@ metafile = true
 [[files]]
 file = "mods/terralith.pw.toml"
 hash = "2d9d68636a1d6f07698b026ee343fc16c0a8dbc83b760929a6e6df9e82a996c3"
+metafile = true
+
+[[files]]
+file = "mods/villagerconfig.pw.toml"
+hash = "5b3df9b636317695f28a79ccaab123ae661e4c0ff1be5a43ae10db4385423911"
 metafile = true
 
 [[files]]
