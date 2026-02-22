@@ -1,5 +1,5 @@
 # GGHJK Packwiz
-This modpack is for the [GGHJk](https://gghjk.qzz.io) server.
+This modpack is for the [GGHJK](https://gghjk.qzz.io) server.
 
 ## Installation
 Download the Prism Launcher.
