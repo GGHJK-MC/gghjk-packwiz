@@ -126,6 +126,11 @@ hash = "9a9d6bf3715b20cbf83b967e4dd8b77972d1256e52a7b1c2bbfa4122f5acc931"
 metafile = true
 
 [[files]]
+file = "mods/better-advancements.pw.toml"
+hash = "8b9fb0d1e2ddf9cf8b10c1e4c6c994d499a5e47ae4dc5213548b6b3b0dd02410"
+metafile = true
+
+[[files]]
 file = "mods/betterf3.pw.toml"
 hash = "dfaecbc662553b0c4ce9887156b7c50b432c2a7cafbc5bb2e496d4a5fb7728e1"
 metafile = true
@@ -276,6 +281,11 @@ hash = "5db9fddb18f2f558c1814efd265bc0b2d8a317fdad2122bcee3e30cd2da799fe"
 metafile = true
 
 [[files]]
+file = "mods/distanthorizons.pw.toml"
+hash = "abf0e4bcc4731e149abb41aff149ffcc9b831ef4f2182dd3faffc95f6d056fd5"
+metafile = true
+
+[[files]]
 file = "mods/drippyloadingscreen-dls.pw.toml"
 hash = "924d0f8148040558e0f33c803771e4c1bdb9ea0c02670e6bd86ad65cee63e0fd"
 metafile = true
@@ -296,6 +306,11 @@ hash = "0d9fa7971e6b4644003d91f6a60dadee7de957b1d37dfdf7e6598ca2e5321d5a"
 metafile = true
 
 [[files]]
+file = "mods/embeddium.pw.toml"
+hash = "778c42263b2ba7c9e73553bdcd70f48a3e485ba52b6a83474160d48be696b71f"
+metafile = true
+
+[[files]]
 file = "mods/entityculiing.pw.toml"
 hash = "abbbeb62f5fb8862f4d9b5cf5e2cd66de608845aa3735859929a5f2c6e817e88"
 metafile = true
@@ -313,6 +328,11 @@ metafile = true
 [[files]]
 file = "mods/ferritecore.pw.toml"
 hash = "5c7e2afa8ff5fc3b6eeaf1e64a1f6c0b6598b7ab8ebbfbf0790f30940a8b76ee"
+metafile = true
+
+[[files]]
+file = "mods/forge-config-api-port.pw.toml"
+hash = "2e76c80ff830074b19c38520160b00713985e6e9df7a3ff180116e3a73bb8937"
 metafile = true
 
 [[files]]
@@ -351,6 +371,36 @@ hash = "42d4043dec9a2e34a37233560f1ecec34d5d9db521e367068aff3bc92631792b"
 metafile = true
 
 [[files]]
+file = "mods/jea.pw.toml"
+hash = "1ccc097bae71a43b19598458f8b56e2c98011c40f0b428069b847eb0c7e8f6a5"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "5367193d3f87b7bc5a81bcd64a5b96a843e76d4df7a83c8bb7e1911aa82dd52e"
+metafile = true
+
+[[files]]
+file = "mods/just-enough-effect-descriptions-jeed.pw.toml"
+hash = "0b6a884fe3969a05a24aec1569d1ffcb2ec8fb8b268f749416a9c0677e3cac46"
+metafile = true
+
+[[files]]
+file = "mods/just-enough-mekanism-multiblocks.pw.toml"
+hash = "456dcdd6c4c172612713b59ebd871703b10aa00366cac0792d2d2da0951db2df"
+metafile = true
+
+[[files]]
+file = "mods/just-enough-professions-jep.pw.toml"
+hash = "ead018f3794f086abf4acb238c2f99abf465fc27f002483083ba5809e02afa54"
+metafile = true
+
+[[files]]
+file = "mods/justenoughbreeding.pw.toml"
+hash = "2814d0d33ca5a6b95da1084b954eca9ca627890455c788811351ad6069a8f3bf"
+metafile = true
+
+[[files]]
 file = "mods/justenoughitems.pw.toml"
 hash = "c6576a5406b6ae7a13a0ae21887e701e5f225e18ee47094b5fa58eb75714795c"
 metafile = true
@@ -378,6 +428,11 @@ metafile = true
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
 hash = "502d4ba2ca8c7f6f52830cfc43fc12b567023266f2b557ee2b8eea737b58f8ea"
+metafile = true
+
+[[files]]
+file = "mods/libx.pw.toml"
+hash = "ae04559d6f0b5650b50b91753433da801eb5735765fd7ded6b774b42f8f2e4dc"
 metafile = true
 
 [[files]]
@@ -431,6 +486,16 @@ hash = "099aa25face38a67559d1c37cfe8b11e03c2390729497df3caab987e925f95fd"
 metafile = true
 
 [[files]]
+file = "mods/not-enough-animations.pw.toml"
+hash = "d199e5c4a3b2eda24e1dccdc21543efc9eb704044d3cb389adc259cd07a144dc"
+metafile = true
+
+[[files]]
+file = "mods/polymorph.pw.toml"
+hash = "152769b5dfbb92a836634e315898b23b6a555c60b6f05ddf38c00085f2b784f6"
+metafile = true
+
+[[files]]
 file = "mods/reesessodiumoptions.pw.toml"
 hash = "13d81761cb2fcdc1a60906c4ca9cbf039bcc7deae66daceb55e5b2f517689df2"
 metafile = true
@@ -468,6 +533,11 @@ metafile = true
 [[files]]
 file = "mods/servercore.pw.toml"
 hash = "00f400af981bbe8be3767ef49f4bc422a9649c3fa2d403bae7b25202a05fda1a"
+metafile = true
+
+[[files]]
+file = "mods/shulkerboxtooltip.pw.toml"
+hash = "85e4be7fb8dd729d264ae48c3546882efe2cfe6677ee2720bb8a50069fee2c6d"
 metafile = true
 
 [[files]]
