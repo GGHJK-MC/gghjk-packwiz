@@ -8,6 +8,6 @@ Click on "Add Instance", then "Import".
 
 Paste in the following link and click "OK".
 
-<kbd>https://github.com/Minecraft-Transit-Railway/LetsPlay-Packwiz/archive/refs/heads/master.zip</kbd>
+´https://github.com/Minecraft-Transit-Railway/LetsPlay-Packwiz/archive/refs/heads/master.zip´
 
 Launch the imported instance by double-clicking on it. You may be prompted to sign in to your Minecraft account.
