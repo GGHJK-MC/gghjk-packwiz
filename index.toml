@@ -611,6 +611,16 @@ hash = "a3cfb259a519eb6a6f8e3bc53f8bf907edcd446a542c664cd2097e5268694c8b"
 metafile = true
 
 [[files]]
+file = "resourcepacks/better-leaves.pw.toml"
+hash = "610e5e08a034d7fdda17d17f37853c1abf19f94425e0a831ced52fccb6ccb063"
+metafile = true
+
+[[files]]
+file = "resourcepacks/dramatic-skys.pw.toml"
+hash = "bca8d231761e7e9935ae2cfe46fafc4d931dd50127869cd0f925fd2446e7e0f5"
+metafile = true
+
+[[files]]
 file = "resourcepacks/serverresourcepack.pw.toml"
 hash = "9f8627adc8dace9fc6ec7a6f6bf215264e949de84d43f2712207b5d27e4cd6a4"
 metafile = true
