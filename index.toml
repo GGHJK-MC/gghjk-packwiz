@@ -621,26 +621,36 @@ hash = "bca8d231761e7e9935ae2cfe46fafc4d931dd50127869cd0f925fd2446e7e0f5"
 metafile = true
 
 [[files]]
+file = "resourcepacks/fast-better-grass.pw.toml"
+hash = "b6643cac68927881baa84fa7f348a2d60b6d2f901b4612c7a8c4ad882f90f23b"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fullbright-ub.pw.toml"
+hash = "6ef4d3cc75c46c4c9c021ce6a7a05d7a2c907265f0b77b5fb38d9a96511bc9c5"
+metafile = true
+
+[[files]]
 file = "resourcepacks/serverresourcepack.pw.toml"
 hash = "9f8627adc8dace9fc6ec7a6f6bf215264e949de84d43f2712207b5d27e4cd6a4"
 metafile = true
 
 [[files]]
 file = "shaderpacks/bsl-shaders.pw.toml"
-hash = "e6a81cd535cbb47094b33dbb6bded87beb79fe195bf46a92f2fb65f90300fd8d"
+hash = "653a863e5a4f2beec9b3de5b076cc7e223be60b44f45f956334a077bfa3659fb"
 metafile = true
 
 [[files]]
 file = "shaderpacks/complementary-unbound.pw.toml"
-hash = "5b9ac5c61c3acf944023113566396c972a42f976eb126c2552d9fd17d5a8ac3a"
+hash = "d6e26c8598031c533fe836557d4fc311d6fc6393323b0af5f5f08c01dde53be9"
 metafile = true
 
 [[files]]
 file = "shaderpacks/kappa-shader.pw.toml"
-hash = "ecd5db44e99157c8e36731fce5696a719756df53a23e493b05620e2f48272c6e"
+hash = "0f36115f9a77caaba082226a61a844094bfe5eb2b0592e7303ca84fb083caa0c"
 metafile = true
 
 [[files]]
 file = "shaderpacks/super-duper-vanilla.pw.toml"
-hash = "82217e2d405349054f9e897a20650bb5e43358047efff30b17a3257820cacaad"
+hash = "4c1261e6d81086b5a0289e8dd829273b679eb7f77c0ebc92479a5562165aeaf9"
 metafile = true

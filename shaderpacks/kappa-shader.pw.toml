@@ -13,4 +13,3 @@ hash = "1103f42fe599ac6634675aa58e17de94b77b89ba148f30f3b4168eaebfe9e6ebc7fec769
 
 [option]
 description = "[[Shadery]] - Kappa"
-optional = true

@@ -13,4 +13,3 @@ hash = "defa91212ed082e3e25d349977cbeaf771ef6f8360e1bad8092c25ff73a967c8fcbb3673
 
 [option]
 description = "[[Shadery]] - BLS"
-optional = true
