@@ -281,11 +281,6 @@ hash = "5db9fddb18f2f558c1814efd265bc0b2d8a317fdad2122bcee3e30cd2da799fe"
 metafile = true
 
 [[files]]
-file = "mods/distanthorizons.pw.toml"
-hash = "abf0e4bcc4731e149abb41aff149ffcc9b831ef4f2182dd3faffc95f6d056fd5"
-metafile = true
-
-[[files]]
 file = "mods/drippyloadingscreen-dls.pw.toml"
 hash = "924d0f8148040558e0f33c803771e4c1bdb9ea0c02670e6bd86ad65cee63e0fd"
 metafile = true
