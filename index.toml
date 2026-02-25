@@ -631,6 +631,11 @@ hash = "6ef4d3cc75c46c4c9c021ce6a7a05d7a2c907265f0b77b5fb38d9a96511bc9c5"
 metafile = true
 
 [[files]]
+file = "resourcepacks/mandalas-gui-dark-mode.pw.toml"
+hash = "8ed45d3cf487c5ed8736050223b1b4211d79b44587031238afae1844199727cc"
+metafile = true
+
+[[files]]
 file = "resourcepacks/serverresourcepack.pw.toml"
 hash = "9f8627adc8dace9fc6ec7a6f6bf215264e949de84d43f2712207b5d27e4cd6a4"
 metafile = true
