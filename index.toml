@@ -642,20 +642,20 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/bsl-shaders.pw.toml"
-hash = "653a863e5a4f2beec9b3de5b076cc7e223be60b44f45f956334a077bfa3659fb"
+hash = "728ad8e9921db1da67852d59676a987670b2f06a5a8125d4da19d8afe5696866"
 metafile = true
 
 [[files]]
 file = "shaderpacks/complementary-unbound.pw.toml"
-hash = "d6e26c8598031c533fe836557d4fc311d6fc6393323b0af5f5f08c01dde53be9"
+hash = "d56cc6784e584f4413e720f9ec6c554cca790e21f10bfb0db88e516a35cb3999"
 metafile = true
 
 [[files]]
 file = "shaderpacks/kappa-shader.pw.toml"
-hash = "0f36115f9a77caaba082226a61a844094bfe5eb2b0592e7303ca84fb083caa0c"
+hash = "fa492025f3a36b53715c74c185429af150c68344b11700f4c93e0ef487f06ca5"
 metafile = true
 
 [[files]]
 file = "shaderpacks/super-duper-vanilla.pw.toml"
-hash = "4c1261e6d81086b5a0289e8dd829273b679eb7f77c0ebc92479a5562165aeaf9"
+hash = "34c5a79270772bfb5a8070c8506b5c1d072f30c7832f45e56b676d922add851f"
 metafile = true
