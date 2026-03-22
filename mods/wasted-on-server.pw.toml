@@ -4,8 +4,8 @@ side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/raDNVq5y/versions/PWdRwdkN/wasted_on_server-neoforge-1.1.0.jar"
-hash-format = "sha512"
-hash = "83811984b1725910fdfd5d57853aa953a91ec05112072a085f02433dcd0a42566d0a9f312253db4d7147981c4fb878dc2046013edc0faafff5dba099d97b0101"
+hash-format = "sha256"
+hash = "b91db2814b657aa9544484db29e782e9db44d0618239ea00c217fc24410d9708"
 
 [update]
 [update.modrinth]

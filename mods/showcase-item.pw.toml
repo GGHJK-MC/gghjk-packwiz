@@ -1,6 +1,6 @@
 name = "Showcase Item"
 filename = "showcaseitem-1.21.1-1.1.0.jar"
-side = "server"
+side = "both"
 
 [download]
 hash-format = "sha1"

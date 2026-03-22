@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/5JY3QNIB/versions/yslMBOHV/JustEnoughAdvancements-21.1.1.jar"
-hash-format = "sha512"
-hash = "152f77e0ff101e902733656ca02133cff58b0ef7b564f5f684ae9190395bd0aa1a682b44258898c7360fdb314021ff6fa2f2c4cbaec03aede533eefdb6f6f406"
+hash-format = "sha256"
+hash = "766843322659f8d4c1dbee9a5f2b6ff6bc9e565ab8927acea529091be48d3184"
 
 [update]
 [update.modrinth]

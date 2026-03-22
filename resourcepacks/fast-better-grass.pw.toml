@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/dspVZXKP/versions/xteFNcow/Fast%20Better%20Grass.zip"
-hash-format = "sha512"
-hash = "2ecba87a437100c3bd7726f54d40a3146bea2bdfde9843ec55398691065542ede90c45b179ba47d066a95b1d6012082dc9949d6dede2c7a6b9a6aa1ad2688de6"
+hash-format = "sha256"
+hash = "f67931f161325b3f41a0493fc639fb54ecd8003b39aa110e2b3e24d18c03300d"
 
 [update]
 [update.modrinth]
