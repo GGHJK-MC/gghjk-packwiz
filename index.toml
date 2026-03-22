@@ -101,6 +101,11 @@ hash = "ca7ccbfc12a2103e8a155731eb03f94b243cc07fe9fae2f22c9ab04656109544"
 metafile = true
 
 [[files]]
+file = "mods/appleskin.pw.toml"
+hash = "3b5f3feca8b299f947ed3956e49f7c3940793754928f2f99cad936448208a501"
+metafile = true
+
+[[files]]
 file = "mods/appliedenergestic2.pw.toml"
 hash = "c19d5d9b39d77d61120b2e41fb75d2207dcf4a373dfc82e293b5ddb3534ba1df"
 metafile = true
@@ -326,6 +331,11 @@ hash = "2e76c80ff830074b19c38520160b00713985e6e9df7a3ff180116e3a73bb8937"
 metafile = true
 
 [[files]]
+file = "mods/freecam.pw.toml"
+hash = "d9c403e0627bdfd591bba3fa9f6f2482a48be1c0b77db92512787b97f7294cbc"
+metafile = true
+
+[[files]]
 file = "mods/get-it-together-drops.pw.toml"
 hash = "82a892755a825ac7724c84c063cef2f884fc8c3b36ac1da8bb02dbbd76af58aa"
 metafile = true
@@ -471,6 +481,11 @@ hash = "c564e01873741f95deaa83c829641f4bb0f9d6348c533a6bbcd28c2e232cb693"
 metafile = true
 
 [[files]]
+file = "mods/multiworld-mod.pw.toml"
+hash = "f90da71dab9ee82dabc061a97467c9a3e22e11f69cbf6b67f7a2716bfe364ddc"
+metafile = true
+
+[[files]]
 file = "mods/neoforgehome.pw.toml"
 hash = "099aa25face38a67559d1c37cfe8b11e03c2390729497df3caab987e925f95fd"
 metafile = true
@@ -523,6 +538,11 @@ metafile = true
 [[files]]
 file = "mods/servercore.pw.toml"
 hash = "00f400af981bbe8be3767ef49f4bc422a9649c3fa2d403bae7b25202a05fda1a"
+metafile = true
+
+[[files]]
+file = "mods/showcase-item.pw.toml"
+hash = "de1fa933fd5e3dc591a591c008ae0957e656c4942340b963d42de6e83ce27ad7"
 metafile = true
 
 [[files]]
