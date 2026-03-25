@@ -496,11 +496,6 @@ hash = "c564e01873741f95deaa83c829641f4bb0f9d6348c533a6bbcd28c2e232cb693"
 metafile = true
 
 [[files]]
-file = "mods/neoessentials.pw.toml"
-hash = "efc09d97c549b0ea37daf25e82e78883ed6727bb40361931990262373a653055"
-metafile = true
-
-[[files]]
 file = "mods/neoforgehome.pw.toml"
 hash = "099aa25face38a67559d1c37cfe8b11e03c2390729497df3caab987e925f95fd"
 metafile = true
