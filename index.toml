@@ -141,11 +141,6 @@ hash = "6d238f9796bb702cca72e4b4dd856c0050839be188a649cd242e4513ee6b68eb"
 metafile = true
 
 [[files]]
-file = "mods/buildpaste.pw.toml"
-hash = "55d991af60dbcef0133de1188f1287b111135a53ca1b45d073e3a0adbdfe7cda"
-metafile = true
-
-[[files]]
 file = "mods/c2me.pw.toml"
 hash = "43cd867aaa772c1bed0bbc349fca83777bc2086aba5fd9589b233565ac2f3f99"
 metafile = true
