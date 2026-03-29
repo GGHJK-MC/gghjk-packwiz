@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/ItHr72Fy/versions/HhQ30Ab3/Fullbright-UB-1.21.zip"
-hash-format = "sha512"
-hash = "83f1031cfe0135c895015e549596905511c223f710809d44bbe52f9f634a1418c6bb37b3bd9030f198f2e850fc529e20873ff2fe15bc1528a2a8e35244e081df"
+hash-format = "sha256"
+hash = "8e55eeaea9dd95a68cbd44d3b7aeea48607866e1cd4c311ebd008133ce19cc13"
 
 [update]
 [update.modrinth]
