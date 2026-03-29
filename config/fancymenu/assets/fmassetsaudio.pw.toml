@@ -1,6 +1,6 @@
 name = "fmAssetsAudio"
 filename = "audio.wav"
-side = "both"
+side = "client"
 
 [download]
 url = "https://raw.githubusercontent.com/GGHJK-MC/gghjk-packwiz/master/config/fancymenu/assets/audio.wav"

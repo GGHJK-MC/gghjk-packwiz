@@ -1,6 +1,6 @@
 name = "fmAssetsMain"
 filename = "main.gif"
-side = "both"
+side = "client"
 
 [download]
 url = "https://raw.githubusercontent.com/GGHJK-MC/gghjk-packwiz/master/config/fancymenu/assets/main.gif"

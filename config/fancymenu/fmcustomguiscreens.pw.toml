@@ -1,6 +1,6 @@
 name = "fmCustomGUIScreens"
 filename = "custom_gui_screens.txt"
-side = "both"
+side = "client"
 
 [download]
 url = "https://raw.githubusercontent.com/GGHJK-MC/gghjk-packwiz/master/config/fancymenu/custom_gui_screens.txt"

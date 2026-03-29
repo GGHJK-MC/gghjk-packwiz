@@ -1,6 +1,6 @@
 name = "fmDrippyLoadingOverlayLayout"
 filename = "drippy_loading_overlay_layout.txt"
-side = "both"
+side = "client"
 
 [download]
 url = "https://raw.githubusercontent.com/GGHJK-MC/gghjk-packwiz/master/config/fancymenu/customization/drippy_loading_overlay_layout.txt"

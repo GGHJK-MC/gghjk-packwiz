@@ -6,73 +6,78 @@ hash = "2b973870ee2395f8b0e155d074cd5432b097f76db4473efad3ef6edb117cf044"
 metafile = true
 
 [[files]]
-file = "config/fancymenu/assets/menu-audio.pw.toml"
-hash = "a3f1af36a2b64b494ef186f61d06e62f54c477089ae22da460d620253e559ef7"
+file = "config/fancymenu/assets/fmassetsaudio.pw.toml"
+hash = "615a90eeeddc499ddfdfc4f2d9bf4b036b5383a6a78c87c178a62854ecf6d270"
 metafile = true
 
 [[files]]
-file = "config/fancymenu/assets/menu-screen.pw.toml"
-hash = "d3b1f1b0d8a771cb6d6dbf4ca3b247f6b0a09c4bebcb42d71ce3c289936cb2d3"
+file = "config/fancymenu/assets/fmassetsbackground.pw.toml"
+hash = "edfbcf7533f480a9056dae9f6f7bd077ff4c95e03cb5138b0323ce06a47e3a50"
 metafile = true
 
 [[files]]
-file = "config/fancymenu/assets/menu-video.pw.toml"
-hash = "293409d3cf399f9373cb647f35bfa5b1635537361052d7b4759b6c17228546c0"
+file = "config/fancymenu/assets/fmassetsintro.pw.toml"
+hash = "c9ee285df88eb2be08b27444c9a9bf1089c285dd18b41fb022c149d25f255ba4"
 metafile = true
 
 [[files]]
-file = "config/fancymenu/customization/menu-dlol.pw.toml"
-hash = "89479f4c373735c65cf6384bfda76c6c51d06fe98f0f9db746ff85769e10dbbc"
+file = "config/fancymenu/assets/fmassetsmain.pw.toml"
+hash = "3f20f1327423d9c94626dd4c3ac1d7ac28765931e76d9ffb6c4f517685c7dbd8"
 metafile = true
 
 [[files]]
-file = "config/fancymenu/customization/menu-mains.pw.toml"
-hash = "19f7c1a814f3cfb205e4406350f28061b44c2efd48ef9f12da08eda8626dc860"
+file = "config/fancymenu/customization/fmcusmain.pw.toml"
+hash = "f86700767538b18ebe0f273c00fe8d8cc3627c65704b8cef193a6d0f6a5dd575"
 metafile = true
 
 [[files]]
-file = "config/fancymenu/layout_editor/widgets/menu-elc.pw.toml"
-hash = "b8a4b3848a8bbaaae989cca18c6663225bf82ed6bb51a4cf6649aa276648bf0c"
+file = "config/fancymenu/customization/fmdrippyloadingoverlaylayout.pw.toml"
+hash = "c247d3e84e4f3dd124f87bf7574640caf75a8aca427266f2c7cf96a80511ea96"
 metafile = true
 
 [[files]]
-file = "config/fancymenu/menu-cgs.pw.toml"
-hash = "4e9e1e789cf7847a4e9e429431ba122c90a4bf0d4765d6f1634c3b85950cd11c"
+file = "config/fancymenu/fmcustomguiscreens.pw.toml"
+hash = "11025b664c41c631b23648cd8520f1ba9d11d3aac5df91a60f8f6a60801f6663"
 metafile = true
 
 [[files]]
-file = "config/fancymenu/menu-cms.pw.toml"
-hash = "93f03ec20a719334455232a7a581d1502f9e5abaaaf522f47d3a8c7e4c6207ff"
+file = "config/fancymenu/fmcustomizablemenus.pw.toml"
+hash = "bf88d3ac450440b2b1678c7724eb373e9e3ed2a5045adee4e1c66df2c082a370"
 metafile = true
 
 [[files]]
-file = "config/fancymenu/menu-lcl.pw.toml"
-hash = "f11642fb3889a366fe41099183ab10107587292d27d436a25375705f24d67b3a"
+file = "config/fancymenu/fmlegacychecklist.pw.toml"
+hash = "f769b169f2fece1b24a69cf09cd250e7104e68b057bef640a0813777c347d193"
 metafile = true
 
 [[files]]
-file = "config/fancymenu/menu-options.pw.toml"
-hash = "47b6035c2dbbfb0eefbac22d0edfe033cdac15945e64e8e5a048844526943911"
+file = "config/fancymenu/fmoptions.pw.toml"
+hash = "835c1eccd72c41a00ff30f366a3bf46df5f57609bb5298fafec3a7ca0becc2f2"
 metafile = true
 
 [[files]]
-file = "config/fancymenu/menu-uv.pw.toml"
-hash = "2e523d5f76b528fe9777b8764d118399fb7a74e917c1c870f75497d009873f51"
+file = "config/fancymenu/fmuservariables.pw.toml"
+hash = "20531bc3f70ef32ca507b1487e8aa664100dcb5f6d9ff80d156e8b02ce15a81b"
 metafile = true
 
 [[files]]
-file = "config/fancymenu/menu-vecms.pw.toml"
-hash = "be661704064783b9455ff10c30e5c638cc1fe2de0e98384f2baa4914bb8b0850"
+file = "config/fancymenu/fmvideoelementscontrollermetas.pw.toml"
+hash = "0463bfa80c1244d8c294a419cd6c778aef41497b7639f88dacdfe0252fced4fe"
 metafile = true
 
 [[files]]
-file = "config/fancymenu/ui_themes/menu-uidark.pw.toml"
-hash = "0f7398cf770670b1451a9204c1aa499c255de4d5c50a76d4b3bec13ff62ed973"
+file = "config/fancymenu/layout_editor/widgets/fmlewelementlayercontrol.pw.toml"
+hash = "bb2503696a0411241af6afbad243ce96bf124fdf7ee3d8576c6c39fc869360e4"
 metafile = true
 
 [[files]]
-file = "config/fancymenu/ui_themes/menu-uilight.pw.toml"
-hash = "aec7b0da77ca1359872094a20bfc717ed2133b6367c9b6bd2288859d589bfa53"
+file = "config/fancymenu/ui_themes/fmthemedark.pw.toml"
+hash = "43c6e85dae69a0be199cd85f0af110fee2f95ae4561e334432040cd4e678d074"
+metafile = true
+
+[[files]]
+file = "config/fancymenu/ui_themes/fmthemelight.pw.toml"
+hash = "6c9968b5a4073d5f58d99e039cdfee63ea98f42c3bda4b708073d1c5304cc654"
 metafile = true
 
 [[files]]

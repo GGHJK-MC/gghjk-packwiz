@@ -1,6 +1,6 @@
 name = "fmThemeDark"
 filename = "dark.json"
-side = "both"
+side = "client"
 
 [download]
 url = "https://raw.githubusercontent.com/GGHJK-MC/gghjk-packwiz/master/config/fancymenu/ui_themes/dark.json"
