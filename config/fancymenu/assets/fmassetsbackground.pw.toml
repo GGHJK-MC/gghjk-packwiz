@@ -1,0 +1,8 @@
+name = "fmAssetsBackground"
+filename = "bg.jpg"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/GGHJK-MC/gghjk-packwiz/master/config/fancymenu/assets/bg.jpg"
+hash-format = "sha256"
+hash = "102deacf56374306295558e7b6e661319e0b8046dcfee32f1430574991ee0175"

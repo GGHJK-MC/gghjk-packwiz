@@ -1,0 +1,8 @@
+name = "fmCusMain"
+filename = "main.txt"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/GGHJK-MC/gghjk-packwiz/master/config/fancymenu/customization/main.txt"
+hash-format = "sha256"
+hash = "75ea105fecdccb8eca964658d061b48862f0d6aff36bdaf931841724eeda5a6b"

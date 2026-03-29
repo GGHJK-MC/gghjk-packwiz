@@ -1,0 +1,8 @@
+name = "fmCustomizableMenus"
+filename = "customizablemenus.txt"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/GGHJK-MC/gghjk-packwiz/master/config/fancymenu/customizablemenus.txt"
+hash-format = "sha256"
+hash = "04bc233713cb1865a30943e5c26386ca3237d605287a51882feec6cc6ae8b0c1"

@@ -1,0 +1,8 @@
+name = "fmAssetsAudio"
+filename = "audio.wav"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/GGHJK-MC/gghjk-packwiz/master/config/fancymenu/assets/audio.wav"
+hash-format = "sha256"
+hash = "aa1ae5543313f1df53d58fad283d449af7153bd17baaabec3e2f5a8b17609761"

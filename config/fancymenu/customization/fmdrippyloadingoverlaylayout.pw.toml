@@ -1,0 +1,8 @@
+name = "fmDrippyLoadingOverlayLayout"
+filename = "drippy_loading_overlay_layout.txt"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/GGHJK-MC/gghjk-packwiz/master/config/fancymenu/customization/drippy_loading_overlay_layout.txt"
+hash-format = "sha256"
+hash = "db890834a4b30ac50e2888f99a2812926947b121c4e0c3c5723d1f6faad358dd"

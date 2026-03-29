@@ -1,0 +1,8 @@
+name = "fmAssetsMain"
+filename = "main.gif"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/GGHJK-MC/gghjk-packwiz/master/config/fancymenu/assets/main.gif"
+hash-format = "sha256"
+hash = "c58c0988e177577821a0a5cbfce978c6f584f4ace3e0655afe38df3eaa63807e"

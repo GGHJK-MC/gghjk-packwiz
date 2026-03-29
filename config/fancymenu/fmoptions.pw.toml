@@ -1,0 +1,8 @@
+name = "fmOptions"
+filename = "options.txt"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/GGHJK-MC/gghjk-packwiz/master/config/fancymenu/options.txt"
+hash-format = "sha256"
+hash = "d6e10d5b7c58998532ef6fd187b8bacb2f866a26a0352a19d63e159d53b84ba6"
