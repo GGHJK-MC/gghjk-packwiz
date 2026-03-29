@@ -1,8 +1,0 @@
-name = "Menu-ELC"
-filename = "element_layer_control.lewidget"
-side = "client"
-
-[download]
-url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/refs/heads/mods/config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
-hash-format = "sha256"
-hash = "051d700ea7ff1bd626063d60f9a9cd65a0af1fed5903706d1e70fce20bcb2495"

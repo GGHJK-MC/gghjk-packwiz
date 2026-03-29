@@ -1,8 +1,0 @@
-name = "Menu-CGS"
-filename = "custom_gui_screens.txt"
-side = "client"
-
-[download]
-url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/refs/heads/mods/config/fancymenu/custom_gui_screens.txt"
-hash-format = "sha256"
-hash = "ff492043eaf454c46e949d5eef32ece90cc5a19feb50a161dd29a43b5732c880"

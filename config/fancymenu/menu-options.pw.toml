@@ -1,8 +1,0 @@
-name = "Menu-Options"
-filename = "options.txt"
-side = "client"
-
-[download]
-url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/refs/heads/mods/config/fancymenu/options.txt"
-hash-format = "sha256"
-hash = "bc6690448308fc44d7637804835dc1bbc78cba7765b751fbb3996fee7f760934"

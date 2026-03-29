@@ -1,8 +1,0 @@
-name = "Menu-LCL"
-filename = "legacy_checklist.txt"
-side = "client"
-
-[download]
-url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/refs/heads/mods/config/fancymenu/legacy_checklist.txt"
-hash-format = "sha256"
-hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"

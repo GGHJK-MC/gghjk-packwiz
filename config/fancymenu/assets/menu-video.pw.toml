@@ -1,8 +1,0 @@
-name = "Menu-Video"
-filename = "intro.gif"
-side = "client"
-
-[download]
-url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/refs/heads/mods/config/fancymenu/assets/intro.gif"
-hash-format = "sha256"
-hash = "7df15f58aa4a45cdda635c51dab12d28ee1ca13bc5d6e80b8c1e6d84d3a5ffa5"
