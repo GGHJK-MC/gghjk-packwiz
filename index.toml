@@ -447,7 +447,7 @@ metafile = true
 
 [[files]]
 file = "mods/libx.pw.toml"
-hash = "ae04559d6f0b5650b50b91753433da801eb5735765fd7ded6b774b42f8f2e4dc"
+hash = "f67903e289d9473daba5082e274f46e29f9773821fb1c68fada4d1056a75de06"
 metafile = true
 
 [[files]]
@@ -482,12 +482,12 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "427e48f685c2af70f0fda07648073379f3b343436b038c7289d98c56b55c322c"
+hash = "38eea2ca7a239251665b153faaa13fc6adff8abb4efa1f4c8ebdc43502023330"
 metafile = true
 
 [[files]]
 file = "mods/more-ancient-debris-20x.pw.toml"
-hash = "18abb3988c53e5063edcbc18bd276ac460424305df46c8dff84adf1e070720fd"
+hash = "d3d992eee363df6728ece745b262385e4d1678bdd19e0cc353d3f7012288f122"
 metafile = true
 
 [[files]]
@@ -502,7 +502,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "3df30aacbe9daf41362c9bfadbdbe4336207b0970a77e294464c392e01db37e4"
+hash = "d53a66487475e85c378a46f2c9d5fb1bf5273f9b29b804a47eaa3fd27f284924"
 metafile = true
 
 [[files]]
@@ -557,7 +557,7 @@ metafile = true
 
 [[files]]
 file = "mods/shulkerboxtooltip.pw.toml"
-hash = "460c9bb5210f9d16f87e1086cd526851925fc1238b25204fa5f55568ae9d559d"
+hash = "0bef7b3dd4758a661d3e6827bd390c12ff8a3ede4a66bb2e01e3c760f02bd509"
 metafile = true
 
 [[files]]
@@ -597,7 +597,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "c6182c863ef7758553bc7ad14b8b111e094bd7feda60793e4c656cd9a225fce4"
+hash = "4e45380047390a7981bad480189ac806694d244bb10138ede288fd2e4539dc1f"
 metafile = true
 
 [[files]]
@@ -657,7 +657,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/fast-better-grass.pw.toml"
-hash = "b362ef651d365753a7bfc177641fe808bde838f4734d0fc50e57e3237a6155b6"
+hash = "9b3a80122c1b511ac0c134d34e3acbfa4662a0fbab2a9af630d9854bf7bc5678"
 metafile = true
 
 [[files]]
