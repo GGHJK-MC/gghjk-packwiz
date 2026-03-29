@@ -1,17 +1,17 @@
 name = "GGHJK Normal"
 author = "Beard"
-version = "2.9"
+version = "3.0"
 description = "GGHJK Normal Modpack"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "87595f9968e259b769853dd71d54f42d1acdf45f9d9c347bfeffc3c4a2ba24e6"
+hash = "5f37cd2814dceae9ed87bd46aa208064054c2b582e209ebfa63a1dcabc86e24c"
 
 [versions]
 minecraft = "1.21.1"
-neoforge = "21.1.213"
+neoforge = "21.1.222"
 
 [options]
 acceptable-game-versions = []
