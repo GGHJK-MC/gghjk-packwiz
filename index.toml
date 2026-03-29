@@ -491,8 +491,18 @@ hash = "2d268dcf9b16d615353de4bed2a7da3bdfd8a7c97ef01691ab897a79432e1e40"
 metafile = true
 
 [[files]]
+file = "mods/mes-moogs-end-structures.pw.toml"
+hash = "f4db358ab5081831cb84f4d81338b21f0600675ab25b13f8824deecc82d2acc8"
+metafile = true
+
+[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "37abad81ab24ec727dda0cf15ee00b267e71121d4717b45d3d7160494e4a328f"
+metafile = true
+
+[[files]]
+file = "mods/moogs-structure-lib.pw.toml"
+hash = "44b52fc7e10142b0f514c66dbc0c74a0feae35ee329c37454e08aa1187d1d60e"
 metafile = true
 
 [[files]]
