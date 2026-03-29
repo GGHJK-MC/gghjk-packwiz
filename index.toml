@@ -296,6 +296,11 @@ hash = "5db9fddb18f2f558c1814efd265bc0b2d8a317fdad2122bcee3e30cd2da799fe"
 metafile = true
 
 [[files]]
+file = "mods/dmr.pw.toml"
+hash = "f0849fc220ab38735f36e04cfeb3bebed09df20194199bcb542cfbf93a240a6e"
+metafile = true
+
+[[files]]
 file = "mods/drippyloadingscreen-dls.pw.toml"
 hash = "924d0f8148040558e0f33c803771e4c1bdb9ea0c02670e6bd86ad65cee63e0fd"
 metafile = true
@@ -348,6 +353,11 @@ metafile = true
 [[files]]
 file = "mods/freecam.pw.toml"
 hash = "c706868ad8f12495e0dbd308ffdba4e200c05f4ce844ba3d551cedd998e7726e"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.pw.toml"
+hash = "0521ed2becdf2b460511c92e80e2702a4b6e540c85c99fb571844e1c7c505724"
 metafile = true
 
 [[files]]
