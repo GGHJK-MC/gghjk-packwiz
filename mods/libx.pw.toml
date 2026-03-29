@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/qEH6GYul/versions/1jQ1oYaF/LibX-1.21.1-6.0.10.jar"
-hash-format = "sha512"
-hash = "fb8c606521bea996bae67d99676ac291848a1a54e1ac66b6b20b889ff9ae37f2b4ec4e15647ca81d56cd7598451eddfeeeb24ccacdd19d0c2b21715b58b4623d"
+hash-format = "sha256"
+hash = "f9e2a783c8c66dea8b37f62ecf273598251a989f848ae358fb35e1661b88f7ac"
 
 [update]
 [update.modrinth]
