@@ -1,0 +1,19 @@
+{
+  "current": {
+    "known_contents": {
+      "main": {
+        "url": "content.json",
+        "hash": "4b2269172e2427c0867e9d1b6fdaf581a5c02e09",
+        "required": true
+      }
+    },
+    "build": 27,
+    "latest_updated": 1777722303
+  },
+  "remote": {
+    "sign_no_required": true,
+    "type": "dynamic_repo",
+    "url": "https://raw.githubusercontent.com/MrBeard-dev/Resoures-Pack-Updater-For-GGHJK/main/SETTINGS"
+  },
+  "formatVersion": 1
+}
