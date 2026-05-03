@@ -321,6 +321,11 @@ hash = "b0be7a9cd0390e05ada0736c03d1b4a2b545b67ad8815b1e2fa1933bc0d2b661"
 metafile = true
 
 [[files]]
+file = "mods/dynamicpack.pw.toml"
+hash = "b2a5d6dce3a416affdc1ac0c50bb651f6fc99eaf60a3ed7217b024ff2885ccdc"
+metafile = true
+
+[[files]]
 file = "mods/effortless.pw.toml"
 hash = "4bae5c22fe8f4edb8faecb46af53cbdf690abc9ba7d6b6f9677439aca9370345"
 metafile = true
@@ -368,11 +373,6 @@ metafile = true
 [[files]]
 file = "mods/get-it-together-drops.pw.toml"
 hash = "75232d3c1e8660724afc39728794a6f839899cf085a344aaf5b767d8127d340f"
-metafile = true
-
-[[files]]
-file = "mods/gghjk-resourcepack-updater.pw.toml"
-hash = "d98de018d552740fe691b5e07fc4b3a32bf559ee13782ac759422eaedd016a4f"
 metafile = true
 
 [[files]]
@@ -691,16 +691,6 @@ hash = "a3cfb259a519eb6a6f8e3bc53f8bf907edcd446a542c664cd2097e5268694c8b"
 metafile = true
 
 [[files]]
-file = "resourcepacks/GGHJK Server Pack/gghjk-server-resourcepack-mcmeta.pw.toml"
-hash = "2584fb5e0e65601dcf46b86820fe45324c433f07a965f8dae4c7174a65abf344"
-metafile = true
-
-[[files]]
-file = "resourcepacks/GGHJK Server Pack/gghjk-server-resourcepack-settings.pw.toml"
-hash = "6f2008da452d0e12e533a8b28e065b31b780fb4ed46c5e6ed8f859575911189d"
-metafile = true
-
-[[files]]
 file = "resourcepacks/better-leaves.pw.toml"
 hash = "c61a33e80cbe6bb9f84c60c6c5f157bd5143bc4a343a44a54e0b1bd823b3b779"
 metafile = true
@@ -718,6 +708,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/fullbright-ub.pw.toml"
 hash = "0ff915de429ab4e9839756b62f6981c875ebfff5ee9ee862a7b1b28055b7c643"
+metafile = true
+
+[[files]]
+file = "resourcepacks/gghjk-server-pack.pw.toml"
+hash = "ab54fe67bde8f42c6d6862643337956c99a1f6c5a795a0915a5619dba78bedfc"
 metafile = true
 
 [[files]]

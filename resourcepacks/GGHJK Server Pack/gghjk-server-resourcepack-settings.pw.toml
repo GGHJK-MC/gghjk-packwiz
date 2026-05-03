@@ -1,8 +1,0 @@
-name = "GGHJK Server ResourcePack Settings"
-filename = "settings.json"
-side = "both"
-
-[download]
-url = "https://raw.githubusercontent.com/GGHJK-MC/gghjk-packwiz/refs/heads/master/mods1/GGHJK%20Server%20Pack/settings.json"
-hash-format = "sha256"
-hash = "5858ce963606ad7f6f038192d112a293f60b56fea4d8648d6c58e89a4b6cbe3f"
