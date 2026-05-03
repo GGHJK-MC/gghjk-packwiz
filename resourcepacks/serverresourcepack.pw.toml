@@ -1,8 +1,0 @@
-name = "GGHJKServerResourcePack"
-filename = "GGHJKServerPack.zip"
-side = "client"
-
-[download]
-url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/mods/resourespacks/GGHJKServerPack.zip"
-hash-format = "sha256"
-hash = "f31651423a6d4549c0fe645578f10e7f263081d876c8f8403b61f83cf34ede7c"
