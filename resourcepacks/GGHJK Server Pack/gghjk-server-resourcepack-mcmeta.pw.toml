@@ -1,0 +1,8 @@
+name = "GGHJK Server ResourcePack McMeta"
+filename = "pack.mcmeta"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/GGHJK-MC/gghjk-packwiz/refs/heads/master/mods1/GGHJK%20Server%20Pack/pack.mcmeta"
+hash-format = "sha256"
+hash = "5db1b1aba8360a01801f9ceda399f7fb0a23299a46a41cbcf1b89ce92f95387b"

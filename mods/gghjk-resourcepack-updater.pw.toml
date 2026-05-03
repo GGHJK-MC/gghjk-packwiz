@@ -1,0 +1,8 @@
+name = "GGHJK ResourcePack Updater"
+filename = "rpu.jar"
+side = "both"
+
+[download]
+url = "https://github.com/GGHJK-MC/gghjk-packwiz/raw/refs/heads/master/mods1/rpu.jar"
+hash-format = "sha256"
+hash = "ffa2e77a8190df0991d5d3948a132912c4ea9bff010d4e4e8f323281e098be2d"
