@@ -1,0 +1,13 @@
+name = "Minecraft Transit Railway"
+filename = "MTR-neoforge-4.1.0-beta.1+1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/XKPAmI6u/versions/UrzDVdp2/MTR-neoforge-4.1.0-beta.1%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "0629845c04a5aba4bd9108cf9d40754b35a91ab4786c8782bc7dce79a6032e3f0d76422482f121bcf95a906fcd7e1ccaa3d5231ba77dc5e22174706f3ae4026d"
+
+[update]
+[update.modrinth]
+mod-id = "XKPAmI6u"
+version = "UrzDVdp2"

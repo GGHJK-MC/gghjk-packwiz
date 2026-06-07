@@ -521,6 +521,11 @@ hash = "f4db358ab5081831cb84f4d81338b21f0600675ab25b13f8824deecc82d2acc8"
 metafile = true
 
 [[files]]
+file = "mods/minecraft-transit-railway.pw.toml"
+hash = "7b1c978646e79816e5acd071e814c06bf13556c21e8b0c103b2d441d254962ea"
+metafile = true
+
+[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "37abad81ab24ec727dda0cf15ee00b267e71121d4717b45d3d7160494e4a328f"
 metafile = true
