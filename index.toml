@@ -706,10 +706,6 @@ hash = "a3cfb259a519eb6a6f8e3bc53f8bf907edcd446a542c664cd2097e5268694c8b"
 metafile = true
 
 [[files]]
-file = "push.sh"
-hash = "67edbaa2a9e4cc565d331dadf97cd79ee858f76f225d1562b979348e2edcf036"
-
-[[files]]
 file = "resourcepacks/better-leaves.pw.toml"
 hash = "610e5e08a034d7fdda17d17f37853c1abf19f94425e0a831ced52fccb6ccb063"
 metafile = true
