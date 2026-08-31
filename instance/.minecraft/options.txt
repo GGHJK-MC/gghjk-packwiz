@@ -1,3 +1,0 @@
-darkMojangStudiosBackground:true
-skipMultiplayerWarning:true
-resourcePacks:["file/GGHJKServerPack.zip"]

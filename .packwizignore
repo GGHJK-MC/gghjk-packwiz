@@ -1,5 +1,8 @@
 instance/
 README.md
 .idea/
-PW-GUI.exe
+PW-GUI-1.2.0-all.jar
 nothing.java
+packwiz
+run.sh
+push.sh

@@ -541,6 +541,11 @@ hash = "1cb8c40a13f61da31fd0a038d94c5fc289765a88379940d39061411707dae1a2"
 metafile = true
 
 [[files]]
+file = "mods/minecraft-transit-railway.pw.toml"
+hash = "eb92edf4c96950bdb86d46f96aad2ed20bda469db60be70817215408cda3a692"
+metafile = true
+
+[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "37abad81ab24ec727dda0cf15ee00b267e71121d4717b45d3d7160494e4a328f"
 metafile = true
@@ -727,7 +732,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/better-leaves.pw.toml"
-hash = "c61a33e80cbe6bb9f84c60c6c5f157bd5143bc4a343a44a54e0b1bd823b3b779"
+hash = "610e5e08a034d7fdda17d17f37853c1abf19f94425e0a831ced52fccb6ccb063"
 metafile = true
 
 [[files]]
