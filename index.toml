@@ -391,11 +391,6 @@ hash = "82a892755a825ac7724c84c063cef2f884fc8c3b36ac1da8bb02dbbd76af58aa"
 metafile = true
 
 [[files]]
-file = "mods/gghjk-web-integration.pw.toml"
-hash = "1efcbeb508c2ba52bab9f454cd77433c58b5e169ea90aa6eb15ea752d60019bb"
-metafile = true
-
-[[files]]
 file = "mods/gputape.pw.toml"
 hash = "772ca226b885e1dd59f2ad34501727798be4edcc8fcf151e3b8c2a0943c59d19"
 metafile = true
@@ -628,16 +623,6 @@ metafile = true
 [[files]]
 file = "mods/slideshow.pw.toml"
 hash = "495c38c785d7044958eca3162c75117d2ffa37c362d00e2821187509734fee38"
-metafile = true
-
-[[files]]
-file = "mods/sodium.pw.toml"
-hash = "2f706c66af305f492a9d86ceb0deacb8d6874b73ff45f4f52506f11411c7a429"
-metafile = true
-
-[[files]]
-file = "mods/sodiumextras.pw.toml"
-hash = "2d76ff86097fd0b77223c80df06d0a3c88a01c27b606eb6cd0a3598f4cd5aaf9"
 metafile = true
 
 [[files]]

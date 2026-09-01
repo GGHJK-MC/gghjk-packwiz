@@ -1,8 +1,0 @@
-name = "GGHJK Web Integration"
-filename = "gghjkwebintegration-1.2.1.jar"
-side = "both"
-
-[download]
-url = "https://github.com/GGHJK-MC/gghjk-packwiz/raw/refs/heads/master/mods1/gghjkwebintegration-1.2.1.jar"
-hash-format = "sha512"
-hash = "10c17ef91c56980b0cb64f0072fd8128218cfe80fb4fbf492ac63f188fa53e8960dfbd3224f4385eec04f6d1a98e26c23a59b242ec1a6204536750e25bf282a8"
