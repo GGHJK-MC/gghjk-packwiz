@@ -1,13 +1,13 @@
 name = "LibX"
-filename = "LibX-1.21.1-6.0.13.jar"
+filename = "LibX-1.21.1-6.0.14.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/qEH6GYul/versions/YnbUigkd/LibX-1.21.1-6.0.13.jar"
+url = "https://cdn.modrinth.com/data/qEH6GYul/versions/hqDl08eX/LibX-1.21.1-6.0.14.jar"
 hash-format = "sha512"
-hash = "c96dbd8c7076bcddff17383e3fa5644a49208debd2d2245e49a00507fdbdd5bb94f6132a1f50d698922b6106c2788f0fe37cf4dea4362962cb123abd39aaef85"
+hash = "8a3e08eb3455583ad9c901c3223ffc49881b812cb46a37a0b7920b0ff0e949df9f89ba00aa331c54f48359b978689cda37238d2e35fe3856a67506b33fbf3803"
 
 [update]
 [update.modrinth]
 mod-id = "qEH6GYul"
-version = "YnbUigkd"
+version = "hqDl08eX"

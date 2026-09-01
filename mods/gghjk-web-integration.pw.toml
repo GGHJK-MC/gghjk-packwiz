@@ -5,4 +5,4 @@ side = "both"
 [download]
 url = "https://github.com/GGHJK-MC/gghjk-packwiz/raw/refs/heads/master/mods1/gghjkwebintegration-1.2.1.jar"
 hash-format = "sha256"
-hash = "06b05e1378b0b575ef49a5ebfc39e1cf5b4a656e75f2dfecb94e57cf64e69c81"
+hash = "799edd9961d83ac890a40c1501cfd210e0fd1d41446520858df3a7147ba458d4"

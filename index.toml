@@ -107,7 +107,7 @@ metafile = true
 
 [[files]]
 file = "mods/amendments.pw.toml"
-hash = "45cb5aeaf4123bafad8ba12d6e062579e0f3092e586ca1ca7a80bd0eb9f909a9"
+hash = "176c819c0421ebaeea291713232e921d9cdd83753348c97bc7ba9237c5c15912"
 metafile = true
 
 [[files]]
@@ -132,7 +132,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "d9973b1930e25c6599d1bfe718d2746b95e4ea11f96ad9b3158b8b3796f05812"
+hash = "187eafde5974beee1263538b462b7b8fe2fc8948c5d413980d9796d55928580b"
 metafile = true
 
 [[files]]
@@ -142,7 +142,7 @@ metafile = true
 
 [[files]]
 file = "mods/bclib-neoforge.pw.toml"
-hash = "b8f9ab3c229ca511126a007b17916155252e510a25368c2277d6896503ee7d97"
+hash = "e9d3a35de86ee3896a01257fd5f0f31ae3934db5fa329aefa3e56ebdfef5a7a6"
 metafile = true
 
 [[files]]
@@ -152,7 +152,7 @@ metafile = true
 
 [[files]]
 file = "mods/betterend-neoforge.pw.toml"
-hash = "50318a3ca39da361d38c2fd9614d48abb5575c244a41fcc6b10873581d0234ed"
+hash = "a45c19a6575ea92caac156ec7f3d7e2c1deb236a74404a7dd79b04070064f4d9"
 metafile = true
 
 [[files]]
@@ -382,7 +382,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "0521ed2becdf2b460511c92e80e2702a4b6e540c85c99fb571844e1c7c505724"
+hash = "5a26489b734991c0511abfe43bf9143c935b8483d854a78fecd2e84993fb09cc"
 metafile = true
 
 [[files]]
@@ -392,12 +392,12 @@ metafile = true
 
 [[files]]
 file = "mods/gghjk-web-integration.pw.toml"
-hash = "a2d0b08a5b62217f7385af1f29eb756a710a9a7a3a053adb1f324e4f42e17fc9"
+hash = "5dea54fb758018c2acbbfe0f2ff60b9bfd998bd8a382e700672cc01781182faf"
 metafile = true
 
 [[files]]
 file = "mods/gputape.pw.toml"
-hash = "1bd3420a3c46463e96c84df3326c87c71bd19ed60204e5b1694cd2788133fe68"
+hash = "772ca226b885e1dd59f2ad34501727798be4edcc8fcf151e3b8c2a0943c59d19"
 metafile = true
 
 [[files]]
@@ -437,12 +437,12 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "fa9744b4255692da6cd0cfd3b1a68e604012d30740d43c63080904d59a51e838"
+hash = "812491578497cd7ce0cadb757e6cf32475cd097c80b1df9d2a3b7a3e9fd1dac6"
 metafile = true
 
 [[files]]
 file = "mods/just-enough-effect-descriptions-jeed.pw.toml"
-hash = "bf22f3a3f21182db930a572a3cd98e768a5bac9770b5be1b7dae853763fdf998"
+hash = "72f20e941a30b9a85de2dabee3dcd3fd598b46775a408da3dc7d6ea4c8db2904"
 metafile = true
 
 [[files]]
@@ -457,7 +457,7 @@ metafile = true
 
 [[files]]
 file = "mods/justenoughbreeding.pw.toml"
-hash = "dfaea557f268beaec21999ba1277f4077bfbea0645f90274c32f2e166f6d1444"
+hash = "97bfd3ab26e1336b77e9f78daf3f82dce9ad03a1adf9dc4f563f620e91d5fd6a"
 metafile = true
 
 [[files]]
@@ -487,12 +487,12 @@ metafile = true
 
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
-hash = "d77c41bf5a8dd470d65e7946d507657a910b54d2e76f4b3ced4fe4addc2d52d4"
+hash = "ebf0dae777cc19c354a662dc8144009dff7269b2d05624b4591fcb7de56fc14e"
 metafile = true
 
 [[files]]
 file = "mods/libx.pw.toml"
-hash = "53c902738dcce141ebdbd8549c78ede8a0b867285a0f0148377125339130ce6d"
+hash = "ec337f5e0e18a0d31e9051730c9773a69226ae6c37186e79df297db999cda084"
 metafile = true
 
 [[files]]
@@ -537,12 +537,12 @@ metafile = true
 
 [[files]]
 file = "mods/moogs-structure-lib.pw.toml"
-hash = "2a4f1e4be390cad36273b547e1cc2bf1b3a74c5f9e80ca3cfc0d0830030c0bbc"
+hash = "4361b2a089a2cb76d26711eae23983dd5932dcdfa2679b3b8f31570ddf42de6a"
 metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "4e93b2710a407b1a518aba64e77d97fd5a2f853b54e2133eac0768ba90bdc5d6"
+hash = "6e3829e3de78efb1490e738fcc66b1ab7869d8f5a67400ca6028a001d347eebf"
 metafile = true
 
 [[files]]
@@ -562,7 +562,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "ca08f962763e44c6b857ff911c9c22b126fdf08210200a19f7ed9403d6fd3f4c"
+hash = "4c750fa8368dba7606d274c93cbd990a65fb9a2e5aea2807aeb6876831830d0b"
 metafile = true
 
 [[files]]
@@ -607,7 +607,7 @@ metafile = true
 
 [[files]]
 file = "mods/servercore.pw.toml"
-hash = "ba0fbc01b797b664021580151aa626f3816bdf4420136cc424761df4d05c9d55"
+hash = "33454564d216f62d011ac78fc0aa2a49977ac1161f10f4accb1d33a9934969df"
 metafile = true
 
 [[files]]
@@ -652,12 +652,12 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries-squared.pw.toml"
-hash = "a9e444e7bc6e62fdebdefc88303c13d1173e602d28d34fa529d26cee44787f3f"
+hash = "46280c9487633e3bd1dd7bb24ccc4076058b2602d7dc2906f96509527346cf24"
 metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "148c5d14dfeca914d20ceea4defa9660fe588e6fc22cea23cab745504d4b2453"
+hash = "0c83b0949ea4bdde722335964979654ed3e79f74261e7b3e0076e3d1e544d89a"
 metafile = true
 
 [[files]]
@@ -672,7 +672,7 @@ metafile = true
 
 [[files]]
 file = "mods/tt20.pw.toml"
-hash = "ad3356f18bc95881483998ac4b7f07dd7f87c9688514274a1c4e74e8f756a358"
+hash = "04a66f5ca2cc25338b031a52cfcf4a431892534a1d6df0e5e9c964d769141b08"
 metafile = true
 
 [[files]]
@@ -692,7 +692,7 @@ metafile = true
 
 [[files]]
 file = "mods/worldweaver-neoforge.pw.toml"
-hash = "ee8f963ec9dc72467d15af46af53685bc2b199b232c738006e98d91e897834c2"
+hash = "3eec79641f91bbfa2d9bc44ba0b445c76475241459b1a7e1797326d3aeb7798a"
 metafile = true
 
 [[files]]
@@ -722,12 +722,12 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/dramatic-skys.pw.toml"
-hash = "d63f4e5b0c302b27a529c4112a9bf13f2a89f1d4198e2ea166cecc062a0b7980"
+hash = "9b31837a037572fa693faa071c147eca33959c532084457d5c035f9887179aba"
 metafile = true
 
 [[files]]
 file = "resourcepacks/fast-better-grass.pw.toml"
-hash = "dfe1625a54715e3856171de7b7724c18d52fde5a913c8592ea3215a58668ec38"
+hash = "b9362da7ce0d258d671a6b57177fe4816a326efda27ace533be93ce86c611857"
 metafile = true
 
 [[files]]
