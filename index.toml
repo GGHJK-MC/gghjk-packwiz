@@ -351,6 +351,11 @@ hash = "c42a0f851f004acaf1f25ac064c445cafa7264f431aa266c60e1faebd3a5d5f6"
 metafile = true
 
 [[files]]
+file = "mods/embeddium.pw.toml"
+hash = "778c42263b2ba7c9e73553bdcd70f48a3e485ba52b6a83474160d48be696b71f"
+metafile = true
+
+[[files]]
 file = "mods/entityculiing.pw.toml"
 hash = "1eb9188ecda3b3ef0b78a7ce59add7e7f3db67c85ce9903a250f36797b5ef2c9"
 metafile = true
@@ -408,11 +413,6 @@ metafile = true
 [[files]]
 file = "mods/inventoryview.pw.toml"
 hash = "9e1856b9529fa3fc2dd5cab1868d14f1a7b3b7f8e3fba102d2e3f6225d0dd03c"
-metafile = true
-
-[[files]]
-file = "mods/irisshaders.pw.toml"
-hash = "faa82be815dd07788525d8cbdfdcf7a5ba1a775ea20f9c7e28c338ecf4a12a1b"
 metafile = true
 
 [[files]]
@@ -556,6 +556,11 @@ hash = "0b21cdf0afd370c13a879a51d51ae8310992836c11a108c5262d052d4dd407bf"
 metafile = true
 
 [[files]]
+file = "mods/neopoculus.pw.toml"
+hash = "648c90cd03bc77bc818768ac0a5b8e5947c9352388a785ccbdb9978d4b84d3b5"
+metafile = true
+
+[[files]]
 file = "mods/not-enough-animations.pw.toml"
 hash = "4c750fa8368dba7606d274c93cbd990a65fb9a2e5aea2807aeb6876831830d0b"
 metafile = true
@@ -623,11 +628,6 @@ metafile = true
 [[files]]
 file = "mods/slideshow.pw.toml"
 hash = "495c38c785d7044958eca3162c75117d2ffa37c362d00e2821187509734fee38"
-metafile = true
-
-[[files]]
-file = "mods/sodium.pw.toml"
-hash = "2a001cdb3d5ac4970d422914083c27380eba8ebd40dfd435754fe6566ba78beb"
 metafile = true
 
 [[files]]
