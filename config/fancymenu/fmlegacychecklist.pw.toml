@@ -4,5 +4,5 @@ side = "client"
 
 [download]
 url = "https://raw.githubusercontent.com/GGHJK-MC/gghjk-packwiz/master/config/fancymenu/legacy_checklist.txt"
-hash-format = "sha256"
-hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
+hash-format = "sha512"
+hash = "c50fc96f5bb6d4f6927bdc8ca29862e0e536fd32688557d54d1e81d492c5fca67de4c96b96decb462a4d47aa663f9edb2df4f2a44f0829914e7ea1e6aba00f34"

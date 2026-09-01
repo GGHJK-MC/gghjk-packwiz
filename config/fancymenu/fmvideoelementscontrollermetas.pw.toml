@@ -4,5 +4,5 @@ side = "client"
 
 [download]
 url = "https://raw.githubusercontent.com/GGHJK-MC/gghjk-packwiz/master/config/fancymenu/video_element_controller_metas.json"
-hash-format = "sha256"
-hash = "79f2e7b9e0b3739d09abc84e7cc57b0e1e30b277d183cd9b7bb9788c3ddf5bf5"
+hash-format = "sha512"
+hash = "b9570599e9f8791be6cbfd8a5e2fb8f063f4cf72da4d427ae0b8b19f55af875a13ed6857885a22544e09ac40bbd9a625f385677436a94bf0603f0faf64533179"

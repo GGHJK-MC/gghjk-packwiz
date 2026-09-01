@@ -4,5 +4,5 @@ side = "both"
 
 [download]
 url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/mods/mods1/melody.jar"
-hash-format = "sha256"
-hash = "6b973a4564703c531fc0eae09db08b07a38091e0a743c687b8d2049457e84871"
+hash-format = "sha512"
+hash = "3bd96b851a65fa95d92d051851e6a7a415927f718fcb05f0dfb5983eb3ca54edfb842ea85f1497e1b3510b5884181b8f9c6080d2b15642ceadac695011c00ec1"

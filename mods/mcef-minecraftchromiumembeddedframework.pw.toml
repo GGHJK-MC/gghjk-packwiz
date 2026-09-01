@@ -4,5 +4,5 @@ side = "both"
 
 [download]
 url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/mods/mods1/mcef.jar"
-hash-format = "sha256"
-hash = "0c7696216fa5cfee659d687475873c847a9a17cc8ce3a56119a69c946eeb8772"
+hash-format = "sha512"
+hash = "8b45e271ca3b40dd714a2e6389ac460cff476b85b5cc7b57993f0cf0e0c0727d99768757c7ec0ab10600ccc75cb7e95f603c2b3fe77a9bb6c9492da4cb857ccb"

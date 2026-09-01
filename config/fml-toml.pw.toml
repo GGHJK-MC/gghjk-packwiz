@@ -4,5 +4,5 @@ side = "client"
 
 [download]
 url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/mods/config/fml.toml"
-hash-format = "sha256"
-hash = "a0fd4d71d20f0e5158efec96dcbdf1b6ace1fdde4292a44eaf58a79ee69b97bc"
+hash-format = "sha512"
+hash = "2c3963865e323fe62e8fc3e0e0fc2c495bc8bb2e4e949ea98f302cc2911de97ff1b7dde71ea475095483a8862f2fe5e0437693aaab572caddc563319f5394907"

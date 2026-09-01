@@ -4,5 +4,5 @@ side = "client"
 
 [download]
 url = "https://raw.githubusercontent.com/GGHJK-MC/gghjk-packwiz/master/config/fancymenu/assets/audio.wav"
-hash-format = "sha256"
-hash = "aa1ae5543313f1df53d58fad283d449af7153bd17baaabec3e2f5a8b17609761"
+hash-format = "sha512"
+hash = "effd34ef30b73525b1ccb1db7c25ac5a925c173e62efc6503c1892c17534d19e3c9640316ff7e9494657f3870047bfd5e287745e03687e2b7cf74aa0d5722a47"

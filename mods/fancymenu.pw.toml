@@ -4,5 +4,5 @@ side = "client"
 
 [download]
 url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/mods/mods1/fancymenu.jar"
-hash-format = "sha256"
-hash = "d935c9862541a41083f0ab086684b0510a924c05f609f8935f7fab6fbe843613"
+hash-format = "sha512"
+hash = "b427c7b2f3315d146fb8ae3a74c54fa67880952458335d802e635426a3a96d523cf5503afb91fa001cb4bba17c8face2ac5baa8cad488aeb6e2712c3f4b0b891"

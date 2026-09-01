@@ -4,5 +4,5 @@ side = "both"
 
 [download]
 url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/mods/mods1/createDP.jar"
-hash-format = "sha256"
-hash = "4defe234ddc4edfebf3a019faccd04d729c4c25f027c58975ca24e5747512abc"
+hash-format = "sha512"
+hash = "c8ee9a46aea4281840eb9a99fa6973c7a6c7c25a0e0b2263a971b239d246271d5b34f1c77e42f735eb7241504ab3014c225006769cc38f2ce9886206a182c0a3"

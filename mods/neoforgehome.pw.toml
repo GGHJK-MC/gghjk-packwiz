@@ -4,5 +4,5 @@ side = "server"
 
 [download]
 url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/mods/mods1/neohome.jar"
-hash-format = "sha256"
-hash = "eea28fd1e65e0f41d02b8a3f6aecaf5818bd803452fec6b3380e3cf9407d15b9"
+hash-format = "sha512"
+hash = "0eecdd651fa03cb1643eda4066baec32ad2aa4a86774a31e2f1057b34a9e96dc0a191a765aba8776f94d0da7ecfe3d43dec4ad592e7c8c8172eb3297292e650e"

@@ -4,5 +4,5 @@ side = "both"
 
 [download]
 url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/mods/mods1/mechanicals.jar"
-hash-format = "sha256"
-hash = "122c03b1b94bcf515056e197bcc14527e4f91306d8e38b76ba195ab64f8e05de"
+hash-format = "sha512"
+hash = "6638860a9273ff656095a5c7de0c029ae2eb48928fcabe7b0f240e74d9bfa28d9c8da04f08cefdbe3feba682efbd46f887a80474b54c2d698f643db9f4477807"

@@ -4,5 +4,5 @@ side = "both"
 
 [download]
 url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/mods/mods1/adminpanel.jar"
-hash-format = "sha256"
-hash = "b372a4ad1306e836b99398e63b65f09909b7ce3e81eb6a39f8c5dc3ce76dc96a"
+hash-format = "sha512"
+hash = "5107b26013a9b074594213ed722c258d4770a303e9aeafd7b90c42bbcdd937ab6aa3370ad7e26df7137a32a7e4128eea47ab8598a18c883b96c7ee2b47e5bfb9"

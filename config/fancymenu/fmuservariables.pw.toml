@@ -4,5 +4,5 @@ side = "client"
 
 [download]
 url = "https://raw.githubusercontent.com/GGHJK-MC/gghjk-packwiz/master/config/fancymenu/user_variables.db"
-hash-format = "sha256"
-hash = "3d7d4cda73d6bde134a568ccbe4e8d2e7fbe701570012b71fa45acdb2258c823"
+hash-format = "sha512"
+hash = "330b3d6d23908a2538bb3ac7396fe7b1976e1c2344879c7ab27768c304dd6fd508bd42035dccb4ac770c202fb2207016bad45bdcd9a0f479c74d350b33d94cd3"

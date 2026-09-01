@@ -4,5 +4,5 @@ side = "server"
 
 [download]
 url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/mods/mods1/discord.jar"
-hash-format = "sha256"
-hash = "859a23aff6dc5ab6459a420cb04125c1175b004bb62f0b34885fcc637a124b42"
+hash-format = "sha512"
+hash = "353a7b23700262c606ef34d8854e09e4b4c0ec516cc633da269a8c15756f2a1f9dc67bc4cdd245d1c6793787320f70d041f0c8219543f244c0aea49c4ad4a435"

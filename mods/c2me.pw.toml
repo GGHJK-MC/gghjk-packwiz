@@ -4,5 +4,5 @@ side = "server"
 
 [download]
 url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/mods/mods1/c2me.jar"
-hash-format = "sha256"
-hash = "765085137c5e59f3307f67c8d2b38037d388f08b4d89a465cc71abceb6b2aff4"
+hash-format = "sha512"
+hash = "74f3d539351430f5ecddfb6cf7b5c374739a3eea7199092864a615a11cc3251784dd50e61b81961e5e299f14c536c38df1310e289c213611e5a0767a99483378"

@@ -4,5 +4,5 @@ side = "client"
 
 [download]
 url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/mods/mods1/IZ.jar"
-hash-format = "sha256"
-hash = "dd01bba1f105d9386d827c940844b704cbf63fdb1ecf09605b9bfd4b5b18298b"
+hash-format = "sha512"
+hash = "aea25a2339d0c3c3b3f8d401423fc9d4f555725c829fca3ed3ca888d6665f23ab63f2a2370072adf0482a0d8df20c6e3e9d07dd5b084c7c495b96af5ab023570"

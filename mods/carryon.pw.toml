@@ -4,5 +4,5 @@ side = "both"
 
 [download]
 url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/mods/mods1/carryon.jar"
-hash-format = "sha256"
-hash = "ad69537be8be8b433227792e43f8df7b4d3cef7e359255d471a44e776ad8dd57"
+hash-format = "sha512"
+hash = "8b78ddc55ce6e28d4457dadb5aca4cd32e16d2db3c395276993e67c6acc108ced55e3e3d9a01aa5bf1da0d4fccab6183ba62acc1421054c0b2ecae9bd03cabf6"

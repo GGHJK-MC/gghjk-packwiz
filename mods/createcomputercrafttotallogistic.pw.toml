@@ -4,5 +4,5 @@ side = "both"
 
 [download]
 url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/mods/mods1/createCCL.jar"
-hash-format = "sha256"
-hash = "bdb11c6862f6c7c3311bb5d605264119231c7c8ce5789e8dfd54e769f04a170f"
+hash-format = "sha512"
+hash = "d3217ac82366f80de3413fefc1430bcb45e350761430011528a547e6ff875ef5f733f5fbe0477e179d3f47b859bc38379550bcb75a11b9f807d77357440ec8f0"

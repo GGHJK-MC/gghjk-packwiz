@@ -4,5 +4,5 @@ side = "server"
 
 [download]
 url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/mods/mods1/skinr.jar"
-hash-format = "sha256"
-hash = "ac7a39fd12327b7562fb0d06bc5681026c525e7e1c375b4e88cb35667d32498e"
+hash-format = "sha512"
+hash = "49f94a26d14d3f7e9498a5c7312dfc519366a3f5f939af82a365ce0df4ab4fbdd875593e677aa5391a6a3b4e572684921ada977f7f217ae6f51cc8e6a8de89f5"

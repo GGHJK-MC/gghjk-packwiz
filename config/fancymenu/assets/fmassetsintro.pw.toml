@@ -4,5 +4,5 @@ side = "client"
 
 [download]
 url = "https://raw.githubusercontent.com/GGHJK-MC/gghjk-packwiz/master/config/fancymenu/assets/intro.gif"
-hash-format = "sha256"
-hash = "7df15f58aa4a45cdda635c51dab12d28ee1ca13bc5d6e80b8c1e6d84d3a5ffa5"
+hash-format = "sha512"
+hash = "a810046b6e71d73d9d35a660456030a0432930a4ac39daa6c85af9c9bddd82bbd9f14abeafc42636a9650311d88e2dbd36c89a0c7fb41bc7620f5bcbcbd587c1"

@@ -4,5 +4,5 @@ side = "both"
 
 [download]
 url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/mods/mods1/modernfix.jar"
-hash-format = "sha256"
-hash = "4b0b0f36813255592d5b0d1eebd8fd2219e27038cc8966dd53b2209dd69bb058"
+hash-format = "sha512"
+hash = "d6df16e21c454b86b07991408dd0eb0f611942ee01d9598375a6b0907167aaf29e2906c8ad11c5f0971979e68ea8267d9a8deb82ba638bd85ccd4265d2448a1d"

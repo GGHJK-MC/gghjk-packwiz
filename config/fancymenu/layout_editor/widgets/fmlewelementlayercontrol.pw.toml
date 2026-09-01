@@ -4,5 +4,5 @@ side = "client"
 
 [download]
 url = "https://raw.githubusercontent.com/GGHJK-MC/gghjk-packwiz/master/config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
-hash-format = "sha256"
-hash = "051d700ea7ff1bd626063d60f9a9cd65a0af1fed5903706d1e70fce20bcb2495"
+hash-format = "sha512"
+hash = "152d0e816fe14cb2f2006822a739385d7dfe59b369eb45befd7c243d18bd4ab4c2c8cb7a499588c83de22c95d5130e3711c50dfcece098e52d8faaa94e839167"

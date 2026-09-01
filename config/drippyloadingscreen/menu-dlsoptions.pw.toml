@@ -4,5 +4,5 @@ side = "client"
 
 [download]
 url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/refs/heads/mods/config/drippyloadingscreen/options.txt"
-hash-format = "sha256"
-hash = "8d0edcad69219e217683bde3437b11318db348c7cce676c7c67de99b58f0ccd5"
+hash-format = "sha512"
+hash = "c4b13caa69fe7ee6b9fda86880898f6806ab7d550032e63fb222e9c3102b9a8895f3842b03ea08dbd27eef54dbbb7f58420f50613f7a996ef365f82e0ea07583"

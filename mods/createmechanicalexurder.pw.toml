@@ -4,5 +4,5 @@ side = "both"
 
 [download]
 url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/mods/mods1/createME.jar"
-hash-format = "sha256"
-hash = "5923e250924e4baebd2ba99d985be39114c1a1070922ffd20d2ee1352959bec2"
+hash-format = "sha512"
+hash = "a0c83096ba6755526a884e312007a6d11387a70375bc2b99fe8a39f8a591d9005f74e3b41fb324fa1aa2f7be7c588979227db6464161872fc42a07a9780e57a2"

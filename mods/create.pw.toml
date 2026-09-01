@@ -4,5 +4,5 @@ side = "both"
 
 [download]
 url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/mods/mods1/create.jar"
-hash-format = "sha256"
-hash = "c3030f79894ba7410d51e99dd5e5b8a4f4cc9de6cb63c5906dc8f909000a4f55"
+hash-format = "sha512"
+hash = "8b3b3d9b6874f31a538add81390dff26b5f9475da6349dc52fc20dbde802edfc32ead511e12291198591574d42605f916f1acbadc2437056eea615d8586bf7cf"

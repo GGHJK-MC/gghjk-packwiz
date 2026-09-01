@@ -4,5 +4,5 @@ side = "both"
 
 [download]
 url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/mods/mods1/createUL.jar"
-hash-format = "sha256"
-hash = "d07675d794c7e8e61134245c52393ffa12569e8d89753146d8a5171ebe5cdadb"
+hash-format = "sha512"
+hash = "292f3112d0baaed63d065fa22b9df081fcd99e8162f2774e87292ea81b22ad5ac94ff7f1934ba3707aafd347cff863166f77fcdee3541a40cd54ef8ee7a68d57"

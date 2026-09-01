@@ -4,5 +4,5 @@ side = "client"
 
 [download]
 url = "https://raw.githubusercontent.com/GGHJK-MC/gghjk-packwiz/master/config/fancymenu/ui_themes/light.json"
-hash-format = "sha256"
-hash = "3fcfc5f9957fbb86aea846c9ad49a24f47ca709c523c4018b584668e38b72f41"
+hash-format = "sha512"
+hash = "0de8b1e22e252e8e1f2cc2e6d03a2415d7cf038be62f8d71f0c56a61539a3f57289d4bfd4bf4d643547ecd2bbd89b3e67a567d120ac4d3f0d0a70ce91fbc0cd4"

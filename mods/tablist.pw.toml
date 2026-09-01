@@ -4,5 +4,5 @@ side = "server"
 
 [download]
 url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/mods/mods1/tablist.jar"
-hash-format = "sha256"
-hash = "4719c97241615ca9f0bc302a0236ebbe5195c5d7e2d06d9adafaca1d0e6a1feb"
+hash-format = "sha512"
+hash = "da6e6c16b69f72b5c38b4bd3324689795856da7b1c6084ce6b271ea3088699a6acb0dca881b5822f0490fa3c2c726671008419135540cb4f85430b1f17df2247"

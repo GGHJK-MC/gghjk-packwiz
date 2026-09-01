@@ -4,5 +4,5 @@ side = "both"
 
 [download]
 url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/mods/mods1/mek.jar"
-hash-format = "sha256"
-hash = "0be01fe153c17a8aab4c923e44f5e7546d69b37007b757580c85af7ec846cc5a"
+hash-format = "sha512"
+hash = "df8de81d0c57894e4965ad39aa7468576a95007d07de96d021b9d0a89ba82b2da53beeda590a21f665e57dd358c7c88c3382f2eea0d678d18a58f9519d352886"

@@ -4,5 +4,5 @@ side = "both"
 
 [download]
 url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/mods/mods1/lithium.jar"
-hash-format = "sha256"
-hash = "d1826a20cbd6f8df7566c677c72ccc4502b7eb98088b2b4d10f10b7170f7a6a0"
+hash-format = "sha512"
+hash = "86ed9b0d2d267f6dab87e49e0757341fccc8c3efe3b734a496d2b72eee06e903c0f4a6852ec14e30b69bf65885975d2d838f1add73d222c60a22c93f25a0cfb0"

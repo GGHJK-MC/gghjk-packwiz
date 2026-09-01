@@ -4,5 +4,5 @@ side = "both"
 
 [download]
 url = "https://raw.githubusercontent.com/MC-GGHJK/gghjk-packwiz/mods/mods1/chats_heads.jar"
-hash-format = "sha256"
-hash = "fb649cfcd08bbb1c68b2cc966045f6340e26e0a5fa99a5490b12ab94e3fbac3b"
+hash-format = "sha512"
+hash = "1426bf3e9d094a370e134f0ab864d0ec8c2df4bc047a26779d5dd28c64adb2a2a6ceb792b67dc6d61bd49d3c77d72c980076313fd06f61a2e9f0573c166e649c"
