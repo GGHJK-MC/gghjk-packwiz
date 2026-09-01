@@ -391,6 +391,11 @@ hash = "75232d3c1e8660724afc39728794a6f839899cf085a344aaf5b767d8127d340f"
 metafile = true
 
 [[files]]
+file = "mods/gghjk-web-integration.pw.toml"
+hash = "a2d0b08a5b62217f7385af1f29eb756a710a9a7a3a053adb1f324e4f42e17fc9"
+metafile = true
+
+[[files]]
 file = "mods/gputape.pw.toml"
 hash = "1bd3420a3c46463e96c84df3326c87c71bd19ed60204e5b1694cd2788133fe68"
 metafile = true
