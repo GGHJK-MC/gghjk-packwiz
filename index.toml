@@ -556,11 +556,6 @@ hash = "152769b5dfbb92a836634e315898b23b6a555c60b6f05ddf38c00085f2b784f6"
 metafile = true
 
 [[files]]
-file = "mods/reeses-sodium-options.pw.toml"
-hash = "0f465bf38b13f887dbde506c859c9b5439ee9151ae5f3a98078b9f6c3a2c89ad"
-metafile = true
-
-[[files]]
 file = "mods/reforgedplay-mod.pw.toml"
 hash = "40dec34f7a97af750702fd9ed685de0030c2a699fed776bf642aebb677943492"
 metafile = true
