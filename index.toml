@@ -351,11 +351,6 @@ hash = "c42a0f851f004acaf1f25ac064c445cafa7264f431aa266c60e1faebd3a5d5f6"
 metafile = true
 
 [[files]]
-file = "mods/embeddium.pw.toml"
-hash = "778c42263b2ba7c9e73553bdcd70f48a3e485ba52b6a83474160d48be696b71f"
-metafile = true
-
-[[files]]
 file = "mods/entityculiing.pw.toml"
 hash = "1eb9188ecda3b3ef0b78a7ce59add7e7f3db67c85ce9903a250f36797b5ef2c9"
 metafile = true
@@ -551,11 +546,6 @@ hash = "0b21cdf0afd370c13a879a51d51ae8310992836c11a108c5262d052d4dd407bf"
 metafile = true
 
 [[files]]
-file = "mods/neopoculus.pw.toml"
-hash = "648c90cd03bc77bc818768ac0a5b8e5947c9352388a785ccbdb9978d4b84d3b5"
-metafile = true
-
-[[files]]
 file = "mods/not-enough-animations.pw.toml"
 hash = "4c750fa8368dba7606d274c93cbd990a65fb9a2e5aea2807aeb6876831830d0b"
 metafile = true
@@ -563,6 +553,11 @@ metafile = true
 [[files]]
 file = "mods/polymorph.pw.toml"
 hash = "152769b5dfbb92a836634e315898b23b6a555c60b6f05ddf38c00085f2b784f6"
+metafile = true
+
+[[files]]
+file = "mods/reeses-sodium-options.pw.toml"
+hash = "0f465bf38b13f887dbde506c859c9b5439ee9151ae5f3a98078b9f6c3a2c89ad"
 metafile = true
 
 [[files]]
@@ -618,6 +613,21 @@ metafile = true
 [[files]]
 file = "mods/slideshow.pw.toml"
 hash = "495c38c785d7044958eca3162c75117d2ffa37c362d00e2821187509734fee38"
+metafile = true
+
+[[files]]
+file = "mods/sodium-extras.pw.toml"
+hash = "02b29315d2ec0d055d0ebba1f36879da5bcacc823328a668c7e7340fb2cb03d4"
+metafile = true
+
+[[files]]
+file = "mods/sodium-options-api.pw.toml"
+hash = "d193173f0f5dfb4a921d44e29e8d5cee656dd3a40872939069715bb482b66fc9"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "2a001cdb3d5ac4970d422914083c27380eba8ebd40dfd435754fe6566ba78beb"
 metafile = true
 
 [[files]]
