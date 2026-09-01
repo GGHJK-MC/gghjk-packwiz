@@ -306,6 +306,11 @@ hash = "f044ee972731dc94d2def5ba33745dc4204a18fadcce03b19038d644cd837564"
 metafile = true
 
 [[files]]
+file = "mods/creeper-firework.pw.toml"
+hash = "ec76dcf3224a206fae2792c7b4e99165cd1e35fbf25c6683d8ca49fc9ce8250c"
+metafile = true
+
+[[files]]
 file = "mods/curios.pw.toml"
 hash = "997c865d6531abce9eede8cc37ce62e10cbb67df5334e64f55be32bcfeff264d"
 metafile = true
@@ -733,6 +738,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/mandalas-gui-dark-mode.pw.toml"
 hash = "5adde534e1961f17db2a87afc932293998a14226b3454ee01e69a81428156924"
+metafile = true
+
+[[files]]
+file = "resourcepacks/worldtrampack.pw.toml"
+hash = "8bd286d022792b0b1f74843a0fd0ad57384e1d20236c3e717a05d53a3c3d3876"
 metafile = true
 
 [[files]]
