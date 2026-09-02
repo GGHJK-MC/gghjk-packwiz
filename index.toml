@@ -546,6 +546,11 @@ hash = "0b21cdf0afd370c13a879a51d51ae8310992836c11a108c5262d052d4dd407bf"
 metafile = true
 
 [[files]]
+file = "mods/neojcm.pw.toml"
+hash = "b8aa58932ce7d15303155a31c4fc94999f6925c921127e6d3adc82cd639706d0"
+metafile = true
+
+[[files]]
 file = "mods/not-enough-animations.pw.toml"
 hash = "4c750fa8368dba7606d274c93cbd990a65fb9a2e5aea2807aeb6876831830d0b"
 metafile = true

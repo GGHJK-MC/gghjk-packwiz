@@ -1,0 +1,8 @@
+name = "NeoJcm"
+filename = "NeoJCM-neoforge-2.0.0-prerelease.2+fork.1+1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/AmberIsFrozen/NeoJCM/releases/download/v2.0.0-prerelease.2%2Bfork.1/NeoJCM-neoforge-2.0.0-prerelease.2+fork.1+1.21.1.jar"
+hash-format = "sha256"
+hash = "22c3c9069dd4fa33033b8419e259cf118ac5985925ff280daf19af70033ea2f4"
