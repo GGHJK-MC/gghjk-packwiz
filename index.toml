@@ -700,10 +700,6 @@ hash = "1f2d91096f98fa90a3318967a5e8800fe2436b9f71f69949d21a148c078c8308"
 metafile = true
 
 [[files]]
-file = "options.txt"
-hash = "19b9576f399c3757079aafce7e75b09e89c6e0f952e271a314e0cf9690559187"
-
-[[files]]
 file = "resourcepacks/better-leaves.pw.toml"
 hash = "610e5e08a034d7fdda17d17f37853c1abf19f94425e0a831ced52fccb6ccb063"
 metafile = true
