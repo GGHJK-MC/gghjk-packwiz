@@ -1,3 +1,0 @@
-darkMojangStudiosBackground:true
-skipMultiplayerWarning:true
-resourcePacks:["file/GGHJKServerPack.zip","file/RET RSG3.zip"]
