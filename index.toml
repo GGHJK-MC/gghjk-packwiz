@@ -86,6 +86,10 @@ hash = "dc448723ae3deed798608473c78b7116cc794d9393212f07d03f38854a00f231"
 metafile = true
 
 [[files]]
+file = "mmc-pack.json"
+hash = "b4c717c1edd0d94fa8bfd1ae3d825f1002e289d17630947cc4266e195aa744cb"
+
+[[files]]
 file = "mods/adminpanel.pw.toml"
 hash = "e859c4c04048d40541b91588070670f55ee3ce8b2c94a17051f269c53f67d9be"
 metafile = true
@@ -696,6 +700,10 @@ hash = "1f2d91096f98fa90a3318967a5e8800fe2436b9f71f69949d21a148c078c8308"
 metafile = true
 
 [[files]]
+file = "options.txt"
+hash = "19b9576f399c3757079aafce7e75b09e89c6e0f952e271a314e0cf9690559187"
+
+[[files]]
 file = "resourcepacks/better-leaves.pw.toml"
 hash = "610e5e08a034d7fdda17d17f37853c1abf19f94425e0a831ced52fccb6ccb063"
 metafile = true
@@ -723,6 +731,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/mandalas-gui-dark-mode.pw.toml"
 hash = "8ed45d3cf487c5ed8736050223b1b4211d79b44587031238afae1844199727cc"
+metafile = true
+
+[[files]]
+file = "resourcepacks/rotterdam-metro-rsg3.pw.toml"
+hash = "0461698b252f7f0ca620791ad624e28df25d53dd52791c9f31dbeb3096f4d41e"
 metafile = true
 
 [[files]]
