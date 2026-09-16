@@ -724,11 +724,6 @@ hash = "6ef4d3cc75c46c4c9c021ce6a7a05d7a2c907265f0b77b5fb38d9a96511bc9c5"
 metafile = true
 
 [[files]]
-file = "resourcepacks/gghjk-server-pack.pw.toml"
-hash = "0978bbd11753620916dbe9ab5f9a962dd0f811962fc26d4492373534fc6b06d7"
-metafile = true
-
-[[files]]
 file = "resourcepacks/mandalas-gui-dark-mode.pw.toml"
 hash = "8ed45d3cf487c5ed8736050223b1b4211d79b44587031238afae1844199727cc"
 metafile = true
@@ -736,11 +731,6 @@ metafile = true
 [[files]]
 file = "resourcepacks/rotterdam-metro-rsg3.pw.toml"
 hash = "0461698b252f7f0ca620791ad624e28df25d53dd52791c9f31dbeb3096f4d41e"
-metafile = true
-
-[[files]]
-file = "resourcepacks/worldtrampack.pw.toml"
-hash = "8bd286d022792b0b1f74843a0fd0ad57384e1d20236c3e717a05d53a3c3d3876"
 metafile = true
 
 [[files]]
