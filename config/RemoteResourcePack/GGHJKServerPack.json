@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "autoUpdate": "1h",
-  "zipconfig": "https://resourcepack.cdn.gghjk.qzz.io/client_files.json",
+  "zipconfig": "https://resourcepack.cdn.gghjk.qzz.io/resourcepack/client_files.json",
   "args": {
     "poem": "random",
     "splashes": 0
