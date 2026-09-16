@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/RemoteResourcePack/GGHJKServerPack.json"
+hash = "0c74bed330731d60793839c07606da02c11bbe6222334c0144ef7e41b40274a5"
+
+[[files]]
 file = "config/drippyloadingscreen/menu-dlsoptions.pw.toml"
 hash = "958dd6616497a6b599d223905a9048ad96d88d066d97a1b649b9024b0f56ca47"
 metafile = true
@@ -340,11 +344,6 @@ hash = "b3f378eec7d8baacdb758f0aee058e662dae6ffd45606c4ea10202548bc89a25"
 metafile = true
 
 [[files]]
-file = "mods/dynamicpack.pw.toml"
-hash = "b2a5d6dce3a416affdc1ac0c50bb651f6fc99eaf60a3ed7217b024ff2885ccdc"
-metafile = true
-
-[[files]]
 file = "mods/effortless.pw.toml"
 hash = "fb15c2081315f5d57a085056246f0f2c221e318bb81564ca631220fea650bb35"
 metafile = true
@@ -562,6 +561,11 @@ metafile = true
 [[files]]
 file = "mods/reforgedplay-mod.pw.toml"
 hash = "40dec34f7a97af750702fd9ed685de0030c2a699fed776bf642aebb677943492"
+metafile = true
+
+[[files]]
+file = "mods/remote-resource-pack.pw.toml"
+hash = "2a71b1cf60de7c07ead907570bd25de3b371f4f7f15ff54ec836eb674c0e1e73"
 metafile = true
 
 [[files]]

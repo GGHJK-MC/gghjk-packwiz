@@ -1,0 +1,10 @@
+{
+  "schema": 1,
+  "autoUpdate": "1h",
+  "zipconfig": "https://resourcepack.cdn.gghjk.qzz.io/client_files.json",
+  "args": {
+    "poem": "random",
+    "splashes": 0
+  },
+  "base": "https://resourcepack.cdn.gghjk.qzz.io/zip/GGHJKServerPack.zip"
+}
