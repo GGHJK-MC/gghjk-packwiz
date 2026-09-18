@@ -1,0 +1,8 @@
+name = "GGHJKServerPack"
+side = "client"
+filename = "GGHJKServerPack.zip"
+
+[download]
+hash-format = "sha256"
+url = "https://resourcepack.cdn.gghjk.qzz.io/GGHJKServerPack.zip"
+hash = "4058bdd95bc14cb0388f939b204c02a452fb1b5c3086f4f68cc089b0f346ddcb"

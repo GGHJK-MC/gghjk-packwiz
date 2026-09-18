@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/RemoteResourcePack/GGHJKServerPack.json"
-hash = "d753158fe65384a4fc2a2a23fd7e68764050916655402d0087e22573b8bb0fb7"
-
-[[files]]
 file = "config/drippyloadingscreen/menu-dlsoptions.pw.toml"
 hash = "958dd6616497a6b599d223905a9048ad96d88d066d97a1b649b9024b0f56ca47"
 metafile = true
@@ -339,6 +335,11 @@ hash = "5496d3d66f211123ff533a216c7c6d26efd2c39c704189d05badd1454c94ae92"
 metafile = true
 
 [[files]]
+file = "mods/dynamic-pack.pw.toml"
+hash = "049dd84ec71d83d5ee9ce3b4645b80a86b3f23c9eb9f665f4029d4d3c588e696"
+metafile = true
+
+[[files]]
 file = "mods/dynamicfps.pw.toml"
 hash = "b3f378eec7d8baacdb758f0aee058e662dae6ffd45606c4ea10202548bc89a25"
 metafile = true
@@ -564,11 +565,6 @@ hash = "40dec34f7a97af750702fd9ed685de0030c2a699fed776bf642aebb677943492"
 metafile = true
 
 [[files]]
-file = "mods/remote-resource-pack.pw.toml"
-hash = "2a71b1cf60de7c07ead907570bd25de3b371f4f7f15ff54ec836eb674c0e1e73"
-metafile = true
-
-[[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "c0b066684294c33972d562e0cb08ea17b2d31bcf86cd1d6c63b8e968f0eac7a2"
 metafile = true
@@ -721,6 +717,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/fullbright-ub.pw.toml"
 hash = "6ef4d3cc75c46c4c9c021ce6a7a05d7a2c907265f0b77b5fb38d9a96511bc9c5"
+metafile = true
+
+[[files]]
+file = "resourcepacks/gghjkserverpack.pw.toml"
+hash = "b13dac9c4fc86409e9fa167ba222b734b036bf68c3a211f4b2e0768809d972f4"
 metafile = true
 
 [[files]]

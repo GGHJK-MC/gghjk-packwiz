@@ -1,0 +1,8 @@
+name = "Dynamic Pack"
+filename = "dynamicpack-1.2.3-b.1.21.1-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://github.com/GGHJK-MC/gghjk-packwiz/raw/refs/heads/master/mods1/dynamicpack-1.2.3-b.1.21.1-neoforge.jar"
+hash-format = "sha256"
+hash = "8d2069f286a2f56933a735b2c8cef389af86944ae292daf9569e0077b9dcd1de"
